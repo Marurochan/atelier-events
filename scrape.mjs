@@ -88,10 +88,11 @@ for (const tile of tiles) {
   const meta = tile.match(/class="art-ahead-event-tile-meta">([^<]*)</)?.[1];
   if (!title || !venue) continue;
 
-  // meta looks like "3 Jul up to 14 Aug — Amsterdam" or "3 Jul — Amsterdam"
-  const m = decodeEntities(meta ?? '').match(
-    /^(\d{1,2})\s+([A-Za-z]{3,})(?:\s+up to\s+\d{1,2}\s+[A-Za-z]{3,})?\s*[—–-]\s*(.+)$/
-  );
+  // meta variants: "3 Jul — Amsterdam" · "3 Jul up to 14 Aug — Amsterdam"
+  //              · "10 up to 11 Jul — Amsterdam" (same-month range, month written once)
+  const metaStr = decodeEntities(meta ?? '');
+  let m = metaStr.match(/^(\d{1,2})\s+([A-Za-z]{3,})(?:\s+up to\s+\d{1,2}\s+[A-Za-z]{3,})?\s*[—–-]\s*(.+)$/);
+  if (!m) m = metaStr.match(/^(\d{1,2})\s+up to\s+\d{1,2}\s+([A-Za-z]{3,})\s*[—–-]\s*(.+)$/);
   const date = m ? resolveDate(Number(m[1]), m[2], today) : null;
   const loc = m ? m[3].trim() : 'Amsterdam';
 
