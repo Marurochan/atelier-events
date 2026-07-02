@@ -35,10 +35,10 @@
     {
       "id": "scr-brakke-grond-lisi-estaras-monkeymind",
       "title": "Lisi Estaràs / MonkeyMind Company / Unmute Dance Company - What We Can Do Together",
-      "artist": null,
+      "artist": "Lisi Estaràs",
       "venue": "Brakke Grond",
       "loc": "Amsterdam",
-      "type": "exhibition",
+      "type": "event",
       "date": "2026-07-05",
       "url": "https://brakkegrond.nl/agenda/913/lisi-estaras-monkeymind-company-unmute-dance-company"
     },
@@ -68,7 +68,7 @@
       "artist": null,
       "venue": "Arti et Amicitiae",
       "loc": "Amsterdam",
-      "type": "exhibition",
+      "type": "event",
       "date": "2026-07-05",
       "url": "https://arti.nl/agenda/05-07-2026/de-soepboekjes-middag"
     },
@@ -78,7 +78,7 @@
       "artist": null,
       "venue": "Het Salon Ateliers",
       "loc": "Amsterdam",
-      "type": "exhibition",
+      "type": "event",
       "date": "2026-07-05",
       "url": "https://www.hetsalonateliers.com/events"
     },
@@ -88,14 +88,14 @@
       "artist": null,
       "venue": "Arti et Amicitiae",
       "loc": "Amsterdam",
-      "type": "exhibition",
+      "type": "event",
       "date": "2026-07-06",
       "url": "https://arti.nl/agenda/06-07-2026/bezoek-de-originele-arti-bibliotheek-in-het-van-gogh-museum"
     },
     {
       "id": "scr-arti-et-amicitia-ramon-jan-vet-lust-for-l",
       "title": "Ramon Jan Vet | Lust For Life",
-      "artist": null,
+      "artist": "Ramon Jan Vet",
       "venue": "Arti et Amicitiae",
       "loc": "Amsterdam",
       "type": "exhibition",
@@ -105,10 +105,10 @@
     {
       "id": "scr-brakke-grond-lisbeth-gruwez-maarten-v",
       "title": "Lisbeth Gruwez & Maarten Van Cauwenberghe / Voetvolk - Tempest",
-      "artist": null,
+      "artist": "Lisbeth Gruwez",
       "venue": "Brakke Grond",
       "loc": "Amsterdam",
-      "type": "exhibition",
+      "type": "event",
       "date": null,
       "url": "https://brakkegrond.nl/agenda/914/lisbeth-gruwez-maarten-van-cauwenberghe-voetvolk"
     },
@@ -118,7 +118,7 @@
       "artist": null,
       "venue": "Arti et Amicitiae",
       "loc": "Amsterdam",
-      "type": "exhibition",
+      "type": "event",
       "date": "2026-07-09",
       "url": "https://arti.nl/agenda/09-07-2026/drie-societeiten-diner"
     },
@@ -138,7 +138,7 @@
       "artist": null,
       "venue": "Rijksakademie",
       "loc": "Amsterdam",
-      "type": "exhibition",
+      "type": "event",
       "date": "2026-07-09",
       "url": "https://rijksakademie.nl/en/public-programme/2026-07-09-bwookshop"
     },
@@ -158,17 +158,17 @@
       "artist": null,
       "venue": "Arti et Amicitiae",
       "loc": "Amsterdam",
-      "type": "exhibition",
+      "type": "event",
       "date": "2026-07-10",
       "url": "https://arti.nl/agenda/10-07-2026/kleinkunst-en-cabaretavond-arti-shuffle"
     },
     {
       "id": "scr-brakke-grond-lisa-vereertbrugghen-cam",
       "title": "Lisa Vereertbrugghen / CAMPO - Again Forever",
-      "artist": null,
+      "artist": "Lisa Vereertbrugghen",
       "venue": "Brakke Grond",
       "loc": "Amsterdam",
-      "type": "exhibition",
+      "type": "event",
       "date": null,
       "url": "https://brakkegrond.nl/agenda/915/lisa-vereertbrugghen-campo"
     },
@@ -208,7 +208,7 @@
       "artist": null,
       "venue": "W139",
       "loc": "Amsterdam",
-      "type": "exhibition",
+      "type": "event",
       "date": "2026-07-12",
       "url": "https://w139.nl/event/gathering-grounds-a-festive-market-day/"
     },
@@ -225,7 +225,7 @@
     {
       "id": "scr-arti-et-amicitia-fredie-beckmans-salon-en",
       "title": "Fredie Beckmans | SALON ENSEMBLE",
-      "artist": null,
+      "artist": "Fredie Beckmans",
       "venue": "Arti et Amicitiae",
       "loc": "Amsterdam",
       "type": "exhibition",
@@ -238,7 +238,7 @@
       "artist": null,
       "venue": "Luther Museum",
       "loc": "Amsterdam",
-      "type": "exhibition",
+      "type": "event",
       "date": "2026-07-16",
       "url": "https://luthermuseum.nl/nl/agenda/queer-movie-night"
     },
@@ -275,7 +275,7 @@
     {
       "id": "scr-arti-et-amicitia-ying-shan-hu-grachtenfes",
       "title": "Ying Shan Hu | Grachtenfestival",
-      "artist": null,
+      "artist": "Ying Shan Hu",
       "venue": "Arti et Amicitiae",
       "loc": "Amsterdam",
       "type": "exhibition",
@@ -298,7 +298,7 @@
       "artist": null,
       "venue": "Brakke Grond",
       "loc": "Amsterdam",
-      "type": "exhibition",
+      "type": "event",
       "date": null,
       "url": "https://brakkegrond.nl/agenda/968/nederlands-theater-festival"
     },
@@ -308,14 +308,14 @@
       "artist": null,
       "venue": "Brakke Grond",
       "loc": "Amsterdam",
-      "type": "exhibition",
+      "type": "event",
       "date": null,
       "url": "https://brakkegrond.nl/agenda/967/amsterdam-fringe-festival"
     },
     {
       "id": "scr-akinci-maria-roosen-express",
       "title": "Maria Roosen | EXPRESS",
-      "artist": null,
+      "artist": "Maria Roosen",
       "venue": "AKINCI",
       "loc": "Amsterdam",
       "type": "exhibition",
@@ -335,7 +335,7 @@
     {
       "id": "scr-grimm-robert-zandvliet",
       "title": "Robert Zandvliet",
-      "artist": null,
+      "artist": "Robert Zandvliet",
       "venue": "GRIMM",
       "loc": "Amsterdam",
       "type": "exhibition",
@@ -345,7 +345,7 @@
     {
       "id": "scr-slewe-gallery-paul-drissen-ama",
       "title": "Paul Drissen, Ama",
-      "artist": null,
+      "artist": "Paul Drissen",
       "venue": "Slewe Gallery",
       "loc": "Amsterdam",
       "type": "exhibition",
@@ -375,17 +375,17 @@
     {
       "id": "scr-arti-et-amicitia-update-talk-david-veldho",
       "title": "UPDATE TALK | David Veldhoen en Jacqueline Verhaagen",
-      "artist": null,
+      "artist": "David Veldhoen",
       "venue": "Arti et Amicitiae",
       "loc": "Amsterdam",
-      "type": "exhibition",
+      "type": "event",
       "date": "2026-09-10",
       "url": "https://arti.nl/agenda/10-09-2026/update-talk-david-veldhoen-en-jacqueline-verhaagen"
     },
     {
       "id": "scr-stedelijk-museum-yayoi-kusama",
       "title": "Yayoi Kusama",
-      "artist": null,
+      "artist": "Yayoi Kusama",
       "venue": "Stedelijk Museum",
       "loc": "Amsterdam",
       "type": "exhibition",
@@ -425,7 +425,7 @@
     {
       "id": "scr-foam-keerthana-kunnath",
       "title": "Keerthana Kunnath",
-      "artist": null,
+      "artist": "Keerthana Kunnath",
       "venue": "FOAM",
       "loc": "Amsterdam",
       "type": "exhibition",
@@ -435,7 +435,7 @@
     {
       "id": "scr-foam-nadav-kander",
       "title": "Nadav Kander",
-      "artist": null,
+      "artist": "Nadav Kander",
       "venue": "FOAM",
       "loc": "Amsterdam",
       "type": "exhibition",
@@ -445,7 +445,7 @@
     {
       "id": "scr-foam-hailun-ma",
       "title": "Hailun Ma",
-      "artist": null,
+      "artist": "Hailun Ma",
       "venue": "FOAM",
       "loc": "Amsterdam",
       "type": "exhibition",
@@ -468,7 +468,7 @@
       "artist": null,
       "venue": "Brakke Grond",
       "loc": "Amsterdam",
-      "type": "exhibition",
+      "type": "event",
       "date": "2026-09-18",
       "url": "https://brakkegrond.nl/agenda/959/banket"
     },
@@ -478,7 +478,7 @@
       "artist": null,
       "venue": "Brakke Grond",
       "loc": "Amsterdam",
-      "type": "exhibition",
+      "type": "event",
       "date": "2026-09-28",
       "url": "https://brakkegrond.nl/agenda/965/de-nwe-tijd"
     },
@@ -498,14 +498,14 @@
       "artist": null,
       "venue": "Brakke Grond",
       "loc": "Amsterdam",
-      "type": "exhibition",
+      "type": "event",
       "date": null,
       "url": "https://brakkegrond.nl/agenda/938/afrovibes-festival-2026"
     },
     {
       "id": "scr-stedelijk-museum-adam-pendleton",
       "title": "Adam Pendleton",
-      "artist": null,
+      "artist": "Adam Pendleton",
       "venue": "Stedelijk Museum",
       "loc": "Amsterdam",
       "type": "exhibition",
@@ -525,7 +525,7 @@
     {
       "id": "scr-foam-myriam-boulos",
       "title": "Myriam Boulos",
-      "artist": null,
+      "artist": "Myriam Boulos",
       "venue": "FOAM",
       "loc": "Amsterdam",
       "type": "exhibition",
@@ -535,7 +535,7 @@
     {
       "id": "scr-oude-kerk-mire-lee",
       "title": "Mire Lee",
-      "artist": null,
+      "artist": "Mire Lee",
       "venue": "Oude Kerk",
       "loc": "Amsterdam",
       "type": "exhibition",
@@ -545,7 +545,7 @@
     {
       "id": "scr-akinci-patricia-kaersenhout",
       "title": "patricia kaersenhout",
-      "artist": null,
+      "artist": "patricia kaersenhout",
       "venue": "AKINCI",
       "loc": "Amsterdam",
       "type": "exhibition",
@@ -565,10 +565,10 @@
     {
       "id": "scr-galerie-onrust-ernst-van-alphen-re-echa",
       "title": "Ernst van Alphen | \"Re-Echanting Photography\" in cooperation with Valiz Publishers | Book presentation + Interview  | Nov 21  2026",
-      "artist": null,
+      "artist": "Ernst van Alphen",
       "venue": "Galerie Onrust",
       "loc": "Amsterdam",
-      "type": "exhibition",
+      "type": "event",
       "date": "2026-11-21",
       "url": "https://www.galerieonrust.nl/news/ernst-van-alphen-book-presentation-interview-re-echanting-photography-in-cooperation-with-valiz-publishers-november-7-8-2026"
     },
@@ -585,7 +585,7 @@
     {
       "id": "scr-galerie-onrust-emma-talbot-is-joy-a-reb",
       "title": "Emma Talbot | Is Joy a Rebellious Act? | Exhibition | Nov 28 - Dec 24 2026",
-      "artist": null,
+      "artist": "Emma Talbot",
       "venue": "Galerie Onrust",
       "loc": "Amsterdam",
       "type": "exhibition",
