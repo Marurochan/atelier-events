@@ -1,0 +1,596 @@
+{
+  "source": "amsterdam-art-agenda (weekly GitHub Action)",
+  "generatedAt": "2026-07-02",
+  "events": [
+    {
+      "id": "scr-de-appel-building-a-house-without",
+      "title": "Building a House Without Bricks",
+      "artist": null,
+      "venue": "De Appel",
+      "loc": "Amsterdam",
+      "type": "exhibition",
+      "date": "2026-07-03",
+      "url": "https://www.deappel.nl/nl/archive/events/1346-building-a-house-without-bricks"
+    },
+    {
+      "id": "scr-de-appel-tiener-curatoren-keep-it",
+      "title": "Tiener Curatoren: Keep It-Posted",
+      "artist": null,
+      "venue": "De Appel",
+      "loc": "Amsterdam",
+      "type": "exhibition",
+      "date": "2026-07-03",
+      "url": "https://www.deappel.nl/nl/archive/events/1356-tiener-curatoren-keep-it-posted"
+    },
+    {
+      "id": "scr-cbk-zuidoost-zomersalon-royaal-utopia",
+      "title": "ZomerSalon Royaal: Utopia",
+      "artist": null,
+      "venue": "CBK Zuidoost",
+      "loc": "Amsterdam",
+      "type": "exhibition",
+      "date": "2026-07-04",
+      "url": "https://www.cbkzuidoost.nl/tentoonstellingen/nu-en-verwacht/zomersalon-royaal-utopia/"
+    },
+    {
+      "id": "scr-brakke-grond-lisi-estaras-monkeymind",
+      "title": "Lisi Estaràs / MonkeyMind Company / Unmute Dance Company - What We Can Do Together",
+      "artist": "Lisi Estaràs",
+      "venue": "Brakke Grond",
+      "loc": "Amsterdam",
+      "type": "event",
+      "date": "2026-07-05",
+      "url": "https://brakkegrond.nl/agenda/913/lisi-estaras-monkeymind-company-unmute-dance-company"
+    },
+    {
+      "id": "scr-luther-museum-duo-pleyel-ons-geloof-is",
+      "title": "Duo Pleyel: Ons Geloof is Liefde",
+      "artist": null,
+      "venue": "Luther Museum",
+      "loc": "Amsterdam",
+      "type": "exhibition",
+      "date": "2026-07-05",
+      "url": "https://luthermuseum.nl/nl/agenda/duo-pleyel-queerconcert"
+    },
+    {
+      "id": "scr-stedelijk-museum-post-no-bills-6",
+      "title": "Post/No/Bills #6",
+      "artist": null,
+      "venue": "Stedelijk Museum",
+      "loc": "Amsterdam",
+      "type": "exhibition",
+      "date": "2026-07-05",
+      "url": "https://www.stedelijk.nl/en/exhibitions/EN-post-no-bills-6"
+    },
+    {
+      "id": "scr-arti-et-amicitia-de-soepboekjes-middag",
+      "title": "De Soepboekjes Middag",
+      "artist": null,
+      "venue": "Arti et Amicitiae",
+      "loc": "Amsterdam",
+      "type": "event",
+      "date": "2026-07-05",
+      "url": "https://arti.nl/agenda/05-07-2026/de-soepboekjes-middag"
+    },
+    {
+      "id": "scr-het-salon-atelie-casual-sunday-afternoon",
+      "title": "Casual Sunday Afternoon Rope Jam",
+      "artist": null,
+      "venue": "Het Salon Ateliers",
+      "loc": "Amsterdam",
+      "type": "event",
+      "date": "2026-07-05",
+      "url": "https://www.hetsalonateliers.com/events"
+    },
+    {
+      "id": "scr-arti-et-amicitia-bezoek-de-originele-arti",
+      "title": "Bezoek de originele Arti-bibliotheek in het Van Gogh Museum",
+      "artist": null,
+      "venue": "Arti et Amicitiae",
+      "loc": "Amsterdam",
+      "type": "event",
+      "date": "2026-07-06",
+      "url": "https://arti.nl/agenda/06-07-2026/bezoek-de-originele-arti-bibliotheek-in-het-van-gogh-museum"
+    },
+    {
+      "id": "scr-arti-et-amicitia-ramon-jan-vet-lust-for-l",
+      "title": "Ramon Jan Vet | Lust For Life",
+      "artist": "Ramon Jan Vet",
+      "venue": "Arti et Amicitiae",
+      "loc": "Amsterdam",
+      "type": "exhibition",
+      "date": null,
+      "url": "https://arti.nl/agenda/06-07-2026/ramon-jan-vet-lust-for-life"
+    },
+    {
+      "id": "scr-brakke-grond-lisbeth-gruwez-maarten-v",
+      "title": "Lisbeth Gruwez & Maarten Van Cauwenberghe / Voetvolk - Tempest",
+      "artist": "Lisbeth Gruwez",
+      "venue": "Brakke Grond",
+      "loc": "Amsterdam",
+      "type": "event",
+      "date": null,
+      "url": "https://brakkegrond.nl/agenda/914/lisbeth-gruwez-maarten-van-cauwenberghe-voetvolk"
+    },
+    {
+      "id": "scr-arti-et-amicitia-drie-societeiten-diner",
+      "title": "Drie Sociëteiten Diner",
+      "artist": null,
+      "venue": "Arti et Amicitiae",
+      "loc": "Amsterdam",
+      "type": "event",
+      "date": "2026-07-09",
+      "url": "https://arti.nl/agenda/09-07-2026/drie-societeiten-diner"
+    },
+    {
+      "id": "scr-de-appel-unlearning-maps-each-sma",
+      "title": "Unlearning Maps: Each Small Candle Lights a Corner of the Dark",
+      "artist": null,
+      "venue": "De Appel",
+      "loc": "Amsterdam",
+      "type": "exhibition",
+      "date": "2026-07-09",
+      "url": "https://www.deappel.nl/nl/archive/events/1357-unlearning-maps-each-small-candle-lights-a-corner-of-the-dark"
+    },
+    {
+      "id": "scr-rijksakademie-bwookshop",
+      "title": "BWookshop",
+      "artist": null,
+      "venue": "Rijksakademie",
+      "loc": "Amsterdam",
+      "type": "exhibition",
+      "date": "2026-07-09",
+      "url": "https://rijksakademie.nl/en/public-programme/2026-07-09-bwookshop"
+    },
+    {
+      "id": "scr-no-man-s-art-gal-kiosk-dress-rehearsal-el",
+      "title": "KIOSK: Dress Rehearsal | Elisabeth Prehn & Zwaantje Kurpershoek",
+      "artist": null,
+      "venue": "No Man's Art Gallery",
+      "loc": "Amsterdam",
+      "type": "exhibition",
+      "date": null,
+      "url": "https://www.nomansart.com/exhibitions-3/dressrehearsal-z3mlw-zbbyh-mfr9z"
+    },
+    {
+      "id": "scr-arti-et-amicitia-kleinkunst-en-cabaretavo",
+      "title": "Kleinkunst- en cabaretavond - Arti Shuffle",
+      "artist": null,
+      "venue": "Arti et Amicitiae",
+      "loc": "Amsterdam",
+      "type": "event",
+      "date": "2026-07-10",
+      "url": "https://arti.nl/agenda/10-07-2026/kleinkunst-en-cabaretavond-arti-shuffle"
+    },
+    {
+      "id": "scr-brakke-grond-lisa-vereertbrugghen-cam",
+      "title": "Lisa Vereertbrugghen / CAMPO - Again Forever",
+      "artist": "Lisa Vereertbrugghen",
+      "venue": "Brakke Grond",
+      "loc": "Amsterdam",
+      "type": "event",
+      "date": null,
+      "url": "https://brakkegrond.nl/agenda/915/lisa-vereertbrugghen-campo"
+    },
+    {
+      "id": "scr-luther-museum-ons-geloof-is-liefde",
+      "title": "Ons Geloof is Liefde",
+      "artist": null,
+      "venue": "Luther Museum",
+      "loc": "Amsterdam",
+      "type": "exhibition",
+      "date": "2026-07-10",
+      "url": "https://luthermuseum.nl/nl/agenda/ons-geloof-is-liefde"
+    },
+    {
+      "id": "scr-luther-museum-we-carry-forward-queer-h",
+      "title": "We Carry Forward. Queer Horizons of Imagination",
+      "artist": null,
+      "venue": "Luther Museum",
+      "loc": "Amsterdam",
+      "type": "exhibition",
+      "date": "2026-07-10",
+      "url": "https://luthermuseum.nl/nl/agenda/we-carry-forward-queer-horizons-of-imagination"
+    },
+    {
+      "id": "scr-josilda-da-conce-colluding-paradox",
+      "title": "Colluding Paradox",
+      "artist": null,
+      "venue": "Josilda da Conceicao",
+      "loc": "Amsterdam",
+      "type": "exhibition",
+      "date": "2026-07-11",
+      "url": "https://www.josildadaconceicao.com/exhibitions#colluding-paradox"
+    },
+    {
+      "id": "scr-w139-gathering-grounds-een-fe",
+      "title": "gathering grounds: een feestelijke marktdag",
+      "artist": null,
+      "venue": "W139",
+      "loc": "Amsterdam",
+      "type": "event",
+      "date": "2026-07-12",
+      "url": "https://w139.nl/event/gathering-grounds-a-festive-market-day/"
+    },
+    {
+      "id": "scr-dudokdegroot-summershow",
+      "title": "SummerShow",
+      "artist": null,
+      "venue": "dudokdegroot",
+      "loc": "Amsterdam",
+      "type": "exhibition",
+      "date": "2026-07-12",
+      "url": "https://www.dudokdegroot.nl/tentoonstellingen/summershow"
+    },
+    {
+      "id": "scr-arti-et-amicitia-fredie-beckmans-salon-en",
+      "title": "Fredie Beckmans | SALON ENSEMBLE",
+      "artist": "Fredie Beckmans",
+      "venue": "Arti et Amicitiae",
+      "loc": "Amsterdam",
+      "type": "exhibition",
+      "date": null,
+      "url": "https://arti.nl/agenda/13-07-2026/fredie-beckmans-salon-ensemble"
+    },
+    {
+      "id": "scr-luther-museum-queer-movie-night",
+      "title": "Queer Movie Night",
+      "artist": null,
+      "venue": "Luther Museum",
+      "loc": "Amsterdam",
+      "type": "event",
+      "date": "2026-07-16",
+      "url": "https://luthermuseum.nl/nl/agenda/queer-movie-night"
+    },
+    {
+      "id": "scr-galerie-ron-mand-best-of-graduates-2026",
+      "title": "Best of Graduates 2026",
+      "artist": null,
+      "venue": "Galerie Ron Mandos",
+      "loc": "Amsterdam",
+      "type": "exhibition",
+      "date": "2026-07-24",
+      "url": "https://ronmandos.nl/exhibition/best-of-graduates-2026/"
+    },
+    {
+      "id": "scr-de-appel-de-appel-kiosk-the-glean",
+      "title": "de Appel Kiosk: The Gleaners",
+      "artist": null,
+      "venue": "De Appel",
+      "loc": "Amsterdam",
+      "type": "exhibition",
+      "date": "2026-07-29",
+      "url": "https://www.deappel.nl/nl/archive/events/1352-de-appel-kiosk-the-gleaners"
+    },
+    {
+      "id": "scr-de-appel-de-appel-kiosk-linzi-s-p",
+      "title": "de Appel Kiosk: Linzi's Party Supplies",
+      "artist": null,
+      "venue": "De Appel",
+      "loc": "Amsterdam",
+      "type": "exhibition",
+      "date": "2026-07-30",
+      "url": "https://www.deappel.nl/nl/archive/events/1351-de-appel-kiosk-linzi-s-party-supplies"
+    },
+    {
+      "id": "scr-arti-et-amicitia-ying-shan-hu-grachtenfes",
+      "title": "Ying Shan Hu | Grachtenfestival",
+      "artist": "Ying Shan Hu",
+      "venue": "Arti et Amicitiae",
+      "loc": "Amsterdam",
+      "type": "exhibition",
+      "date": "2026-08-09",
+      "url": "https://arti.nl/agenda/09-08-2026/ying-shan-hu-grachtenfestival"
+    },
+    {
+      "id": "scr-de-appel-what-s-next-iteration-ii",
+      "title": "What's next? Iteration II: Mapping Uneven Temporal Infrastructures",
+      "artist": null,
+      "venue": "De Appel",
+      "loc": "Amsterdam",
+      "type": "exhibition",
+      "date": "2026-08-12",
+      "url": "https://www.deappel.nl/nl/archive/events/1359-what-s-next-iteration-ii-mapping-uneven-temporal-infrastructures"
+    },
+    {
+      "id": "scr-brakke-grond-nederlands-theater-festi",
+      "title": "Nederlands Theater Festival",
+      "artist": null,
+      "venue": "Brakke Grond",
+      "loc": "Amsterdam",
+      "type": "event",
+      "date": null,
+      "url": "https://brakkegrond.nl/agenda/968/nederlands-theater-festival"
+    },
+    {
+      "id": "scr-brakke-grond-amsterdam-fringe-festiva",
+      "title": "Amsterdam Fringe Festival - Hét experimentele, multidisciplinair showcasefestival!",
+      "artist": null,
+      "venue": "Brakke Grond",
+      "loc": "Amsterdam",
+      "type": "event",
+      "date": null,
+      "url": "https://brakkegrond.nl/agenda/967/amsterdam-fringe-festival"
+    },
+    {
+      "id": "scr-akinci-maria-roosen-express",
+      "title": "Maria Roosen | EXPRESS",
+      "artist": "Maria Roosen",
+      "venue": "AKINCI",
+      "loc": "Amsterdam",
+      "type": "exhibition",
+      "date": "2026-09-04",
+      "url": "https://akinci.nl/exhibitions/#maria-roosen-express"
+    },
+    {
+      "id": "scr-w139-the-nature-of-rememberin",
+      "title": "The Nature of Remembering",
+      "artist": null,
+      "venue": "W139",
+      "loc": "Amsterdam",
+      "type": "exhibition",
+      "date": "2026-09-04",
+      "url": "https://w139.nl/event/the-nature-of-remembering/"
+    },
+    {
+      "id": "scr-grimm-robert-zandvliet",
+      "title": "Robert Zandvliet",
+      "artist": "Robert Zandvliet",
+      "venue": "GRIMM",
+      "loc": "Amsterdam",
+      "type": "exhibition",
+      "date": "2026-09-05",
+      "url": "https://grimmgallery.com/exhibitions/374-robert-zandvliet/"
+    },
+    {
+      "id": "scr-slewe-gallery-paul-drissen-ama",
+      "title": "Paul Drissen, Ama",
+      "artist": "Paul Drissen",
+      "venue": "Slewe Gallery",
+      "loc": "Amsterdam",
+      "type": "exhibition",
+      "date": "2026-09-05",
+      "url": "https://www.slewe.nl/exhibitions/2026#pauldrissenama"
+    },
+    {
+      "id": "scr-josilda-da-conce-the-bear-prefers-to-rema",
+      "title": "The bear prefers to remain silent",
+      "artist": null,
+      "venue": "Josilda da Conceicao",
+      "loc": "Amsterdam",
+      "type": "exhibition",
+      "date": "2026-09-06",
+      "url": "https://www.josildadaconceicao.com/exhibitions#-the-bear-prefers-to-remain-silent"
+    },
+    {
+      "id": "scr-luther-museum-duo-pleyel-ons-geloof-isx",
+      "title": "Duo Pleyel: Ons Geloof is Liefde",
+      "artist": null,
+      "venue": "Luther Museum",
+      "loc": "Amsterdam",
+      "type": "exhibition",
+      "date": "2026-09-06",
+      "url": "https://luthermuseum.nl/nl/agenda/duo-pleyel-ons-geloof-is-liefde"
+    },
+    {
+      "id": "scr-arti-et-amicitia-update-talk-david-veldho",
+      "title": "UPDATE TALK | David Veldhoen en Jacqueline Verhaagen",
+      "artist": null,
+      "venue": "Arti et Amicitiae",
+      "loc": "Amsterdam",
+      "type": "event",
+      "date": "2026-09-10",
+      "url": "https://arti.nl/agenda/10-09-2026/update-talk-david-veldhoen-en-jacqueline-verhaagen"
+    },
+    {
+      "id": "scr-stedelijk-museum-yayoi-kusama",
+      "title": "Yayoi Kusama",
+      "artist": "Yayoi Kusama",
+      "venue": "Stedelijk Museum",
+      "loc": "Amsterdam",
+      "type": "exhibition",
+      "date": "2026-09-11",
+      "url": "https://www.stedelijk.nl/en/exhibitions/yayoi-kusama-en"
+    },
+    {
+      "id": "scr-framer-framed-secret-arts-teachers",
+      "title": "Secret Arts Teachers",
+      "artist": null,
+      "venue": "Framer Framed",
+      "loc": "Amsterdam",
+      "type": "exhibition",
+      "date": null,
+      "url": "https://framerframed.nl/exposities/secret-arts-teachers/"
+    },
+    {
+      "id": "scr-galerie-onrust-terra-a-landscape-of-mor",
+      "title": "Terra  | A Landscape of More Unresolved Questions | Exhibition | Sept 12 - Oct 10 2026",
+      "artist": null,
+      "venue": "Galerie Onrust",
+      "loc": "Amsterdam",
+      "type": "exhibition",
+      "date": "2026-09-12",
+      "url": "https://www.galerieonrust.nl/news/nick-terra-still-life-september-12-october-17-2026"
+    },
+    {
+      "id": "scr-de-ateliers-unfair-26",
+      "title": "‘Unfair 26’",
+      "artist": null,
+      "venue": "De Ateliers",
+      "loc": "Amsterdam",
+      "type": "fair",
+      "date": null,
+      "url": "https://www.de-ateliers.nl/event/unfair-26/"
+    },
+    {
+      "id": "scr-foam-keerthana-kunnath",
+      "title": "Keerthana Kunnath",
+      "artist": "Keerthana Kunnath",
+      "venue": "FOAM",
+      "loc": "Amsterdam",
+      "type": "exhibition",
+      "date": "2026-09-18",
+      "url": "https://www.foam.org/events/keerthana-kunnath"
+    },
+    {
+      "id": "scr-foam-nadav-kander",
+      "title": "Nadav Kander",
+      "artist": "Nadav Kander",
+      "venue": "FOAM",
+      "loc": "Amsterdam",
+      "type": "exhibition",
+      "date": "2026-09-18",
+      "url": "https://www.foam.org/events/nadav-kander"
+    },
+    {
+      "id": "scr-foam-hailun-ma",
+      "title": "Hailun Ma",
+      "artist": "Hailun Ma",
+      "venue": "FOAM",
+      "loc": "Amsterdam",
+      "type": "exhibition",
+      "date": "2026-09-18",
+      "url": "https://www.foam.org/events/hailun-ma"
+    },
+    {
+      "id": "scr-brakke-grond-wayward-sanctuaries",
+      "title": "Wayward Sanctuaries",
+      "artist": null,
+      "venue": "Brakke Grond",
+      "loc": "Amsterdam",
+      "type": "exhibition",
+      "date": "2026-09-18",
+      "url": "https://brakkegrond.nl/agenda/922/wayward-sanctuaries"
+    },
+    {
+      "id": "scr-brakke-grond-banket-voorproefje-seizo",
+      "title": "BANKET - Voorproefje seizoen",
+      "artist": null,
+      "venue": "Brakke Grond",
+      "loc": "Amsterdam",
+      "type": "event",
+      "date": "2026-09-18",
+      "url": "https://brakkegrond.nl/agenda/959/banket"
+    },
+    {
+      "id": "scr-brakke-grond-de-nwe-tijd-maandagavond",
+      "title": "De Nwe Tijd - Maandagavond on Tour: XL",
+      "artist": null,
+      "venue": "Brakke Grond",
+      "loc": "Amsterdam",
+      "type": "event",
+      "date": "2026-09-28",
+      "url": "https://brakkegrond.nl/agenda/965/de-nwe-tijd"
+    },
+    {
+      "id": "scr-foam-middle-east-archive",
+      "title": "Middle East Archive",
+      "artist": null,
+      "venue": "FOAM",
+      "loc": "Amsterdam",
+      "type": "exhibition",
+      "date": null,
+      "url": "https://www.foam.org/events/middle-east-archive"
+    },
+    {
+      "id": "scr-brakke-grond-afrovibes-festival-2026",
+      "title": "Afrovibes Festival 2026 - Soil / Soul",
+      "artist": null,
+      "venue": "Brakke Grond",
+      "loc": "Amsterdam",
+      "type": "event",
+      "date": null,
+      "url": "https://brakkegrond.nl/agenda/938/afrovibes-festival-2026"
+    },
+    {
+      "id": "scr-stedelijk-museum-adam-pendleton",
+      "title": "Adam Pendleton",
+      "artist": "Adam Pendleton",
+      "venue": "Stedelijk Museum",
+      "loc": "Amsterdam",
+      "type": "exhibition",
+      "date": "2026-10-09",
+      "url": "https://www.stedelijk.nl/en/exhibitions/adam-pendleton-en"
+    },
+    {
+      "id": "scr-josilda-da-conce-untitled",
+      "title": "Untitled",
+      "artist": null,
+      "venue": "Josilda da Conceicao",
+      "loc": "Amsterdam",
+      "type": "exhibition",
+      "date": null,
+      "url": "https://www.josildadaconceicao.com/exhibitions#-untitled"
+    },
+    {
+      "id": "scr-foam-myriam-boulos",
+      "title": "Myriam Boulos",
+      "artist": "Myriam Boulos",
+      "venue": "FOAM",
+      "loc": "Amsterdam",
+      "type": "exhibition",
+      "date": "2026-10-16",
+      "url": "https://www.foam.org/events/myriam-boulos"
+    },
+    {
+      "id": "scr-oude-kerk-mire-lee",
+      "title": "Mire Lee",
+      "artist": "Mire Lee",
+      "venue": "Oude Kerk",
+      "loc": "Amsterdam",
+      "type": "exhibition",
+      "date": "2026-11-13",
+      "url": "https://www.oudekerk.nl/nu-te-zien/tentoonstellingen/mire-lee/45360"
+    },
+    {
+      "id": "scr-akinci-patricia-kaersenhout",
+      "title": "patricia kaersenhout",
+      "artist": "patricia kaersenhout",
+      "venue": "AKINCI",
+      "loc": "Amsterdam",
+      "type": "exhibition",
+      "date": "2026-11-18",
+      "url": "https://akinci.nl/exhibitions/#patricia-kaersenhout"
+    },
+    {
+      "id": "scr-josilda-da-conce-maracutaia",
+      "title": "MARACUTAIA",
+      "artist": null,
+      "venue": "Josilda da Conceicao",
+      "loc": "Amsterdam",
+      "type": "exhibition",
+      "date": "2026-11-19",
+      "url": "https://www.josildadaconceicao.com/exhibitions#maracutaia"
+    },
+    {
+      "id": "scr-galerie-onrust-ernst-van-alphen-re-echa",
+      "title": "Ernst van Alphen | \"Re-Echanting Photography\" in cooperation with Valiz Publishers | Book presentation + Interview  | Nov 21  2026",
+      "artist": "Ernst van Alphen",
+      "venue": "Galerie Onrust",
+      "loc": "Amsterdam",
+      "type": "event",
+      "date": "2026-11-21",
+      "url": "https://www.galerieonrust.nl/news/ernst-van-alphen-book-presentation-interview-re-echanting-photography-in-cooperation-with-valiz-publishers-november-7-8-2026"
+    },
+    {
+      "id": "scr-stedelijk-museum-collaborative-artistic-p",
+      "title": "Collaborative Artistic Practices - Proposals for the Museum Collection",
+      "artist": null,
+      "venue": "Stedelijk Museum",
+      "loc": "Amsterdam",
+      "type": "exhibition",
+      "date": "2026-11-28",
+      "url": "https://www.stedelijk.nl/en/exhibitions/collaborative-artistic-practices-proposals-museum-collection"
+    },
+    {
+      "id": "scr-galerie-onrust-emma-talbot-is-joy-a-reb",
+      "title": "Emma Talbot | Is Joy a Rebellious Act? | Exhibition | Nov 28 - Dec 24 2026",
+      "artist": "Emma Talbot",
+      "venue": "Galerie Onrust",
+      "loc": "Amsterdam",
+      "type": "exhibition",
+      "date": "2026-11-28",
+      "url": "https://www.galerieonrust.nl/news/emma-talbot-can-joy-be-a-rebellious-act-november-28-december-24-2026"
+    }
+  ]
+}

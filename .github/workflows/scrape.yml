@@ -1,0 +1,36 @@
+name: Scrape events
+
+on:
+  schedule:
+    - cron: '17 5 * * 1' # Mondays 05:17 UTC — weekly refresh
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Scrape + extract
+        run: node scrape.mjs
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+
+      - name: Commit fresh JSON
+        run: |
+          if git diff --quiet scraped-events.json; then
+            echo "No changes — nothing to commit."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add scraped-events.json
+          git commit -m "Weekly scrape: $(date -u +%F)"
+          git push
