@@ -99,17 +99,17 @@
       "venue": "Arti et Amicitiae",
       "loc": "Amsterdam",
       "type": "exhibition",
-      "date": null,
+      "date": "2026-07-06",
       "url": "https://arti.nl/agenda/06-07-2026/ramon-jan-vet-lust-for-life"
     },
     {
       "id": "scr-brakke-grond-lisbeth-gruwez-maarten-v",
       "title": "Lisbeth Gruwez & Maarten Van Cauwenberghe / Voetvolk - Tempest",
-      "artist": "Lisbeth Gruwez",
+      "artist": null,
       "venue": "Brakke Grond",
       "loc": "Amsterdam",
       "type": "event",
-      "date": null,
+      "date": "2026-07-07",
       "url": "https://brakkegrond.nl/agenda/914/lisbeth-gruwez-maarten-van-cauwenberghe-voetvolk"
     },
     {
@@ -149,7 +149,7 @@
       "venue": "No Man's Art Gallery",
       "loc": "Amsterdam",
       "type": "exhibition",
-      "date": null,
+      "date": "2026-07-09",
       "url": "https://www.nomansart.com/exhibitions-3/dressrehearsal-z3mlw-zbbyh-mfr9z"
     },
     {
@@ -169,7 +169,7 @@
       "venue": "Brakke Grond",
       "loc": "Amsterdam",
       "type": "event",
-      "date": null,
+      "date": "2026-07-10",
       "url": "https://brakkegrond.nl/agenda/915/lisa-vereertbrugghen-campo"
     },
     {
@@ -229,7 +229,7 @@
       "venue": "Arti et Amicitiae",
       "loc": "Amsterdam",
       "type": "exhibition",
-      "date": null,
+      "date": "2026-07-13",
       "url": "https://arti.nl/agenda/13-07-2026/fredie-beckmans-salon-ensemble"
     },
     {
@@ -299,7 +299,7 @@
       "venue": "Brakke Grond",
       "loc": "Amsterdam",
       "type": "event",
-      "date": null,
+      "date": "2026-09-03",
       "url": "https://brakkegrond.nl/agenda/968/nederlands-theater-festival"
     },
     {
@@ -309,7 +309,7 @@
       "venue": "Brakke Grond",
       "loc": "Amsterdam",
       "type": "event",
-      "date": null,
+      "date": "2026-09-03",
       "url": "https://brakkegrond.nl/agenda/967/amsterdam-fringe-festival"
     },
     {
@@ -375,7 +375,7 @@
     {
       "id": "scr-arti-et-amicitia-update-talk-david-veldho",
       "title": "UPDATE TALK | David Veldhoen en Jacqueline Verhaagen",
-      "artist": "David Veldhoen",
+      "artist": null,
       "venue": "Arti et Amicitiae",
       "loc": "Amsterdam",
       "type": "event",
@@ -399,7 +399,7 @@
       "venue": "Framer Framed",
       "loc": "Amsterdam",
       "type": "exhibition",
-      "date": null,
+      "date": "2026-09-12",
       "url": "https://framerframed.nl/exposities/secret-arts-teachers/"
     },
     {
@@ -419,7 +419,7 @@
       "venue": "De Ateliers",
       "loc": "Amsterdam",
       "type": "fair",
-      "date": null,
+      "date": "2026-09-17",
       "url": "https://www.de-ateliers.nl/event/unfair-26/"
     },
     {
@@ -489,7 +489,7 @@
       "venue": "FOAM",
       "loc": "Amsterdam",
       "type": "exhibition",
-      "date": null,
+      "date": "2026-10-01",
       "url": "https://www.foam.org/events/middle-east-archive"
     },
     {
@@ -499,7 +499,7 @@
       "venue": "Brakke Grond",
       "loc": "Amsterdam",
       "type": "event",
-      "date": null,
+      "date": "2026-10-01",
       "url": "https://brakkegrond.nl/agenda/938/afrovibes-festival-2026"
     },
     {
@@ -519,7 +519,7 @@
       "venue": "Josilda da Conceicao",
       "loc": "Amsterdam",
       "type": "exhibition",
-      "date": null,
+      "date": "2026-10-10",
       "url": "https://www.josildadaconceicao.com/exhibitions#-untitled"
     },
     {
