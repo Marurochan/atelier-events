@@ -1,107 +1,7 @@
 {
   "source": "amsterdam-art-agenda (weekly GitHub Action)",
-  "generatedAt": "2026-07-02",
+  "generatedAt": "2026-07-06",
   "events": [
-    {
-      "id": "scr-de-appel-building-a-house-without",
-      "title": "Building a House Without Bricks",
-      "artist": null,
-      "venue": "De Appel",
-      "loc": "Amsterdam",
-      "type": "exhibition",
-      "date": "2026-07-03",
-      "url": "https://www.deappel.nl/nl/archive/events/1346-building-a-house-without-bricks"
-    },
-    {
-      "id": "scr-de-appel-tiener-curatoren-keep-it",
-      "title": "Tiener Curatoren: Keep It-Posted",
-      "artist": null,
-      "venue": "De Appel",
-      "loc": "Amsterdam",
-      "type": "exhibition",
-      "date": "2026-07-03",
-      "url": "https://www.deappel.nl/nl/archive/events/1356-tiener-curatoren-keep-it-posted"
-    },
-    {
-      "id": "scr-cbk-zuidoost-zomersalon-royaal-utopia",
-      "title": "ZomerSalon Royaal: Utopia",
-      "artist": null,
-      "venue": "CBK Zuidoost",
-      "loc": "Amsterdam",
-      "type": "exhibition",
-      "date": "2026-07-04",
-      "url": "https://www.cbkzuidoost.nl/tentoonstellingen/nu-en-verwacht/zomersalon-royaal-utopia/"
-    },
-    {
-      "id": "scr-brakke-grond-lisi-estaras-monkeymind",
-      "title": "Lisi Estaràs / MonkeyMind Company / Unmute Dance Company - What We Can Do Together",
-      "artist": "Lisi Estaràs",
-      "venue": "Brakke Grond",
-      "loc": "Amsterdam",
-      "type": "event",
-      "date": "2026-07-05",
-      "url": "https://brakkegrond.nl/agenda/913/lisi-estaras-monkeymind-company-unmute-dance-company"
-    },
-    {
-      "id": "scr-luther-museum-duo-pleyel-ons-geloof-is",
-      "title": "Duo Pleyel: Ons Geloof is Liefde",
-      "artist": null,
-      "venue": "Luther Museum",
-      "loc": "Amsterdam",
-      "type": "exhibition",
-      "date": "2026-07-05",
-      "url": "https://luthermuseum.nl/nl/agenda/duo-pleyel-queerconcert"
-    },
-    {
-      "id": "scr-stedelijk-museum-post-no-bills-6",
-      "title": "Post/No/Bills #6",
-      "artist": null,
-      "venue": "Stedelijk Museum",
-      "loc": "Amsterdam",
-      "type": "exhibition",
-      "date": "2026-07-05",
-      "url": "https://www.stedelijk.nl/en/exhibitions/EN-post-no-bills-6"
-    },
-    {
-      "id": "scr-arti-et-amicitia-de-soepboekjes-middag",
-      "title": "De Soepboekjes Middag",
-      "artist": null,
-      "venue": "Arti et Amicitiae",
-      "loc": "Amsterdam",
-      "type": "event",
-      "date": "2026-07-05",
-      "url": "https://arti.nl/agenda/05-07-2026/de-soepboekjes-middag"
-    },
-    {
-      "id": "scr-het-salon-atelie-casual-sunday-afternoon",
-      "title": "Casual Sunday Afternoon Rope Jam",
-      "artist": null,
-      "venue": "Het Salon Ateliers",
-      "loc": "Amsterdam",
-      "type": "event",
-      "date": "2026-07-05",
-      "url": "https://www.hetsalonateliers.com/events"
-    },
-    {
-      "id": "scr-arti-et-amicitia-bezoek-de-originele-arti",
-      "title": "Bezoek de originele Arti-bibliotheek in het Van Gogh Museum",
-      "artist": null,
-      "venue": "Arti et Amicitiae",
-      "loc": "Amsterdam",
-      "type": "event",
-      "date": "2026-07-06",
-      "url": "https://arti.nl/agenda/06-07-2026/bezoek-de-originele-arti-bibliotheek-in-het-van-gogh-museum"
-    },
-    {
-      "id": "scr-arti-et-amicitia-ramon-jan-vet-lust-for-l",
-      "title": "Ramon Jan Vet | Lust For Life",
-      "artist": "Ramon Jan Vet",
-      "venue": "Arti et Amicitiae",
-      "loc": "Amsterdam",
-      "type": "exhibition",
-      "date": "2026-07-06",
-      "url": "https://arti.nl/agenda/06-07-2026/ramon-jan-vet-lust-for-life"
-    },
     {
       "id": "scr-brakke-grond-lisbeth-gruwez-maarten-v",
       "title": "Lisbeth Gruwez & Maarten Van Cauwenberghe / Voetvolk - Tempest",
@@ -165,7 +65,7 @@
     {
       "id": "scr-brakke-grond-lisa-vereertbrugghen-cam",
       "title": "Lisa Vereertbrugghen / CAMPO - Again Forever",
-      "artist": "Lisa Vereertbrugghen",
+      "artist": null,
       "venue": "Brakke Grond",
       "loc": "Amsterdam",
       "type": "event",
@@ -313,6 +213,36 @@
       "url": "https://brakkegrond.nl/agenda/967/amsterdam-fringe-festival"
     },
     {
+      "id": "scr-brakke-grond-nineties-productions-art",
+      "title": "Nineties Productions - Artifical By Nature",
+      "artist": null,
+      "venue": "Brakke Grond",
+      "loc": "Amsterdam",
+      "type": "event",
+      "date": "2026-09-03",
+      "url": "https://brakkegrond.nl/agenda/985/nineties-productions"
+    },
+    {
+      "id": "scr-brakke-grond-sophia-van-der-putten-tr",
+      "title": "Sophia van der Putten - Transfloratie",
+      "artist": "Sophia van der Putten",
+      "venue": "Brakke Grond",
+      "loc": "Amsterdam",
+      "type": "event",
+      "date": "2026-09-03",
+      "url": "https://brakkegrond.nl/agenda/980/sophia-van-der-putten"
+    },
+    {
+      "id": "scr-galerie-fontana-exhibition-claudy-jongst",
+      "title": "Exhibition Claudy Jongstra Guest Artists: Gerbrand Burger Mirte van Laarhoven",
+      "artist": null,
+      "venue": "Galerie Fontana",
+      "loc": "Amsterdam",
+      "type": "exhibition",
+      "date": "2026-09-04",
+      "url": "https://www.galeriefontana.com/agenda"
+    },
+    {
       "id": "scr-akinci-maria-roosen-express",
       "title": "Maria Roosen | EXPRESS",
       "artist": "Maria Roosen",
@@ -331,6 +261,16 @@
       "type": "exhibition",
       "date": "2026-09-04",
       "url": "https://w139.nl/event/the-nature-of-remembering/"
+    },
+    {
+      "id": "scr-enari-gallery-places-of-wild-things",
+      "title": "Places of Wild Things",
+      "artist": null,
+      "venue": "Enari Gallery",
+      "loc": "Amsterdam",
+      "type": "exhibition",
+      "date": "2026-09-04",
+      "url": "https://www.enari.gallery/exhibitions/36-places-of-wild-things-raffael-bader/"
     },
     {
       "id": "scr-grimm-robert-zandvliet",
@@ -353,6 +293,26 @@
       "url": "https://www.slewe.nl/exhibitions/2026#pauldrissenama"
     },
     {
+      "id": "scr-brakke-grond-samuel-baidoo-plum-road",
+      "title": "Samuel Baidoo - Plum Road Tea Dream",
+      "artist": "Samuel Baidoo",
+      "venue": "Brakke Grond",
+      "loc": "Amsterdam",
+      "type": "exhibition",
+      "date": "2026-09-05",
+      "url": "https://brakkegrond.nl/agenda/984/samuel-baidoo"
+    },
+    {
+      "id": "scr-brakke-grond-orkater-de-nieuwkomers-p",
+      "title": "Orkater/De Nieuwkomers Patrick Ribeiro - Runner",
+      "artist": "Patrick Ribeiro",
+      "venue": "Brakke Grond",
+      "loc": "Amsterdam",
+      "type": "event",
+      "date": "2026-09-05",
+      "url": "https://brakkegrond.nl/agenda/983/orkaterde-nieuwkomers-patrick-ribeiro"
+    },
+    {
       "id": "scr-josilda-da-conce-the-bear-prefers-to-rema",
       "title": "The bear prefers to remain silent",
       "artist": null,
@@ -363,14 +323,44 @@
       "url": "https://www.josildadaconceicao.com/exhibitions#-the-bear-prefers-to-remain-silent"
     },
     {
-      "id": "scr-luther-museum-duo-pleyel-ons-geloof-isx",
+      "id": "scr-luther-museum-duo-pleyel-ons-geloof-is",
       "title": "Duo Pleyel: Ons Geloof is Liefde",
       "artist": null,
       "venue": "Luther Museum",
       "loc": "Amsterdam",
-      "type": "exhibition",
+      "type": "event",
       "date": "2026-09-06",
       "url": "https://luthermuseum.nl/nl/agenda/duo-pleyel-ons-geloof-is-liefde"
+    },
+    {
+      "id": "scr-brakke-grond-khadija-el-kharraz-alami",
+      "title": "Khadija El Kharraz Alami & Reda Senhaji (Cheb Runner) - AJJIT",
+      "artist": null,
+      "venue": "Brakke Grond",
+      "loc": "Amsterdam",
+      "type": "event",
+      "date": "2026-09-07",
+      "url": "https://brakkegrond.nl/agenda/986/khadija-el-kharraz-alami-reda-senhaji-cheb-runner"
+    },
+    {
+      "id": "scr-brakke-grond-ratri-notosudirdjo-in-th",
+      "title": "Ratri Notosudirdjo - In the Way Depths",
+      "artist": "Ratri Notosudirdjo",
+      "venue": "Brakke Grond",
+      "loc": "Amsterdam",
+      "type": "event",
+      "date": "2026-09-07",
+      "url": "https://brakkegrond.nl/agenda/979/ratri-notosudirdjo"
+    },
+    {
+      "id": "scr-brakke-grond-vincent-riebeek-not-anot",
+      "title": "Vincent Riebeek - Not Another Shit Show: P4rTy GWoRLz N3v4h Di3 edition",
+      "artist": "Vincent Riebeek",
+      "venue": "Brakke Grond",
+      "loc": "Amsterdam",
+      "type": "event",
+      "date": "2026-09-08",
+      "url": "https://brakkegrond.nl/agenda/981/vincent-riebeek"
     },
     {
       "id": "scr-arti-et-amicitia-update-talk-david-veldho",
