@@ -1,236 +1,26 @@
 {
   "source": "amsterdam-art-agenda (weekly GitHub Action)",
-  "generatedAt": "2026-07-20",
+  "generatedAt": "2026-08-03",
   "events": [
     {
-      "id": "scr-arti-et-amicitia-waterpoes-een-botografie",
-      "title": "Waterpoes een Botografie Boekperformance",
+      "id": "scr-no-limits-art-ca-queer-resilience-summit",
+      "title": "Queer Resilience Summit 2026",
       "artist": null,
-      "venue": "Arti et Amicitiae",
+      "venue": "No Limits Art Castle",
       "loc": "Amsterdam",
       "type": "event",
-      "date": "2026-07-23",
-      "url": "https://arti.nl/agenda/23-07-2026/waterpoes-een-botografie-boekperformance"
-    },
-    {
-      "id": "scr-galerie-ron-mand-best-of-graduates-2026",
-      "title": "Best of Graduates 2026",
-      "artist": null,
-      "venue": "Galerie Ron Mandos",
-      "loc": "Amsterdam",
-      "type": "exhibition",
-      "date": "2026-07-24",
-      "url": "https://ronmandos.nl/exhibition/best-of-graduates-2026/"
-    },
-    {
-      "id": "scr-raam-art-space-fecund-ground-collaborat",
-      "title": "Fecund Ground - Collaboration with Tom of Finland Foundation for World Pride",
-      "artist": null,
-      "venue": "RAAM Art Space",
-      "loc": "Amsterdam",
-      "type": "exhibition",
-      "date": "2026-07-24",
-      "url": "https://www.raamartspace.com/exhibitions/pride"
-    },
-    {
-      "id": "scr-treehouse-ndsm-queertropolis",
-      "title": "Queertropolis",
-      "artist": null,
-      "venue": "Treehouse NDSM",
-      "loc": "Amsterdam",
-      "type": "exhibition",
-      "date": "2026-07-24",
-      "url": "https://www.treehousendsm.com/agenda/queertropolis"
-    },
-    {
-      "id": "scr-treehouse-ndsm-pride-marbling-on-silk-c",
-      "title": "Pride Marbling On Silk   Collaborative Water Colour Workshop",
-      "artist": null,
-      "venue": "Treehouse NDSM",
-      "loc": "Amsterdam",
-      "type": "event",
-      "date": "2026-07-24",
-      "url": "https://www.treehousendsm.com/agenda/pride-marbling-on-silk---collaborative-water-colour-workshop"
-    },
-    {
-      "id": "scr-gallery-vriend-v-fecund-ground-world-prid",
-      "title": "Fecund Ground - World Pride",
-      "artist": null,
-      "venue": "Gallery Vriend van Bavink",
-      "loc": "Amsterdam",
-      "type": "exhibition",
-      "date": "2026-07-24",
-      "url": "https://vanbavinkgallery.com/exhibitions/fecund-ground-world-pride"
-    },
-    {
-      "id": "scr-treehouse-ndsm-goblin-market-pride-edit",
-      "title": "Goblin Market Pride Edition",
-      "artist": null,
-      "venue": "Treehouse NDSM",
-      "loc": "Amsterdam",
-      "type": "event",
-      "date": "2026-07-25",
-      "url": "https://www.treehousendsm.com/agenda/goblin-market-pride-edition"
-    },
-    {
-      "id": "scr-treehouse-ndsm-summer-garden-painting-w",
-      "title": "Summer Garden Painting Workshop At Treehouse Ndsm 3",
-      "artist": null,
-      "venue": "Treehouse NDSM",
-      "loc": "Amsterdam",
-      "type": "event",
-      "date": "2026-07-26",
-      "url": "https://www.treehousendsm.com/agenda/summer-garden-painting-workshop-at-treehouse-ndsm-3"
-    },
-    {
-      "id": "scr-treehouse-ndsm-poetics-of-form-jeweller",
-      "title": "Poetics Of Form Jewellery Workshop 2",
-      "artist": null,
-      "venue": "Treehouse NDSM",
-      "loc": "Amsterdam",
-      "type": "event",
-      "date": "2026-07-26",
-      "url": "https://www.treehousendsm.com/agenda/poetics-of-form-jewellery-workshop-2"
-    },
-    {
-      "id": "scr-treehouse-ndsm-blackout-poetry-dinner-a",
-      "title": "Blackout Poetry Dinner   A Journey Of Roots And Revision",
-      "artist": null,
-      "venue": "Treehouse NDSM",
-      "loc": "Amsterdam",
-      "type": "event",
-      "date": "2026-07-28",
-      "url": "https://www.treehousendsm.com/agenda/blackout-poetry-dinner---a-journey-of-roots-and-revision"
-    },
-    {
-      "id": "scr-treehouse-ndsm-queer-monsters-zine",
-      "title": "Queer Monsters Zine",
-      "artist": null,
-      "venue": "Treehouse NDSM",
-      "loc": "Amsterdam",
-      "type": "exhibition",
-      "date": "2026-07-29",
-      "url": "https://www.treehousendsm.com/agenda/queer-monsters-zine"
-    },
-    {
-      "id": "scr-treehouse-ndsm-disco-dreams-pride-editi",
-      "title": "Disco Dreams Pride Edition",
-      "artist": null,
-      "venue": "Treehouse NDSM",
-      "loc": "Amsterdam",
-      "type": "event",
-      "date": "2026-07-30",
-      "url": "https://www.treehousendsm.com/agenda/disco-dreams-pride-edition"
-    },
-    {
-      "id": "scr-treehouse-ndsm-night-at-our-place-speci",
-      "title": "Night At Our Place Special Pride",
-      "artist": null,
-      "venue": "Treehouse NDSM",
-      "loc": "Amsterdam",
-      "type": "event",
-      "date": "2026-07-31",
-      "url": "https://www.treehousendsm.com/agenda/night-at-our-place-special-pride"
-    },
-    {
-      "id": "scr-treehouse-ndsm-embrace-your-inner-monst",
-      "title": "Embrace Your Inner Monster",
-      "artist": null,
-      "venue": "Treehouse NDSM",
-      "loc": "Amsterdam",
-      "type": "event",
-      "date": "2026-07-31",
-      "url": "https://www.treehousendsm.com/agenda/embrace-your-inner-monster"
-    },
-    {
-      "id": "scr-treehouse-ndsm-childrens-summer-garden",
-      "title": "Childrens Summer Garden Painting Workshop At Treehouse Ndsm 4",
-      "artist": null,
-      "venue": "Treehouse NDSM",
-      "loc": "Amsterdam",
-      "type": "event",
-      "date": "2026-08-01",
-      "url": "https://www.treehousendsm.com/agenda/childrens-summer-garden-painting-workshop-at-treehouse-ndsm-4"
-    },
-    {
-      "id": "scr-treehouse-ndsm-summer-garden-painting-wx",
-      "title": "Summer Garden Painting Workshop At Treehouse Ndsm 4",
-      "artist": null,
-      "venue": "Treehouse NDSM",
-      "loc": "Amsterdam",
-      "type": "event",
-      "date": "2026-08-02",
-      "url": "https://www.treehousendsm.com/agenda/summer-garden-painting-workshop-at-treehouse-ndsm-4"
-    },
-    {
-      "id": "scr-treehouse-ndsm-create-your-own-talisman",
-      "title": "Create Your Own Talisman",
-      "artist": null,
-      "venue": "Treehouse NDSM",
-      "loc": "Amsterdam",
-      "type": "event",
-      "date": "2026-08-02",
-      "url": "https://www.treehousendsm.com/agenda/create-your-own-talisman"
-    },
-    {
-      "id": "scr-treehouse-ndsm-creatives-book-club-7",
-      "title": "Creatives Book Club 7",
-      "artist": null,
-      "venue": "Treehouse NDSM",
-      "loc": "Amsterdam",
-      "type": "event",
-      "date": "2026-08-02",
-      "url": "https://www.treehousendsm.com/agenda/creatives-book-club-7"
-    },
-    {
-      "id": "scr-treehouse-ndsm-pride-patch",
-      "title": "Pride Patch",
-      "artist": null,
-      "venue": "Treehouse NDSM",
-      "loc": "Amsterdam",
-      "type": "exhibition",
       "date": "2026-08-04",
-      "url": "https://www.treehousendsm.com/agenda/pride-patch"
+      "url": "https://nolimitsartcastle.nl/evenement/queer-resilience-summit-2026/"
     },
     {
-      "id": "scr-treehouse-ndsm-poly-stories-neurodiverg",
-      "title": "Poly Stories Neurodivergent Love Pride Special",
+      "id": "scr-michiel-simons-the-plaintive-tense",
+      "title": "The Plaintive Tense",
       "artist": null,
-      "venue": "Treehouse NDSM",
-      "loc": "Amsterdam",
-      "type": "event",
-      "date": "2026-08-05",
-      "url": "https://www.treehousendsm.com/agenda/poly-stories-neurodivergent-love-pride-special"
-    },
-    {
-      "id": "scr-treehouse-ndsm-liquid-gold-cocktail-wor",
-      "title": "Liquid Gold Cocktail Workshop",
-      "artist": null,
-      "venue": "Treehouse NDSM",
-      "loc": "Amsterdam",
-      "type": "event",
-      "date": "2026-08-06",
-      "url": "https://www.treehousendsm.com/agenda/liquid-gold-cocktail-workshop"
-    },
-    {
-      "id": "scr-treehouse-ndsm-there-was-a-time-before",
-      "title": "There Was A Time Before",
-      "artist": null,
-      "venue": "Treehouse NDSM",
+      "venue": "Michiel Simons",
       "loc": "Amsterdam",
       "type": "exhibition",
       "date": "2026-08-07",
-      "url": "https://www.treehousendsm.com/agenda/there-was-a-time-before"
-    },
-    {
-      "id": "scr-treehouse-ndsm-the-lost-wax-ring-worksh",
-      "title": "The Lost Wax Ring Workshop",
-      "artist": null,
-      "venue": "Treehouse NDSM",
-      "loc": "Amsterdam",
-      "type": "event",
-      "date": "2026-08-09",
-      "url": "https://www.treehousendsm.com/agenda/the-lost-wax-ring-workshop"
+      "url": "https://www.michielsimons.com/exhibitions/the-plaintive-tense"
     },
     {
       "id": "scr-arti-et-amicitia-ying-shan-hu-grachtenfes",
@@ -238,7 +28,7 @@
       "artist": "Ying Shan Hu",
       "venue": "Arti et Amicitiae",
       "loc": "Amsterdam",
-      "type": "event",
+      "type": "exhibition",
       "date": "2026-08-09",
       "url": "https://arti.nl/agenda/09-08-2026/ying-shan-hu-grachtenfestival"
     },
@@ -253,46 +43,6 @@
       "url": "https://www.deappel.nl/nl/archive/events/1359-what-s-next-iteration-ii-mapping-uneven-temporal-infrastructures"
     },
     {
-      "id": "scr-treehouse-ndsm-communications-internshi",
-      "title": "Communications Internship Fall Winter",
-      "artist": null,
-      "venue": "Treehouse NDSM",
-      "loc": "Amsterdam",
-      "type": "event",
-      "date": "2026-08-15",
-      "url": "https://www.treehousendsm.com/agenda/communications-internship-fall-winter"
-    },
-    {
-      "id": "scr-treehouse-ndsm-childrens-summer-gardenx",
-      "title": "Childrens Summer Garden Painting Workshop At Treehouse Ndsm 5",
-      "artist": null,
-      "venue": "Treehouse NDSM",
-      "loc": "Amsterdam",
-      "type": "event",
-      "date": "2026-08-15",
-      "url": "https://www.treehousendsm.com/agenda/childrens-summer-garden-painting-workshop-at-treehouse-ndsm-5"
-    },
-    {
-      "id": "scr-treehouse-ndsm-pilates-and-paint",
-      "title": "Pilates And Paint",
-      "artist": null,
-      "venue": "Treehouse NDSM",
-      "loc": "Amsterdam",
-      "type": "event",
-      "date": "2026-08-16",
-      "url": "https://www.treehousendsm.com/agenda/pilates-and-paint"
-    },
-    {
-      "id": "scr-treehouse-ndsm-summer-garden-painting-wxx",
-      "title": "Summer Garden Painting Workshop At Treehouse Ndsm 5",
-      "artist": null,
-      "venue": "Treehouse NDSM",
-      "loc": "Amsterdam",
-      "type": "event",
-      "date": "2026-08-16",
-      "url": "https://www.treehousendsm.com/agenda/summer-garden-painting-workshop-at-treehouse-ndsm-5"
-    },
-    {
       "id": "scr-stedelijk-museum-post-no-bills-7",
       "title": "Post/No/Bills #7",
       "artist": null,
@@ -303,34 +53,24 @@
       "url": "https://www.stedelijk.nl/en/exhibitions/post-no-bills-7-en"
     },
     {
-      "id": "scr-treehouse-ndsm-jam-session-makan-disko",
-      "title": "Jam Session Makan Disko 4",
-      "artist": null,
-      "venue": "Treehouse NDSM",
+      "id": "scr-no-man-s-art-gal-nocturnas-alan-hernandez",
+      "title": "Nocturnas | Alan Hernández",
+      "artist": "Alan Hernández",
+      "venue": "No Man's Art Gallery",
       "loc": "Amsterdam",
-      "type": "event",
-      "date": "2026-08-21",
-      "url": "https://www.treehousendsm.com/agenda/jam-session-makan-disko-4"
+      "type": "exhibition",
+      "date": "2026-08-22",
+      "url": "https://www.nomansart.com/exhibitions-3/lisboa-kl2xn-l5ybp-rzjw5-kjfgm-rpnz7"
     },
     {
-      "id": "scr-treehouse-ndsm-childrens-summer-gardenxx",
-      "title": "Childrens Summer Garden Painting Workshop At Treehouse Ndsm 6",
-      "artist": null,
-      "venue": "Treehouse NDSM",
+      "id": "scr-arti-et-amicitia-peter-van-hugten-tekenin",
+      "title": "Peter van Hugten – Tekeningen & Gouaches",
+      "artist": "Peter van Hugten",
+      "venue": "Arti et Amicitiae",
       "loc": "Amsterdam",
-      "type": "event",
-      "date": "2026-08-22",
-      "url": "https://www.treehousendsm.com/agenda/childrens-summer-garden-painting-workshop-at-treehouse-ndsm-6"
-    },
-    {
-      "id": "scr-treehouse-ndsm-live-at-our-place-nederl",
-      "title": "Live At Our Place Nederland In Beweging Liva Dumpe",
-      "artist": null,
-      "venue": "Treehouse NDSM",
-      "loc": "Amsterdam",
-      "type": "event",
-      "date": "2026-08-22",
-      "url": "https://www.treehousendsm.com/agenda/live-at-our-place-nederland-in-beweging-liva-dumpe"
+      "type": "exhibition",
+      "date": "2026-08-24",
+      "url": "https://arti.nl/agenda/24-08-2026/peter-van-hugten-tekeningen-gouaches"
     },
     {
       "id": "scr-arti-et-amicitia-annie-schoterman-anche-i",
@@ -343,24 +83,34 @@
       "url": "https://arti.nl/agenda/24-08-2026/annie-schoterman-anche-il-verme-ha-la-sua-collera"
     },
     {
-      "id": "scr-treehouse-ndsm-the-lost-wax-ring-workshx",
-      "title": "The Lost Wax Ring Workshop 2",
+      "id": "scr-andriesse-eyck-snuffel-is-a-drag-on-art",
+      "title": "Snuffel is a Drag on Art",
       "artist": null,
-      "venue": "Treehouse NDSM",
-      "loc": "Amsterdam",
-      "type": "event",
-      "date": "2026-08-26",
-      "url": "https://www.treehousendsm.com/agenda/the-lost-wax-ring-workshop-2"
-    },
-    {
-      "id": "scr-treehouse-ndsm-alles-is-noord",
-      "title": "Alles Is Noord",
-      "artist": null,
-      "venue": "Treehouse NDSM",
+      "venue": "andriesse~eyck",
       "loc": "Amsterdam",
       "type": "exhibition",
-      "date": "2026-08-30",
-      "url": "https://www.treehousendsm.com/agenda/alles-is-noord"
+      "date": "2026-08-28",
+      "url": "https://www.andriesse-eyck.com/exhibitions/114"
+    },
+    {
+      "id": "scr-tegenboschvanvre-upcoming-heusden-amsterd",
+      "title": "Upcoming: Heusden & Amsterdam",
+      "artist": null,
+      "venue": "tegenboschvanvreden",
+      "loc": "Amsterdam",
+      "type": "exhibition",
+      "date": "2026-08-29",
+      "url": "https://tegenboschvanvreden.com/exhibition/current/"
+    },
+    {
+      "id": "scr-tegenboschvanvre-opening-in-heusden-upcom",
+      "title": "Opening in Heusden: Upcoming: Heusden & Amsterdam",
+      "artist": null,
+      "venue": "tegenboschvanvreden",
+      "loc": "Amsterdam",
+      "type": "opening",
+      "date": "2026-08-29",
+      "url": "https://www.tegenboschvanvreden.com/exhibition/current/"
     },
     {
       "id": "scr-arti-et-amicitia-noam-bargil-quintet",
@@ -403,6 +153,16 @@
       "url": "https://www.galeriefontana.com/agenda"
     },
     {
+      "id": "scr-w139-opening-the-nature-of-re",
+      "title": "Opening The Nature of Remembering",
+      "artist": null,
+      "venue": "W139",
+      "loc": "Amsterdam",
+      "type": "opening",
+      "date": "2026-09-04",
+      "url": "https://w139.nl/event/opening-the-nature-of-remembering/"
+    },
+    {
       "id": "scr-akinci-maria-roosen-express",
       "title": "Maria Roosen | EXPRESS",
       "artist": "Maria Roosen",
@@ -411,16 +171,6 @@
       "type": "exhibition",
       "date": "2026-09-04",
       "url": "https://akinci.nl/exhibitions/#maria-roosen-express"
-    },
-    {
-      "id": "scr-w139-the-nature-of-rememberin",
-      "title": "The Nature of Remembering",
-      "artist": null,
-      "venue": "W139",
-      "loc": "Amsterdam",
-      "type": "exhibition",
-      "date": "2026-09-04",
-      "url": "https://w139.nl/event/the-nature-of-remembering/"
     },
     {
       "id": "scr-enari-gallery-places-of-wild-things",
@@ -443,6 +193,56 @@
       "url": "https://sacartamsterdam.com/upcoming-exhibition/"
     },
     {
+      "id": "scr-arti-et-amicitia-after-destruction",
+      "title": "After Destruction",
+      "artist": null,
+      "venue": "Arti et Amicitiae",
+      "loc": "Amsterdam",
+      "type": "exhibition",
+      "date": "2026-09-05",
+      "url": "https://arti.nl/agenda/05-09-2026/after-destruction"
+    },
+    {
+      "id": "scr-cbk-zuidoost-cahaya-maluku-molukse-ma",
+      "title": "Cahaya Maluku –Molukse makers in het licht",
+      "artist": null,
+      "venue": "CBK Zuidoost",
+      "loc": "Amsterdam",
+      "type": "exhibition",
+      "date": "2026-09-05",
+      "url": "https://www.cbkzuidoost.nl/tentoonstellingen/nu-en-verwacht/cahaya-maluku-molukse-makers-in-het-licht/"
+    },
+    {
+      "id": "scr-no-man-s-art-gal-the-black-bird-was-singi",
+      "title": "the black bird was singing, the light was bright | Marilyn Sonneveld",
+      "artist": "Marilyn Sonneveld",
+      "venue": "No Man's Art Gallery",
+      "loc": "Amsterdam",
+      "type": "exhibition",
+      "date": "2026-09-05",
+      "url": "https://www.nomansart.com/exhibitions-3/opening-the-window-the-black-bird-was-singing-the-light-was-bright-marilyn-sonneveld"
+    },
+    {
+      "id": "scr-dudokdegroot-delphine-courtillot",
+      "title": "Delphine Courtillot",
+      "artist": "Delphine Courtillot",
+      "venue": "dudokdegroot",
+      "loc": "Amsterdam",
+      "type": "exhibition",
+      "date": "2026-09-05",
+      "url": "https://www.dudokdegroot.nl/tentoonstellingen/delphine-courtillot-solo"
+    },
+    {
+      "id": "scr-arti-et-amicitia-lezing-de-kunstenaars-va",
+      "title": "Lezing ‘De kunstenaars van de Jan Steenzolder’",
+      "artist": null,
+      "venue": "Arti et Amicitiae",
+      "loc": "Amsterdam",
+      "type": "event",
+      "date": "2026-09-05",
+      "url": "https://arti.nl/agenda/05-09-2026/lezing-de-kunstenaars-van-de-jan-steenzolder"
+    },
+    {
       "id": "scr-slewe-gallery-paul-drissen-ama",
       "title": "Paul Drissen, Ama",
       "artist": "Paul Drissen",
@@ -463,16 +263,6 @@
       "url": "https://grimmgallery.com/exhibitions/374-robert-zandvliet-paradaidha/"
     },
     {
-      "id": "scr-treehouse-ndsm-creatives-book-club-8",
-      "title": "Creatives Book Club 8",
-      "artist": null,
-      "venue": "Treehouse NDSM",
-      "loc": "Amsterdam",
-      "type": "event",
-      "date": "2026-09-06",
-      "url": "https://www.treehousendsm.com/agenda/creatives-book-club-8"
-    },
-    {
       "id": "scr-josilda-da-conce-the-bear-prefers-to-rema",
       "title": "The bear prefers to remain silent",
       "artist": null,
@@ -483,16 +273,6 @@
       "url": "https://www.josildadaconceicao.com/exhibitions#-the-bear-prefers-to-remain-silent"
     },
     {
-      "id": "scr-treehouse-ndsm-amsterdam-fringe-festiva",
-      "title": "Amsterdam Fringe Festival",
-      "artist": null,
-      "venue": "Treehouse NDSM",
-      "loc": "Amsterdam",
-      "type": "event",
-      "date": "2026-09-08",
-      "url": "https://www.treehousendsm.com/agenda/amsterdam-fringe-festival"
-    },
-    {
       "id": "scr-arti-et-amicitia-update-talk-david-veldho",
       "title": "UPDATE TALK | David Veldhoen en Jacqueline Verhaagen",
       "artist": null,
@@ -501,16 +281,6 @@
       "type": "event",
       "date": "2026-09-10",
       "url": "https://arti.nl/agenda/10-09-2026/update-talk-david-veldhoen-en-jacqueline-verhaagen"
-    },
-    {
-      "id": "scr-raam-art-space-anouk-kruithof",
-      "title": "Anouk Kruithof",
-      "artist": "Anouk Kruithof",
-      "venue": "RAAM Art Space",
-      "loc": "Amsterdam",
-      "type": "exhibition",
-      "date": "2026-09-11",
-      "url": "https://www.raamartspace.com/exhibitions/anoukkruithof"
     },
     {
       "id": "scr-gallery-vriend-v-anouk-kruithof-sharp-bri",
@@ -539,8 +309,18 @@
       "venue": "Framer Framed",
       "loc": "Amsterdam",
       "type": "exhibition",
-      "date": "2026-09-12",
+      "date": "2026-09-11",
       "url": "https://framerframed.nl/exposities/secret-arts-teachers/"
+    },
+    {
+      "id": "scr-galerie-ron-mand-zanele-muholi-solo-exhib",
+      "title": "Zanele Muholi | Solo Exhibition - Zanele Muholi",
+      "artist": "Zanele Muholi",
+      "venue": "Galerie Ron Mandos",
+      "loc": "Amsterdam",
+      "type": "exhibition",
+      "date": "2026-09-12",
+      "url": "https://ronmandos.nl/exhibition/zanele-muholi-faces-and-phases/"
     },
     {
       "id": "scr-galerie-onrust-terra-a-landscape-of-mor",
@@ -563,6 +343,16 @@
       "url": "https://arti.nl/agenda/13-09-2026/dit-is-geen-pijp-dit-is-de-pijp"
     },
     {
+      "id": "scr-arti-et-amicitia-arti-shuffle-jonge-music",
+      "title": "Arti Shuffle Jonge Musici: Jason Li & Isaac Lam",
+      "artist": null,
+      "venue": "Arti et Amicitiae",
+      "loc": "Amsterdam",
+      "type": "event",
+      "date": "2026-09-17",
+      "url": "https://arti.nl/agenda/17-09-2026/arti-shuffle-jonge-musici-jason-li-isaac-lam"
+    },
+    {
       "id": "scr-de-ateliers-unfair-26",
       "title": "‘Unfair 26’",
       "artist": null,
@@ -573,34 +363,24 @@
       "url": "https://www.de-ateliers.nl/event/unfair-26/"
     },
     {
-      "id": "scr-treehouse-ndsm-linocut-workshop",
-      "title": "Linocut Workshop",
+      "id": "scr-treehouse-ndsm-come-back-to-your-nature",
+      "title": "Come Back to Your ___ (Nature/ Culture)",
       "artist": null,
       "venue": "Treehouse NDSM",
       "loc": "Amsterdam",
-      "type": "event",
-      "date": "2026-09-19",
-      "url": "https://www.treehousendsm.com/agenda/linocut-workshop"
+      "type": "exhibition",
+      "date": "2026-09-18",
+      "url": "https://www.treehousendsm.com/agenda/come-back-to-your-nature-culture"
     },
     {
-      "id": "scr-treehouse-ndsm-wiel-klanken",
-      "title": "Wiel Klanken",
+      "id": "scr-woonhuis-de-atel-house-of-day-house-of-ni",
+      "title": "House of Day, House of Night",
       "artist": null,
-      "venue": "Treehouse NDSM",
+      "venue": "Woonhuis De Ateliers",
       "loc": "Amsterdam",
-      "type": "event",
-      "date": "2026-09-19",
-      "url": "https://www.treehousendsm.com/agenda/wiel-klanken"
-    },
-    {
-      "id": "scr-treehouse-ndsm-live-at-our-place-kasper",
-      "title": "Live At Our Place Kasper Rietkerk Irt",
-      "artist": null,
-      "venue": "Treehouse NDSM",
-      "loc": "Amsterdam",
-      "type": "event",
+      "type": "exhibition",
       "date": "2026-09-25",
-      "url": "https://www.treehousendsm.com/agenda/live-at-our-place-kasper-rietkerk-irt"
+      "url": "https://woonhuis.de-ateliers.nl/nl/programma/house-of-day-house-of-night"
     },
     {
       "id": "scr-borzo-gallery-jan-henderikse-too-much",
@@ -613,14 +393,14 @@
       "url": "https://www.borzo.com/exhibitions/134-jan-henderikse.-too-much-is-not-enough/"
     },
     {
-      "id": "scr-treehouse-ndsm-live-at-our-place-labash",
-      "title": "Live At Our Place Labasheeda",
+      "id": "scr-andriesse-eyck-a-grave-of-myhtology",
+      "title": "A GRAVE OF MYHTOLOGY",
       "artist": null,
-      "venue": "Treehouse NDSM",
+      "venue": "andriesse~eyck",
       "loc": "Amsterdam",
-      "type": "event",
-      "date": "2026-10-09",
-      "url": "https://www.treehousendsm.com/agenda/live-at-our-place-labasheeda"
+      "type": "exhibition",
+      "date": "2026-10-03",
+      "url": "https://www.andriesse-eyck.com/exhibitions/115"
     },
     {
       "id": "scr-grimm-charles-avery",
@@ -633,6 +413,16 @@
       "url": "https://grimmgallery.com/exhibitions/378-charles-avery/"
     },
     {
+      "id": "scr-josilda-da-conce-with-me-the-form-of-your",
+      "title": "With me the form of your form",
+      "artist": null,
+      "venue": "Josilda da Conceicao",
+      "loc": "Amsterdam",
+      "type": "exhibition",
+      "date": "2026-10-10",
+      "url": "https://www.josildadaconceicao.com/exhibitions#-with-me-the-form-of-your-form"
+    },
+    {
       "id": "scr-stedelijk-museum-adam-pendleton",
       "title": "Adam Pendleton",
       "artist": "Adam Pendleton",
@@ -643,26 +433,6 @@
       "url": "https://www.stedelijk.nl/en/exhibitions/adam-pendleton-en"
     },
     {
-      "id": "scr-josilda-da-conce-untitled",
-      "title": "Untitled",
-      "artist": null,
-      "venue": "Josilda da Conceicao",
-      "loc": "Amsterdam",
-      "type": "exhibition",
-      "date": "2026-10-10",
-      "url": "https://www.josildadaconceicao.com/exhibitions#-untitled"
-    },
-    {
-      "id": "scr-treehouse-ndsm-creatives-book-club-9",
-      "title": "Creatives Book Club 9",
-      "artist": null,
-      "venue": "Treehouse NDSM",
-      "loc": "Amsterdam",
-      "type": "event",
-      "date": "2026-11-01",
-      "url": "https://www.treehousendsm.com/agenda/creatives-book-club-9"
-    },
-    {
       "id": "scr-oude-kerk-mire-lee",
       "title": "Mire Lee",
       "artist": "Mire Lee",
@@ -671,6 +441,16 @@
       "type": "exhibition",
       "date": "2026-11-13",
       "url": "https://www.oudekerk.nl/nu-te-zien/tentoonstellingen/mire-lee/45360"
+    },
+    {
+      "id": "scr-arti-et-amicitia-buning-brongers-prijzen",
+      "title": "Buning Brongers Prijzen 2026",
+      "artist": null,
+      "venue": "Arti et Amicitiae",
+      "loc": "Amsterdam",
+      "type": "exhibition",
+      "date": "2026-11-14",
+      "url": "https://arti.nl/agenda/14-11-2026/buning-brongers-prijzen-2026"
     },
     {
       "id": "scr-akinci-patricia-kaersenhout",
@@ -693,6 +473,26 @@
       "url": "https://rijksakademie.nl/en/news/2026-05-06-rijksakademie-open-studios"
     },
     {
+      "id": "scr-arti-et-amicitia-arti-shuffle-jonge-musicx",
+      "title": "Arti Shuffle Jonge Musici: Isaure & Christian Johannes",
+      "artist": null,
+      "venue": "Arti et Amicitiae",
+      "loc": "Amsterdam",
+      "type": "event",
+      "date": "2026-11-19",
+      "url": "https://arti.nl/agenda/19-11-2026/arti-shuffle-jonge-musici-isaure-christian-johannes"
+    },
+    {
+      "id": "scr-galerie-onrust-ernst-van-alphen-re-echa",
+      "title": "Ernst van Alphen | \"Re-Echanting Photography\" in cooperation with Valiz Publishers | Book presentation + Interview  | Nov 19  2026",
+      "artist": "Ernst van Alphen",
+      "venue": "Galerie Onrust",
+      "loc": "Amsterdam",
+      "type": "event",
+      "date": "2026-11-19",
+      "url": "https://www.galerieonrust.nl/news/ernst-van-alphen-book-presentation-interview-re-echanting-photography-in-cooperation-with-valiz-publishers-november-7-8-2026"
+    },
+    {
       "id": "scr-josilda-da-conce-maracutaia",
       "title": "MARACUTAIA",
       "artist": null,
@@ -701,16 +501,6 @@
       "type": "exhibition",
       "date": "2026-11-19",
       "url": "https://www.josildadaconceicao.com/exhibitions#maracutaia"
-    },
-    {
-      "id": "scr-galerie-onrust-ernst-van-alphen-re-echa",
-      "title": "Ernst van Alphen | \"Re-Echanting Photography\" in cooperation with Valiz Publishers | Book presentation + Interview  | Nov 21  2026",
-      "artist": "Ernst van Alphen",
-      "venue": "Galerie Onrust",
-      "loc": "Amsterdam",
-      "type": "event",
-      "date": "2026-11-21",
-      "url": "https://www.galerieonrust.nl/news/ernst-van-alphen-book-presentation-interview-re-echanting-photography-in-cooperation-with-valiz-publishers-november-7-8-2026"
     },
     {
       "id": "scr-stedelijk-museum-collaborative-artistic-p",
@@ -731,16 +521,6 @@
       "type": "exhibition",
       "date": "2026-11-28",
       "url": "https://www.galerieonrust.nl/news/emma-talbot-can-joy-be-a-rebellious-act-november-28-december-24-2026"
-    },
-    {
-      "id": "scr-treehouse-ndsm-creatives-book-club-10",
-      "title": "Creatives Book Club 10",
-      "artist": null,
-      "venue": "Treehouse NDSM",
-      "loc": "Amsterdam",
-      "type": "event",
-      "date": "2026-12-06",
-      "url": "https://www.treehousendsm.com/agenda/creatives-book-club-10"
     }
   ]
 }
