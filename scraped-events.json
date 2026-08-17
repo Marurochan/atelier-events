@@ -1,56 +1,26 @@
 {
   "source": "amsterdam-art-agenda (weekly GitHub Action)",
-  "generatedAt": "2026-08-03",
+  "generatedAt": "2026-08-17",
   "events": [
     {
-      "id": "scr-no-limits-art-ca-queer-resilience-summit",
-      "title": "Queer Resilience Summit 2026",
-      "artist": null,
-      "venue": "No Limits Art Castle",
-      "loc": "Amsterdam",
-      "type": "event",
-      "date": "2026-08-04",
-      "url": "https://nolimitsartcastle.nl/evenement/queer-resilience-summit-2026/"
-    },
-    {
-      "id": "scr-michiel-simons-the-plaintive-tense",
-      "title": "The Plaintive Tense",
-      "artist": null,
-      "venue": "Michiel Simons",
-      "loc": "Amsterdam",
-      "type": "exhibition",
-      "date": "2026-08-07",
-      "url": "https://www.michielsimons.com/exhibitions/the-plaintive-tense"
-    },
-    {
-      "id": "scr-arti-et-amicitia-ying-shan-hu-grachtenfes",
-      "title": "Ying Shan Hu | Grachtenfestival",
-      "artist": "Ying Shan Hu",
-      "venue": "Arti et Amicitiae",
-      "loc": "Amsterdam",
-      "type": "exhibition",
-      "date": "2026-08-09",
-      "url": "https://arti.nl/agenda/09-08-2026/ying-shan-hu-grachtenfestival"
-    },
-    {
-      "id": "scr-de-appel-what-s-next-iteration-ii",
-      "title": "What's next? Iteration II: Mapping Uneven Temporal Infrastructures",
-      "artist": null,
-      "venue": "De Appel",
-      "loc": "Amsterdam",
-      "type": "exhibition",
-      "date": "2026-08-12",
-      "url": "https://www.deappel.nl/nl/archive/events/1359-what-s-next-iteration-ii-mapping-uneven-temporal-infrastructures"
-    },
-    {
-      "id": "scr-stedelijk-museum-post-no-bills-7",
-      "title": "Post/No/Bills #7",
-      "artist": null,
+      "id": "scr-stedelijk-museum-post-no-bills-7-kexin-ha",
+      "title": "Post/No/Bills #7 Kexin Hao",
+      "artist": "Kexin Hao",
       "venue": "Stedelijk Museum",
       "loc": "Amsterdam",
       "type": "exhibition",
-      "date": "2026-08-19",
+      "date": "2026-08-20",
       "url": "https://www.stedelijk.nl/en/exhibitions/post-no-bills-7-en"
+    },
+    {
+      "id": "scr-nxt-museum-vr-silent-disco",
+      "title": "VR Silent Disco",
+      "artist": null,
+      "venue": "NXT Museum",
+      "loc": "Amsterdam",
+      "type": "event",
+      "date": "2026-08-20",
+      "url": "https://nxtmuseum.com/event/vr-silent-disco/"
     },
     {
       "id": "scr-no-man-s-art-gal-nocturnas-alan-hernandez",
@@ -61,6 +31,16 @@
       "type": "exhibition",
       "date": "2026-08-22",
       "url": "https://www.nomansart.com/exhibitions-3/lisboa-kl2xn-l5ybp-rzjw5-kjfgm-rpnz7"
+    },
+    {
+      "id": "scr-iso-amsterdam-young-boy-dancing-group",
+      "title": "YOUNG BOY DANCING GROUP",
+      "artist": null,
+      "venue": "ISO Amsterdam",
+      "loc": "Amsterdam",
+      "type": "event",
+      "date": "2026-08-22",
+      "url": "https://www.isoamsterdam.nl/program-item/3047-2-2-2-2-2-2-2-2-2-2-2-2-2-2/"
     },
     {
       "id": "scr-arti-et-amicitia-peter-van-hugten-tekenin",
@@ -93,16 +73,6 @@
       "url": "https://www.andriesse-eyck.com/exhibitions/114"
     },
     {
-      "id": "scr-tegenboschvanvre-upcoming-heusden-amsterd",
-      "title": "Upcoming: Heusden & Amsterdam",
-      "artist": null,
-      "venue": "tegenboschvanvreden",
-      "loc": "Amsterdam",
-      "type": "exhibition",
-      "date": "2026-08-29",
-      "url": "https://tegenboschvanvreden.com/exhibition/current/"
-    },
-    {
       "id": "scr-tegenboschvanvre-opening-in-heusden-upcom",
       "title": "Opening in Heusden: Upcoming: Heusden & Amsterdam",
       "artist": null,
@@ -113,14 +83,34 @@
       "url": "https://www.tegenboschvanvreden.com/exhibition/current/"
     },
     {
-      "id": "scr-arti-et-amicitia-noam-bargil-quintet",
-      "title": "Noam Bargil Quintet",
-      "artist": null,
+      "id": "scr-arti-et-amicitia-de-kunstenaar-uitgelicht",
+      "title": "De Kunstenaar Uitgelicht: Lynne Leegte",
+      "artist": "Lynne Leegte",
       "venue": "Arti et Amicitiae",
       "loc": "Amsterdam",
-      "type": "event",
+      "type": "exhibition",
+      "date": "2026-08-31",
+      "url": "https://arti.nl/agenda/31-08-2026/de-kunstenaar-uitgelicht-lynne-leegte"
+    },
+    {
+      "id": "scr-arti-et-amicitia-piet-groenendijk-opgewek",
+      "title": "Piet Groenendijk | Opgewekte Natuur",
+      "artist": "Piet Groenendijk",
+      "venue": "Arti et Amicitiae",
+      "loc": "Amsterdam",
+      "type": "exhibition",
+      "date": "2026-08-31",
+      "url": "https://arti.nl/agenda/31-08-2026/piet-groenendijk-opgewekte-natuur"
+    },
+    {
+      "id": "scr-rozenstraat-enter-public-space-enter",
+      "title": "Enter/Public/Space & Enter/Public/Stage",
+      "artist": null,
+      "venue": "Rozenstraat",
+      "loc": "Amsterdam",
+      "type": "exhibition",
       "date": "2026-09-03",
-      "url": "https://arti.nl/agenda/03-09-2026/noam-bargil-quintet"
+      "url": "https://www.rozenstraat.com/event/enter-public-space-enter-public-stage/"
     },
     {
       "id": "scr-bildhalle-echoes-margaret-lansink",
@@ -133,8 +123,8 @@
       "url": "https://www.bildhalle.ch/exhibitions/116-echoes-margaret-lansink-amsterdam/overview/"
     },
     {
-      "id": "scr-gallery-vriend-v-jeroen-henneman-solo-sho",
-      "title": "Jeroen Henneman - Solo show",
+      "id": "scr-gallery-vriend-v-jeroen-henneman-een-over",
+      "title": "Jeroen Henneman - Een Overzicht",
       "artist": "Jeroen Henneman",
       "venue": "Gallery Vriend van Bavink",
       "loc": "Amsterdam",
@@ -153,14 +143,24 @@
       "url": "https://www.galeriefontana.com/agenda"
     },
     {
-      "id": "scr-w139-opening-the-nature-of-re",
-      "title": "Opening The Nature of Remembering",
+      "id": "scr-galerie-bart-human-echo",
+      "title": "Human Echo",
+      "artist": null,
+      "venue": "Galerie Bart",
+      "loc": "Amsterdam",
+      "type": "exhibition",
+      "date": "2026-09-04",
+      "url": "https://www.galeriebart.nl/exhibitions/29-human-echo-exhibition-at-pop-up-galerie-bart-nijmegen/"
+    },
+    {
+      "id": "scr-w139-the-nature-of-rememberin",
+      "title": "The Nature of Remembering",
       "artist": null,
       "venue": "W139",
       "loc": "Amsterdam",
-      "type": "opening",
+      "type": "exhibition",
       "date": "2026-09-04",
-      "url": "https://w139.nl/event/opening-the-nature-of-remembering/"
+      "url": "https://w139.nl/event/the-nature-of-remembering/"
     },
     {
       "id": "scr-akinci-maria-roosen-express",
@@ -243,6 +243,26 @@
       "url": "https://arti.nl/agenda/05-09-2026/lezing-de-kunstenaars-van-de-jan-steenzolder"
     },
     {
+      "id": "scr-de-appel-service-at-dappermarkt",
+      "title": "Service at Dappermarkt",
+      "artist": null,
+      "venue": "De Appel",
+      "loc": "Amsterdam",
+      "type": "event",
+      "date": "2026-09-05",
+      "url": "https://www.deappel.nl/nl/archive/events/1360-service-at-dappermarkt"
+    },
+    {
+      "id": "scr-josilda-da-conce-the-bear-prefers-to-rema",
+      "title": "The bear prefers to remain silent",
+      "artist": null,
+      "venue": "Josilda da Conceicao",
+      "loc": "Amsterdam",
+      "type": "exhibition",
+      "date": "2026-09-05",
+      "url": "https://www.josildadaconceicao.com/exhibitions#-the-bear-prefers-to-remain-silent"
+    },
+    {
       "id": "scr-slewe-gallery-paul-drissen-ama",
       "title": "Paul Drissen, Ama",
       "artist": "Paul Drissen",
@@ -263,14 +283,14 @@
       "url": "https://grimmgallery.com/exhibitions/374-robert-zandvliet-paradaidha/"
     },
     {
-      "id": "scr-josilda-da-conce-the-bear-prefers-to-rema",
-      "title": "The bear prefers to remain silent",
+      "id": "scr-arti-et-amicitia-groen",
+      "title": "GROEN",
       "artist": null,
-      "venue": "Josilda da Conceicao",
+      "venue": "Arti et Amicitiae",
       "loc": "Amsterdam",
       "type": "exhibition",
-      "date": "2026-09-06",
-      "url": "https://www.josildadaconceicao.com/exhibitions#-the-bear-prefers-to-remain-silent"
+      "date": "2026-09-09",
+      "url": "https://arti.nl/agenda/09-09-2026/groen"
     },
     {
       "id": "scr-arti-et-amicitia-update-talk-david-veldho",
@@ -281,16 +301,6 @@
       "type": "event",
       "date": "2026-09-10",
       "url": "https://arti.nl/agenda/10-09-2026/update-talk-david-veldhoen-en-jacqueline-verhaagen"
-    },
-    {
-      "id": "scr-gallery-vriend-v-anouk-kruithof-sharp-bri",
-      "title": "Anouk Kruithof - sharp, brittle, gentle: a turbulent journey",
-      "artist": "Anouk Kruithof",
-      "venue": "Gallery Vriend van Bavink",
-      "loc": "Amsterdam",
-      "type": "exhibition",
-      "date": "2026-09-11",
-      "url": "https://vanbavinkgallery.com/exhibitions/anouk-kruithof-sharp-brittle-gentle-a-turbulent-journey"
     },
     {
       "id": "scr-stedelijk-museum-yayoi-kusama",
@@ -313,14 +323,24 @@
       "url": "https://framerframed.nl/exposities/secret-arts-teachers/"
     },
     {
-      "id": "scr-galerie-ron-mand-zanele-muholi-solo-exhib",
-      "title": "Zanele Muholi | Solo Exhibition - Zanele Muholi",
+      "id": "scr-galerie-ron-mand-zanele-muholi-hlanganani",
+      "title": "Zanele Muholi | Hlanganani - Zanele Muholi",
       "artist": "Zanele Muholi",
       "venue": "Galerie Ron Mandos",
       "loc": "Amsterdam",
       "type": "exhibition",
       "date": "2026-09-12",
       "url": "https://ronmandos.nl/exhibition/zanele-muholi-faces-and-phases/"
+    },
+    {
+      "id": "scr-de-appel-lapdogs-of-the-bourgeois",
+      "title": "Lapdogs of the Bourgeoisie 2026: Class Hegemony in Contemporary Art",
+      "artist": null,
+      "venue": "De Appel",
+      "loc": "Amsterdam",
+      "type": "exhibition",
+      "date": "2026-09-12",
+      "url": "https://www.deappel.nl/nl/archive/events/1354-lapdogs-of-the-bourgeoisie-2026-class-hegemony-in-contemporary-art"
     },
     {
       "id": "scr-galerie-onrust-terra-a-landscape-of-mor",
@@ -341,6 +361,16 @@
       "type": "exhibition",
       "date": "2026-09-13",
       "url": "https://arti.nl/agenda/13-09-2026/dit-is-geen-pijp-dit-is-de-pijp"
+    },
+    {
+      "id": "scr-arti-et-amicitia-robert-broekhuis",
+      "title": "ROBERT BROEKHUIS",
+      "artist": "Robert Broekhuis",
+      "venue": "Arti et Amicitiae",
+      "loc": "Amsterdam",
+      "type": "exhibition",
+      "date": "2026-09-14",
+      "url": "https://arti.nl/agenda/14-09-2026/robert-broekhuis"
     },
     {
       "id": "scr-arti-et-amicitia-arti-shuffle-jonge-music",
@@ -393,6 +423,16 @@
       "url": "https://www.borzo.com/exhibitions/134-jan-henderikse.-too-much-is-not-enough/"
     },
     {
+      "id": "scr-project-space-on-naturocene",
+      "title": "naturocene",
+      "artist": null,
+      "venue": "Project Space On The Inside",
+      "loc": "Amsterdam",
+      "type": "exhibition",
+      "date": "2026-10-01",
+      "url": "https://www.projectspaceontheinside.org/"
+    },
+    {
       "id": "scr-andriesse-eyck-a-grave-of-myhtology",
       "title": "A GRAVE OF MYHTOLOGY",
       "artist": null,
@@ -423,14 +463,24 @@
       "url": "https://www.josildadaconceicao.com/exhibitions#-with-me-the-form-of-your-form"
     },
     {
-      "id": "scr-stedelijk-museum-adam-pendleton",
-      "title": "Adam Pendleton",
+      "id": "scr-stedelijk-museum-adam-pendleton-some-wild",
+      "title": "Adam Pendleton Some Wild Kind of Language",
       "artist": "Adam Pendleton",
       "venue": "Stedelijk Museum",
       "loc": "Amsterdam",
       "type": "exhibition",
       "date": "2026-10-10",
       "url": "https://www.stedelijk.nl/en/exhibitions/adam-pendleton-en"
+    },
+    {
+      "id": "scr-nxt-museum-earthsonic-ade-and-nxt-m",
+      "title": "EarthSonic, ADE and Nxt Museum Premiere: Two Seas and Sumuku",
+      "artist": null,
+      "venue": "NXT Museum",
+      "loc": "Amsterdam",
+      "type": "event",
+      "date": "2026-10-22",
+      "url": "https://nxtmuseum.com/event/nxt-museum-earthsonic-and-ade-arts-culture-present-premiere-sumuku-and-two-seas/"
     },
     {
       "id": "scr-oude-kerk-mire-lee",
@@ -455,7 +505,7 @@
     {
       "id": "scr-akinci-patricia-kaersenhout",
       "title": "patricia kaersenhout",
-      "artist": "patricia kaersenhout",
+      "artist": "Patricia Kaersenhout",
       "venue": "AKINCI",
       "loc": "Amsterdam",
       "type": "exhibition",
@@ -521,6 +571,16 @@
       "type": "exhibition",
       "date": "2026-11-28",
       "url": "https://www.galerieonrust.nl/news/emma-talbot-can-joy-be-a-rebellious-act-november-28-december-24-2026"
+    },
+    {
+      "id": "scr-de-appel-subversive-film-an-exerc",
+      "title": "Subversive Film: An Exercise in Assembling",
+      "artist": null,
+      "venue": "De Appel",
+      "loc": "Amsterdam",
+      "type": "event",
+      "date": "2026-12-12",
+      "url": "https://www.deappel.nl/nl/archive/events/1355-subversive-film-an-exercise-in-assembling"
     }
   ]
 }
