@@ -1,67 +1,7 @@
 {
   "source": "amsterdam-art-agenda (weekly GitHub Action)",
-  "generatedAt": "2026-08-17",
+  "generatedAt": "2026-08-24",
   "events": [
-    {
-      "id": "scr-stedelijk-museum-post-no-bills-7-kexin-ha",
-      "title": "Post/No/Bills #7 Kexin Hao",
-      "artist": "Kexin Hao",
-      "venue": "Stedelijk Museum",
-      "loc": "Amsterdam",
-      "type": "exhibition",
-      "date": "2026-08-20",
-      "url": "https://www.stedelijk.nl/en/exhibitions/post-no-bills-7-en"
-    },
-    {
-      "id": "scr-nxt-museum-vr-silent-disco",
-      "title": "VR Silent Disco",
-      "artist": null,
-      "venue": "NXT Museum",
-      "loc": "Amsterdam",
-      "type": "event",
-      "date": "2026-08-20",
-      "url": "https://nxtmuseum.com/event/vr-silent-disco/"
-    },
-    {
-      "id": "scr-no-man-s-art-gal-nocturnas-alan-hernandez",
-      "title": "Nocturnas | Alan Hernández",
-      "artist": "Alan Hernández",
-      "venue": "No Man's Art Gallery",
-      "loc": "Amsterdam",
-      "type": "exhibition",
-      "date": "2026-08-22",
-      "url": "https://www.nomansart.com/exhibitions-3/lisboa-kl2xn-l5ybp-rzjw5-kjfgm-rpnz7"
-    },
-    {
-      "id": "scr-iso-amsterdam-young-boy-dancing-group",
-      "title": "YOUNG BOY DANCING GROUP",
-      "artist": null,
-      "venue": "ISO Amsterdam",
-      "loc": "Amsterdam",
-      "type": "event",
-      "date": "2026-08-22",
-      "url": "https://www.isoamsterdam.nl/program-item/3047-2-2-2-2-2-2-2-2-2-2-2-2-2-2/"
-    },
-    {
-      "id": "scr-arti-et-amicitia-peter-van-hugten-tekenin",
-      "title": "Peter van Hugten – Tekeningen & Gouaches",
-      "artist": "Peter van Hugten",
-      "venue": "Arti et Amicitiae",
-      "loc": "Amsterdam",
-      "type": "exhibition",
-      "date": "2026-08-24",
-      "url": "https://arti.nl/agenda/24-08-2026/peter-van-hugten-tekeningen-gouaches"
-    },
-    {
-      "id": "scr-arti-et-amicitia-annie-schoterman-anche-i",
-      "title": "Annie Schoterman | Anche il verme ha la sua collera",
-      "artist": "Annie Schoterman",
-      "venue": "Arti et Amicitiae",
-      "loc": "Amsterdam",
-      "type": "exhibition",
-      "date": "2026-08-24",
-      "url": "https://arti.nl/agenda/24-08-2026/annie-schoterman-anche-il-verme-ha-la-sua-collera"
-    },
     {
       "id": "scr-andriesse-eyck-snuffel-is-a-drag-on-art",
       "title": "Snuffel is a Drag on Art",
@@ -73,12 +13,12 @@
       "url": "https://www.andriesse-eyck.com/exhibitions/114"
     },
     {
-      "id": "scr-tegenboschvanvre-opening-in-heusden-upcom",
-      "title": "Opening in Heusden: Upcoming: Heusden & Amsterdam",
+      "id": "scr-tegenboschvanvre-apostrophe-heusden",
+      "title": "Apostrophe: Heusden",
       "artist": null,
       "venue": "tegenboschvanvreden",
       "loc": "Amsterdam",
-      "type": "opening",
+      "type": "exhibition",
       "date": "2026-08-29",
       "url": "https://www.tegenboschvanvreden.com/exhibition/current/"
     },
@@ -133,16 +73,6 @@
       "url": "https://vanbavinkgallery.com/exhibitions/solo-jeroen-henneman"
     },
     {
-      "id": "scr-galerie-fontana-exhibition-claudy-jongst",
-      "title": "Exhibition Claudy Jongstra Guest Artists: Gerbrand Burger Mirte van Laarhoven",
-      "artist": "Claudy Jongstra",
-      "venue": "Galerie Fontana",
-      "loc": "Amsterdam",
-      "type": "exhibition",
-      "date": "2026-09-04",
-      "url": "https://www.galeriefontana.com/agenda"
-    },
-    {
       "id": "scr-galerie-bart-human-echo",
       "title": "Human Echo",
       "artist": null,
@@ -163,6 +93,26 @@
       "url": "https://w139.nl/event/the-nature-of-remembering/"
     },
     {
+      "id": "scr-no-limits-art-ca-plucking-the-broom",
+      "title": "Plucking the Broom",
+      "artist": null,
+      "venue": "No Limits Art Castle",
+      "loc": "Amsterdam",
+      "type": "exhibition",
+      "date": "2026-09-04",
+      "url": "https://nolimitsartcastle.nl/evenement/plucking-the-broom/"
+    },
+    {
+      "id": "scr-lumen-travo-gall-four-legs-good-two-legs",
+      "title": "Four Legs Good, Two Legs Bad!",
+      "artist": null,
+      "venue": "Lumen Travo Gallery",
+      "loc": "Amsterdam",
+      "type": "exhibition",
+      "date": "2026-09-04",
+      "url": "https://www.lumentravo.nl/exhibitions/four-legs-good-two-legs-bad"
+    },
+    {
       "id": "scr-akinci-maria-roosen-express",
       "title": "Maria Roosen | EXPRESS",
       "artist": "Maria Roosen",
@@ -181,6 +131,16 @@
       "type": "exhibition",
       "date": "2026-09-04",
       "url": "https://www.enari.gallery/exhibitions/36-places-of-wild-things-raffael-bader/"
+    },
+    {
+      "id": "scr-galerie-fontana-an-encounter-materials-n",
+      "title": "An Encounter: Materials, Nature and Time Exhibition Claudy Jongstra Guest Artists: Gerbrand Burger Mirte van Laarhoven",
+      "artist": "Claudy Jongstra",
+      "venue": "Galerie Fontana",
+      "loc": "Amsterdam",
+      "type": "exhibition",
+      "date": "2026-09-05",
+      "url": "https://www.galeriefontana.com/agenda"
     },
     {
       "id": "scr-sac-art-amsterda-upon-us-after",
@@ -248,7 +208,7 @@
       "artist": null,
       "venue": "De Appel",
       "loc": "Amsterdam",
-      "type": "event",
+      "type": "exhibition",
       "date": "2026-09-05",
       "url": "https://www.deappel.nl/nl/archive/events/1360-service-at-dappermarkt"
     },
@@ -260,7 +220,17 @@
       "loc": "Amsterdam",
       "type": "exhibition",
       "date": "2026-09-05",
-      "url": "https://www.josildadaconceicao.com/exhibitions#-the-bear-prefers-to-remain-silent"
+      "url": "https://www.josildadaconceicao.com/exhibitions#the-bear-prefers-to-remain-silent"
+    },
+    {
+      "id": "scr-galerie-caroline-black-well-white-gold",
+      "title": "Black Well, White Gold",
+      "artist": null,
+      "venue": "Galerie Caroline O'Breen",
+      "loc": "Amsterdam",
+      "type": "exhibition",
+      "date": "2026-09-05",
+      "url": "https://www.carolineobreen.com/#/exhibition/black-well-white-gold"
     },
     {
       "id": "scr-slewe-gallery-paul-drissen-ama",
@@ -291,6 +261,16 @@
       "type": "exhibition",
       "date": "2026-09-09",
       "url": "https://arti.nl/agenda/09-09-2026/groen"
+    },
+    {
+      "id": "scr-the-merchant-hou-books-and-films-at-tmh",
+      "title": "BOOKS AND FILMS AT TMH",
+      "artist": null,
+      "venue": "The Merchant House",
+      "loc": "Amsterdam",
+      "type": "event",
+      "date": "2026-09-10",
+      "url": "https://merchanthouse.nl/projects/"
     },
     {
       "id": "scr-arti-et-amicitia-update-talk-david-veldho",
@@ -341,6 +321,26 @@
       "type": "exhibition",
       "date": "2026-09-12",
       "url": "https://www.deappel.nl/nl/archive/events/1354-lapdogs-of-the-bourgeoisie-2026-class-hegemony-in-contemporary-art"
+    },
+    {
+      "id": "scr-galerie-fleur-wo-underwater-aftermath",
+      "title": "Underwater Aftermath",
+      "artist": null,
+      "venue": "Galerie Fleur & Wouter",
+      "loc": "Amsterdam",
+      "type": "exhibition",
+      "date": "2026-09-12",
+      "url": "https://www.galeriefleurenwouter.com/exhibitions/2026/9/12/underwater-aftermath"
+    },
+    {
+      "id": "scr-treehouse-ndsm-pop-up-exhibition-tijdel",
+      "title": "Pop-up exhibition Tijdelijke Thuisvensters",
+      "artist": null,
+      "venue": "Treehouse NDSM",
+      "loc": "Amsterdam",
+      "type": "exhibition",
+      "date": "2026-09-12",
+      "url": "https://www.treehousendsm.com/agenda/pop-up-exhibition-tijdelijke-thuisvensters"
     },
     {
       "id": "scr-galerie-onrust-terra-a-landscape-of-mor",
@@ -403,6 +403,16 @@
       "url": "https://www.treehousendsm.com/agenda/come-back-to-your-nature-culture"
     },
     {
+      "id": "scr-w139-atmospheric-witnessing",
+      "title": "Atmospheric Witnessing",
+      "artist": null,
+      "venue": "W139",
+      "loc": "Amsterdam",
+      "type": "exhibition",
+      "date": "2026-09-19",
+      "url": "https://w139.nl/event/atmospheric-witnessing/"
+    },
+    {
       "id": "scr-woonhuis-de-atel-house-of-day-house-of-ni",
       "title": "House of Day, House of Night",
       "artist": null,
@@ -421,6 +431,26 @@
       "type": "exhibition",
       "date": "2026-09-26",
       "url": "https://www.borzo.com/exhibitions/134-jan-henderikse.-too-much-is-not-enough/"
+    },
+    {
+      "id": "scr-w139-the-frame-cannot-hold-th",
+      "title": "The Frame Cannot Hold the Ghosts",
+      "artist": null,
+      "venue": "W139",
+      "loc": "Amsterdam",
+      "type": "exhibition",
+      "date": "2026-09-27",
+      "url": "https://w139.nl/event/the-frame-cannot-hold-the-ghosts/"
+    },
+    {
+      "id": "scr-arti-et-amicitia-een-warm-welkom-bij-arti",
+      "title": "Een warm welkom bij Arti",
+      "artist": null,
+      "venue": "Arti et Amicitiae",
+      "loc": "Amsterdam",
+      "type": "exhibition",
+      "date": "2026-09-29",
+      "url": "https://arti.nl/agenda/29-09-2026/een-warm-welkom-bij-arti"
     },
     {
       "id": "scr-project-space-on-naturocene",
@@ -443,14 +473,34 @@
       "url": "https://www.andriesse-eyck.com/exhibitions/115"
     },
     {
-      "id": "scr-grimm-charles-avery",
-      "title": "Charles Avery",
+      "id": "scr-w139-rondleiding-met-curators",
+      "title": "Rondleiding met curators door The Nature of Remembering",
+      "artist": null,
+      "venue": "W139",
+      "loc": "Amsterdam",
+      "type": "event",
+      "date": "2026-10-03",
+      "url": "https://w139.nl/event/rondleiding-met-curators/"
+    },
+    {
+      "id": "scr-arti-et-amicitia-sails-of-anarchy",
+      "title": "Sails of Anarchy",
+      "artist": null,
+      "venue": "Arti et Amicitiae",
+      "loc": "Amsterdam",
+      "type": "exhibition",
+      "date": "2026-10-09",
+      "url": "https://arti.nl/agenda/09-10-2026/sails-of-anarchy"
+    },
+    {
+      "id": "scr-grimm-charles-avery-where-rocc",
+      "title": "Charles Avery Where Rocco Found a Dead Monster or The Land of the Downcast Eyes",
       "artist": "Charles Avery",
       "venue": "GRIMM",
       "loc": "Amsterdam",
       "type": "exhibition",
       "date": "2026-10-09",
-      "url": "https://grimmgallery.com/exhibitions/378-charles-avery/"
+      "url": "https://grimmgallery.com/exhibitions/378-charles-avery-where-rocco-found-a-dead-monster-or-the/"
     },
     {
       "id": "scr-josilda-da-conce-with-me-the-form-of-your",
@@ -474,13 +524,23 @@
     },
     {
       "id": "scr-nxt-museum-earthsonic-ade-and-nxt-m",
-      "title": "EarthSonic, ADE and Nxt Museum Premiere: Two Seas and Sumuku",
+      "title": "EarthSonic, ADE and Nxt Museum Premiere: Two Seas and Vinorun",
       "artist": null,
       "venue": "NXT Museum",
       "loc": "Amsterdam",
       "type": "event",
       "date": "2026-10-22",
       "url": "https://nxtmuseum.com/event/nxt-museum-earthsonic-and-ade-arts-culture-present-premiere-sumuku-and-two-seas/"
+    },
+    {
+      "id": "scr-arti-et-amicitia-wellness-wigs-and-weapon",
+      "title": "Wellness, Wigs and Weapons",
+      "artist": null,
+      "venue": "Arti et Amicitiae",
+      "loc": "Amsterdam",
+      "type": "exhibition",
+      "date": "2026-10-23",
+      "url": "https://arti.nl/agenda/23-10-2026/wellness-wigs-and-weapons"
     },
     {
       "id": "scr-oude-kerk-mire-lee",
