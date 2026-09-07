@@ -1,237 +1,7 @@
 {
   "source": "amsterdam-art-agenda (weekly GitHub Action)",
-  "generatedAt": "2026-08-31",
+  "generatedAt": "2026-09-07",
   "events": [
-    {
-      "id": "scr-rozenstraat-enter-public-space-enter",
-      "title": "Enter/Public/Space & Enter/Public/Stage",
-      "artist": null,
-      "venue": "Rozenstraat",
-      "loc": "Amsterdam",
-      "type": "exhibition",
-      "date": "2026-09-03",
-      "url": "https://www.rozenstraat.com/event/enter-public-space-enter-public-stage/"
-    },
-    {
-      "id": "scr-bildhalle-echoes-margaret-lansink",
-      "title": "ECHOES - MARGARET LANSINK",
-      "artist": "Margaret Lansink",
-      "venue": "Bildhalle",
-      "loc": "Amsterdam",
-      "type": "exhibition",
-      "date": "2026-09-04",
-      "url": "https://www.bildhalle.ch/exhibitions/116-echoes-margaret-lansink-amsterdam/overview/"
-    },
-    {
-      "id": "scr-gallery-vriend-v-jeroen-henneman-een-over",
-      "title": "Jeroen Henneman - Een Overzicht",
-      "artist": "Jeroen Henneman",
-      "venue": "Gallery Vriend van Bavink",
-      "loc": "Amsterdam",
-      "type": "exhibition",
-      "date": "2026-09-04",
-      "url": "https://vanbavinkgallery.com/exhibitions/solo-jeroen-henneman"
-    },
-    {
-      "id": "scr-galerie-bart-human-echo",
-      "title": "Human Echo",
-      "artist": null,
-      "venue": "Galerie Bart",
-      "loc": "Amsterdam",
-      "type": "exhibition",
-      "date": "2026-09-04",
-      "url": "https://www.galeriebart.nl/exhibitions/29-human-echo-exhibition-at-pop-up-galerie-bart-nijmegen/"
-    },
-    {
-      "id": "scr-w139-the-nature-of-rememberin",
-      "title": "The Nature of Remembering",
-      "artist": null,
-      "venue": "W139",
-      "loc": "Amsterdam",
-      "type": "exhibition",
-      "date": "2026-09-04",
-      "url": "https://w139.nl/event/the-nature-of-remembering/"
-    },
-    {
-      "id": "scr-no-limits-art-ca-plucking-the-broom",
-      "title": "Plucking the Broom",
-      "artist": null,
-      "venue": "No Limits Art Castle",
-      "loc": "Amsterdam",
-      "type": "exhibition",
-      "date": "2026-09-04",
-      "url": "https://nolimitsartcastle.nl/evenement/plucking-the-broom/"
-    },
-    {
-      "id": "scr-lumen-travo-gall-four-legs-good-two-legs",
-      "title": "Four Legs Good, Two Legs Bad!",
-      "artist": null,
-      "venue": "Lumen Travo Gallery",
-      "loc": "Amsterdam",
-      "type": "exhibition",
-      "date": "2026-09-04",
-      "url": "https://www.lumentravo.nl/exhibitions/four-legs-good-two-legs-bad"
-    },
-    {
-      "id": "scr-raam-art-space-the-weight-of-making",
-      "title": "The weight of making",
-      "artist": null,
-      "venue": "RAAM Art Space",
-      "loc": "Amsterdam",
-      "type": "exhibition",
-      "date": "2026-09-04",
-      "url": "https://www.raamartspace.com/exhibitions/the-weight-of-making"
-    },
-    {
-      "id": "scr-akinci-maria-roosen-express",
-      "title": "Maria Roosen | EXPRESS",
-      "artist": "Maria Roosen",
-      "venue": "AKINCI",
-      "loc": "Amsterdam",
-      "type": "exhibition",
-      "date": "2026-09-04",
-      "url": "https://akinci.nl/exhibitions/#maria-roosen-express"
-    },
-    {
-      "id": "scr-michiel-simons-come-on-play-it-again",
-      "title": "Come On, Play it Again",
-      "artist": null,
-      "venue": "Michiel Simons",
-      "loc": "Amsterdam",
-      "type": "exhibition",
-      "date": "2026-09-04",
-      "url": "https://www.michielsimons.com/exhibitions/come-on-play-it-again"
-    },
-    {
-      "id": "scr-enari-gallery-places-of-wild-things",
-      "title": "Places of Wild Things",
-      "artist": null,
-      "venue": "Enari Gallery",
-      "loc": "Amsterdam",
-      "type": "exhibition",
-      "date": "2026-09-04",
-      "url": "https://www.enari.gallery/exhibitions/36-places-of-wild-things-raffael-bader/"
-    },
-    {
-      "id": "scr-galerie-fontana-an-encounter-materials-n",
-      "title": "An Encounter: Materials, Nature and Time Exhibition Claudy Jongstra Guest Artists: Gerbrand Burger Mirte van Laarhoven",
-      "artist": "Claudy Jongstra",
-      "venue": "Galerie Fontana",
-      "loc": "Amsterdam",
-      "type": "exhibition",
-      "date": "2026-09-05",
-      "url": "https://www.galeriefontana.com/agenda"
-    },
-    {
-      "id": "scr-sac-art-amsterda-upon-us-after",
-      "title": "Upon Us After",
-      "artist": null,
-      "venue": "SAC Art Amsterdam",
-      "loc": "Amsterdam",
-      "type": "exhibition",
-      "date": "2026-09-05",
-      "url": "https://sacartamsterdam.com/upcoming-exhibition/"
-    },
-    {
-      "id": "scr-arti-et-amicitia-after-destruction",
-      "title": "After Destruction",
-      "artist": null,
-      "venue": "Arti et Amicitiae",
-      "loc": "Amsterdam",
-      "type": "exhibition",
-      "date": "2026-09-05",
-      "url": "https://arti.nl/agenda/05-09-2026/after-destruction"
-    },
-    {
-      "id": "scr-cbk-zuidoost-cahaya-maluku-molukse-ma",
-      "title": "Cahaya Maluku –Molukse makers in het licht",
-      "artist": null,
-      "venue": "CBK Zuidoost",
-      "loc": "Amsterdam",
-      "type": "exhibition",
-      "date": "2026-09-05",
-      "url": "https://www.cbkzuidoost.nl/tentoonstellingen/nu-en-verwacht/cahaya-maluku-molukse-makers-in-het-licht/"
-    },
-    {
-      "id": "scr-no-man-s-art-gal-the-black-bird-was-singi",
-      "title": "the black bird was singing, the light was bright | Marilyn Sonneveld",
-      "artist": "Marilyn Sonneveld",
-      "venue": "No Man's Art Gallery",
-      "loc": "Amsterdam",
-      "type": "exhibition",
-      "date": "2026-09-05",
-      "url": "https://www.nomansart.com/exhibitions-3/opening-the-window-the-black-bird-was-singing-the-light-was-bright-marilyn-sonneveld"
-    },
-    {
-      "id": "scr-arti-et-amicitia-lezing-de-kunstenaars-va",
-      "title": "Lezing ‘De kunstenaars van de Jan Steenzolder’",
-      "artist": null,
-      "venue": "Arti et Amicitiae",
-      "loc": "Amsterdam",
-      "type": "event",
-      "date": "2026-09-05",
-      "url": "https://arti.nl/agenda/05-09-2026/lezing-de-kunstenaars-van-de-jan-steenzolder"
-    },
-    {
-      "id": "scr-de-appel-service-at-dappermarkt",
-      "title": "Service at Dappermarkt",
-      "artist": null,
-      "venue": "De Appel",
-      "loc": "Amsterdam",
-      "type": "exhibition",
-      "date": "2026-09-05",
-      "url": "https://www.deappel.nl/nl/archive/events/1360-service-at-dappermarkt"
-    },
-    {
-      "id": "scr-josilda-da-conce-the-bear-prefers-to-rema",
-      "title": "The bear prefers to remain silent",
-      "artist": null,
-      "venue": "Josilda da Conceicao",
-      "loc": "Amsterdam",
-      "type": "exhibition",
-      "date": "2026-09-05",
-      "url": "https://www.josildadaconceicao.com/exhibitions#the-bear-prefers-to-remain-silent"
-    },
-    {
-      "id": "scr-galerie-caroline-black-well-white-gold",
-      "title": "Black Well, White Gold",
-      "artist": null,
-      "venue": "Galerie Caroline O'Breen",
-      "loc": "Amsterdam",
-      "type": "exhibition",
-      "date": "2026-09-05",
-      "url": "https://www.carolineobreen.com/#/exhibition/black-well-white-gold"
-    },
-    {
-      "id": "scr-slewe-gallery-paul-drissen-ama",
-      "title": "Paul Drissen, Ama",
-      "artist": "Paul Drissen",
-      "venue": "Slewe Gallery",
-      "loc": "Amsterdam",
-      "type": "exhibition",
-      "date": "2026-09-05",
-      "url": "https://www.slewe.nl/exhibitions/2026#pauldrissenama"
-    },
-    {
-      "id": "scr-dudokdegroot-delphine-courtillot",
-      "title": "Delphine Courtillot",
-      "artist": "Delphine Courtillot",
-      "venue": "dudokdegroot",
-      "loc": "Amsterdam",
-      "type": "exhibition",
-      "date": "2026-09-05",
-      "url": "https://www.dudokdegroot.nl/"
-    },
-    {
-      "id": "scr-grimm-robert-zandvliet-paradai",
-      "title": "Robert Zandvliet Paradaidha",
-      "artist": "Robert Zandvliet",
-      "venue": "GRIMM",
-      "loc": "Amsterdam",
-      "type": "exhibition",
-      "date": "2026-09-05",
-      "url": "https://grimmgallery.com/exhibitions/374-robert-zandvliet-paradaidha/"
-    },
     {
       "id": "scr-arti-et-amicitia-groen",
       "title": "GROEN",
@@ -268,7 +38,7 @@
       "artist": null,
       "venue": "Framer Framed",
       "loc": "Amsterdam",
-      "type": "event",
+      "type": "exhibition",
       "date": "2026-09-11",
       "url": "https://framerframed.nl/exposities/menaut-waktu-merekam-jejak-threading-time-archiving-traces/"
     },
@@ -291,6 +61,46 @@
       "type": "exhibition",
       "date": "2026-09-11",
       "url": "https://framerframed.nl/exposities/secret-arts-teachers/"
+    },
+    {
+      "id": "scr-annet-gelink-gal-david-maljkovic-in-the-c",
+      "title": "David Maljković In the café, a landscape is placed on the wall at eye level 11",
+      "artist": "David Maljković",
+      "venue": "Annet Gelink Gallery",
+      "loc": "Amsterdam",
+      "type": "exhibition",
+      "date": "2026-09-11",
+      "url": "https://www.annetgelink.com/exhibitions/349-david-maljkovic-in-the-cafe-a-landscape-is-placed-on/"
+    },
+    {
+      "id": "scr-annet-gelink-gal-alessandro-di-pietro-in",
+      "title": "Alessandro Di Pietro | in The Bakery La Vita Agra 11",
+      "artist": "Alessandro Di Pietro",
+      "venue": "Annet Gelink Gallery",
+      "loc": "Amsterdam",
+      "type": "exhibition",
+      "date": "2026-09-11",
+      "url": "https://www.annetgelink.com/exhibitions/350-alessandro-di-pietro-in-the-bakery-la-vita-agra/"
+    },
+    {
+      "id": "scr-hartwig-proxy-cellar-series-4-laura-co",
+      "title": "Cellar Series 4 - Laura Cocks",
+      "artist": "Laura Cocks",
+      "venue": "Hartwig Proxy",
+      "loc": "Amsterdam",
+      "type": "event",
+      "date": "2026-09-11",
+      "url": "https://www.hartwigproxy.nl/programme/cellar-series-4"
+    },
+    {
+      "id": "scr-made-van-krimpen-art-film-program-albania",
+      "title": "Art Film Program Albania",
+      "artist": null,
+      "venue": "Madé van Krimpen",
+      "loc": "Amsterdam",
+      "type": "event",
+      "date": "2026-09-11",
+      "url": "https://madevankrimpen.com/blogs/exhibitions/art-film-program-albania-september-8-11"
     },
     {
       "id": "scr-galerie-ron-mand-zanele-muholi-hlanganani",
@@ -363,6 +173,26 @@
       "url": "https://arti.nl/agenda/14-09-2026/robert-broekhuis"
     },
     {
+      "id": "scr-hartwig-proxy-proxy-family-table-ansum",
+      "title": "Proxy Family Table - Ansuman van der Poorten",
+      "artist": "Ansuman van der Poorten",
+      "venue": "Hartwig Proxy",
+      "loc": "Amsterdam",
+      "type": "event",
+      "date": "2026-09-15",
+      "url": "https://www.hartwigproxy.nl/programme/proxy-family-table-september"
+    },
+    {
+      "id": "scr-rijksakademie-federico-campagna-the-el",
+      "title": "Federico Campagna: The elegance of world building",
+      "artist": "Federico Campagna",
+      "venue": "Rijksakademie",
+      "loc": "Amsterdam",
+      "type": "event",
+      "date": "2026-09-16",
+      "url": "https://rijksakademie.nl/en/public-programme/2026-09-16-federico-campagna-the-elegance-of-world-building"
+    },
+    {
       "id": "scr-arti-et-amicitia-arti-shuffle-jonge-music",
       "title": "Arti Shuffle Jonge Musici: Jason Li & Isaac Lam",
       "artist": null,
@@ -378,7 +208,7 @@
       "artist": null,
       "venue": "No Man's Art Gallery",
       "loc": "Amsterdam",
-      "type": "exhibition",
+      "type": "fair",
       "date": "2026-09-17",
       "url": "https://www.nomansart.com/exhibitions-3/nap-2026"
     },
@@ -388,7 +218,7 @@
       "artist": null,
       "venue": "Gallery Vriend van Bavink",
       "loc": "Amsterdam",
-      "type": "exhibition",
+      "type": "fair",
       "date": "2026-09-17",
       "url": "https://vanbavinkgallery.com/exhibitions/nap-2"
     },
@@ -401,6 +231,16 @@
       "type": "fair",
       "date": "2026-09-17",
       "url": "https://www.de-ateliers.nl/event/unfair-26/"
+    },
+    {
+      "id": "scr-borzo-gallery-nap-2026-constant-fleur",
+      "title": "NAP+ 2026 | Constant / Fleur van Dodewaard",
+      "artist": null,
+      "venue": "Borzo Gallery",
+      "loc": "Amsterdam",
+      "type": "fair",
+      "date": "2026-09-17",
+      "url": "https://www.borzo.com/exhibitions/135-nap-2026-constant-fleur-van-dodewaard-stand-39/"
     },
     {
       "id": "scr-treehouse-ndsm-come-back-to-your-nature",
@@ -423,6 +263,46 @@
       "url": "https://rijksakademie.nl/en/public-programme/2026-09-18-untitled-games-event"
     },
     {
+      "id": "scr-hartwig-proxy-disobedient-soup-beta-lo",
+      "title": "Disobedient Soup – Beta-Local x Pivô Salvador x Hartwig Art Foundation",
+      "artist": null,
+      "venue": "Hartwig Proxy",
+      "loc": "Amsterdam",
+      "type": "event",
+      "date": "2026-09-18",
+      "url": "https://www.hartwigproxy.nl/programme/disobedient-soup"
+    },
+    {
+      "id": "scr-hartwig-proxy-disobedient-soup-ferment",
+      "title": "Disobedient Soup – Ferment: Pique & Storytelling",
+      "artist": null,
+      "venue": "Hartwig Proxy",
+      "loc": "Amsterdam",
+      "type": "event",
+      "date": "2026-09-18",
+      "url": "https://www.hartwigproxy.nl/programme/ferment-pique-making-workshop"
+    },
+    {
+      "id": "scr-van-fanny-freyta-komorebi-solo-exhibition",
+      "title": "Komorebi | Solo exhibition by Marinka Reuten",
+      "artist": "Marinka Reuten",
+      "venue": "Van Fanny Freytag",
+      "loc": "Amsterdam",
+      "type": "exhibition",
+      "date": "2026-09-18",
+      "url": "https://www.vanfannyfreytag.com/programme/komorebi-solo-exhibition-by-marinka-reuten"
+    },
+    {
+      "id": "scr-gwen-park-galler-in-the-air-lou-ros-sangh",
+      "title": "In The Air - Lou Ros & Sanghyuk Kim",
+      "artist": null,
+      "venue": "Gwen Park Gallery",
+      "loc": "Amsterdam",
+      "type": "exhibition",
+      "date": "2026-09-18",
+      "url": "https://www.gwenparkgallery.com/exhibitions/27-in-the-air-lou-ros-sanghyuk-kim/"
+    },
+    {
       "id": "scr-w139-atmospheric-witnessing",
       "title": "Atmospheric Witnessing",
       "artist": null,
@@ -431,6 +311,26 @@
       "type": "exhibition",
       "date": "2026-09-19",
       "url": "https://w139.nl/event/atmospheric-witnessing/"
+    },
+    {
+      "id": "scr-hartwig-proxy-disobedient-soup-cook",
+      "title": "Disobedient Soup – Cook",
+      "artist": null,
+      "venue": "Hartwig Proxy",
+      "loc": "Amsterdam",
+      "type": "event",
+      "date": "2026-09-19",
+      "url": "https://www.hartwigproxy.nl/programme/cook-disobedient-soup"
+    },
+    {
+      "id": "scr-hartwig-proxy-disobedient-soup-digest",
+      "title": "Disobedient Soup – Digest",
+      "artist": null,
+      "venue": "Hartwig Proxy",
+      "loc": "Amsterdam",
+      "type": "event",
+      "date": "2026-09-20",
+      "url": "https://www.hartwigproxy.nl/programme/digest-talk"
     },
     {
       "id": "scr-arti-et-amicitia-frank-lenferink-tekening",
@@ -453,6 +353,16 @@
       "url": "https://woonhuis.de-ateliers.nl/nl/programma/house-of-day-house-of-night"
     },
     {
+      "id": "scr-rijksakademie-the-trial",
+      "title": "The Trial",
+      "artist": null,
+      "venue": "Rijksakademie",
+      "loc": "Amsterdam",
+      "type": "exhibition",
+      "date": "2026-09-25",
+      "url": "https://rijksakademie.nl/en/public-programme/2026-09-25-the-trial"
+    },
+    {
       "id": "scr-borzo-gallery-jan-henderikse-too-much",
       "title": "Jan Henderikse. Too Much is Not Enough!",
       "artist": "Jan Henderikse",
@@ -461,6 +371,26 @@
       "type": "exhibition",
       "date": "2026-09-26",
       "url": "https://www.borzo.com/exhibitions/134-jan-henderikse.-too-much-is-not-enough/"
+    },
+    {
+      "id": "scr-hartwig-proxy-proxy-s-one-year-birthda",
+      "title": "Proxy's One-Year Birthday",
+      "artist": null,
+      "venue": "Hartwig Proxy",
+      "loc": "Amsterdam",
+      "type": "event",
+      "date": "2026-09-26",
+      "url": "https://www.hartwigproxy.nl/programme/proxy-s-one-year-birthday"
+    },
+    {
+      "id": "scr-homecoming-galle-mia-weiner-johnny-mae-ha",
+      "title": "Mia Weiner & Johnny Mae Hauser | Connected Bodies",
+      "artist": null,
+      "venue": "Homecoming Gallery",
+      "loc": "Amsterdam",
+      "type": "exhibition",
+      "date": "2026-09-26",
+      "url": "https://homecoming.gallery/shows/mia-weiner-johnny-mae-hauser-connected-bodies/"
     },
     {
       "id": "scr-w139-the-frame-cannot-hold-th",
@@ -483,6 +413,16 @@
       "url": "https://arti.nl/agenda/29-09-2026/Een%20warm%20welkom%20bij%20Arti"
     },
     {
+      "id": "scr-arti-et-amicitia-het-mysterie-van-de-zoek",
+      "title": "Het mysterie van de zoekgeraakte titel",
+      "artist": null,
+      "venue": "Arti et Amicitiae",
+      "loc": "Amsterdam",
+      "type": "exhibition",
+      "date": "2026-09-29",
+      "url": "https://arti.nl/agenda/29-09-2026/het-mysterie-van-de-zoekgeraakte-titel"
+    },
+    {
       "id": "scr-arti-et-amicitia-azart-come-make-art",
       "title": "AZART COME MAKE ART",
       "artist": null,
@@ -503,8 +443,8 @@
       "url": "https://www.projectspaceontheinside.org/"
     },
     {
-      "id": "scr-raam-art-space-anouk-griffioen",
-      "title": "Anouk Griffioen",
+      "id": "scr-raam-art-space-forest-of-the-city-anouk",
+      "title": "Forest of the City - Anouk Griffioen",
       "artist": "Anouk Griffioen",
       "venue": "RAAM Art Space",
       "loc": "Amsterdam",
@@ -523,8 +463,8 @@
       "url": "https://www.andriesse-eyck.com/exhibitions/115"
     },
     {
-      "id": "scr-w139-rondleiding-met-curators",
-      "title": "Rondleiding met curators door The Nature of Remembering",
+      "id": "scr-w139-rondleiding-met-curatore",
+      "title": "Rondleiding met curatoren door The Nature of Remembering",
       "artist": null,
       "venue": "W139",
       "loc": "Amsterdam",
@@ -583,6 +523,16 @@
       "url": "https://w139.nl/event/20-23c-50-rh/"
     },
     {
+      "id": "scr-hartwig-proxy-a-closing-gathering-sons",
+      "title": "A Closing Gathering - Sonsbeek 2026 x Hartwig Art Foundation",
+      "artist": null,
+      "venue": "Hartwig Proxy",
+      "loc": "Amsterdam",
+      "type": "event",
+      "date": "2026-10-13",
+      "url": "https://www.hartwigproxy.nl/programme/closing-gathering-sonsbeek"
+    },
+    {
       "id": "scr-nxt-museum-earthsonic-ade-and-nxt-m",
       "title": "EarthSonic, ADE and Nxt Museum Premiere: Two Seas and Vinorun",
       "artist": null,
@@ -619,7 +569,7 @@
       "venue": "Treehouse NDSM",
       "loc": "Amsterdam",
       "type": "exhibition",
-      "date": "2026-11-12",
+      "date": "2026-11-05",
       "url": "https://www.treehousendsm.com/agenda/nasal-demons"
     },
     {
@@ -645,7 +595,7 @@
     {
       "id": "scr-akinci-patricia-kaersenhout",
       "title": "patricia kaersenhout",
-      "artist": "Patricia Kaersenhout",
+      "artist": "patricia kaersenhout",
       "venue": "AKINCI",
       "loc": "Amsterdam",
       "type": "exhibition",
@@ -703,6 +653,16 @@
       "url": "https://www.galerieonrust.nl/news/ernst-van-alphen-book-presentation-interview-re-echanting-photography-in-cooperation-with-valiz-publishers-november-7-8-2026"
     },
     {
+      "id": "scr-galerie-ron-mand-folkert-de-jong-the-part",
+      "title": "Folkert de Jong | The Party",
+      "artist": "Folkert de Jong",
+      "venue": "Galerie Ron Mandos",
+      "loc": "Amsterdam",
+      "type": "exhibition",
+      "date": "2026-11-19",
+      "url": "https://ronmandos.nl/exhibition/folkert-de-jong-the-party/"
+    },
+    {
       "id": "scr-josilda-da-conce-maracutaia",
       "title": "MARACUTAIA",
       "artist": null,
@@ -711,6 +671,36 @@
       "type": "exhibition",
       "date": "2026-11-19",
       "url": "https://www.josildadaconceicao.com/exhibitions#maracutaia"
+    },
+    {
+      "id": "scr-rozenstraat-kinke-kooi",
+      "title": "Kinke Kooi",
+      "artist": "Kinke Kooi",
+      "venue": "Rozenstraat",
+      "loc": "Amsterdam",
+      "type": "exhibition",
+      "date": "2026-11-19",
+      "url": "https://www.rozenstraat.com/event/kinke-kooi/"
+    },
+    {
+      "id": "scr-homecoming-galle-harley-weir-the-garden-c",
+      "title": "Harley Weir: The Garden: Chapter 2",
+      "artist": "Harley Weir",
+      "venue": "Homecoming Gallery",
+      "loc": "Amsterdam",
+      "type": "exhibition",
+      "date": "2026-11-20",
+      "url": "https://homecoming.gallery/shows/harley-weir-the-garden-chapter-2/"
+    },
+    {
+      "id": "scr-cobra-museum-pat-oleszko-fool-disclos",
+      "title": "Pat Oleszko: Fool Disclosure",
+      "artist": "Pat Oleszko",
+      "venue": "Cobra Museum",
+      "loc": "Amstelveen",
+      "type": "exhibition",
+      "date": "2026-11-21",
+      "url": "https://cobra-museum.nl/tentoonstelling/pat-oleszko-fool-disclosure/"
     },
     {
       "id": "scr-raam-art-space-meeus-van-dis",
