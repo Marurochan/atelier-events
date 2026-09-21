@@ -1,237 +1,7 @@
 {
   "source": "amsterdam-art-agenda (weekly GitHub Action)",
-  "generatedAt": "2026-09-14",
+  "generatedAt": "2026-09-21",
   "events": [
-    {
-      "id": "scr-arti-et-amicitia-robert-broekhuis",
-      "title": "ROBERT BROEKHUIS",
-      "artist": "Robert Broekhuis",
-      "venue": "Arti et Amicitiae",
-      "loc": "Amsterdam",
-      "type": "exhibition",
-      "date": "2026-09-14",
-      "url": "https://arti.nl/agenda/14-09-2026/robert-broekhuis"
-    },
-    {
-      "id": "scr-hartwig-proxy-proxy-family-table-ansum",
-      "title": "Proxy Family Table - Ansuman van der Poorten",
-      "artist": "Ansuman van der Poorten",
-      "venue": "Hartwig Proxy",
-      "loc": "Amsterdam",
-      "type": "event",
-      "date": "2026-09-15",
-      "url": "https://www.hartwigproxy.nl/programme/proxy-family-table-september"
-    },
-    {
-      "id": "scr-rijksakademie-federico-campagna-the-el",
-      "title": "Federico Campagna: The elegance of world building",
-      "artist": "Federico Campagna",
-      "venue": "Rijksakademie",
-      "loc": "Amsterdam",
-      "type": "event",
-      "date": "2026-09-16",
-      "url": "https://rijksakademie.nl/en/public-programme/2026-09-16-federico-campagna-the-elegance-of-world-building"
-    },
-    {
-      "id": "scr-arti-et-amicitia-arti-shuffle-jonge-music",
-      "title": "Arti Shuffle Jonge Musici: Jason Li & Isaac Lam",
-      "artist": null,
-      "venue": "Arti et Amicitiae",
-      "loc": "Amsterdam",
-      "type": "event",
-      "date": "2026-09-17",
-      "url": "https://arti.nl/agenda/17-09-2026/arti-shuffle-jonge-musici-jason-li-isaac-lam"
-    },
-    {
-      "id": "scr-no-man-s-art-gal-nap-2026",
-      "title": "NAP+ 2026",
-      "artist": null,
-      "venue": "No Man's Art Gallery",
-      "loc": "Amsterdam",
-      "type": "fair",
-      "date": "2026-09-17",
-      "url": "https://www.nomansart.com/exhibitions-3/nap-2026"
-    },
-    {
-      "id": "scr-gallery-vriend-v-nap",
-      "title": "NAP +",
-      "artist": null,
-      "venue": "Gallery Vriend van Bavink",
-      "loc": "Amsterdam",
-      "type": "fair",
-      "date": "2026-09-17",
-      "url": "https://vanbavinkgallery.com/exhibitions/nap-2"
-    },
-    {
-      "id": "scr-de-ateliers-unfair-26",
-      "title": "‘Unfair 26’",
-      "artist": null,
-      "venue": "De Ateliers",
-      "loc": "Amsterdam",
-      "type": "fair",
-      "date": "2026-09-17",
-      "url": "https://www.de-ateliers.nl/event/unfair-26/"
-    },
-    {
-      "id": "scr-borzo-gallery-nap-2026-constant-fleur",
-      "title": "NAP+ 2026 | Constant / Fleur van Dodewaard",
-      "artist": null,
-      "venue": "Borzo Gallery",
-      "loc": "Amsterdam",
-      "type": "fair",
-      "date": "2026-09-17",
-      "url": "https://www.borzo.com/exhibitions/135-nap-2026-constant-fleur-van-dodewaard-stand-39/"
-    },
-    {
-      "id": "scr-thami-mnyele-fou-2749-social-cartography",
-      "title": "2749 Social Cartography: The Photo Archive of Decolonial Ecology",
-      "artist": null,
-      "venue": "Thami Mnyele Foundation",
-      "loc": "Amsterdam",
-      "type": "exhibition",
-      "date": "2026-09-17",
-      "url": "https://www.thami-mnyele.nl/event-details/2749-social-cartography-the-photo-archive-of-decolonial-ecology-2026-09-17-15-00"
-    },
-    {
-      "id": "scr-treehouse-ndsm-come-back-to-your-nature",
-      "title": "Come Back to Your ___ (Nature/ Culture)",
-      "artist": null,
-      "venue": "Treehouse NDSM",
-      "loc": "Amsterdam",
-      "type": "exhibition",
-      "date": "2026-09-18",
-      "url": "https://www.treehousendsm.com/agenda/come-back-to-your-nature-culture"
-    },
-    {
-      "id": "scr-rijksakademie-untitled-games-event",
-      "title": "[untitled games event]",
-      "artist": null,
-      "venue": "Rijksakademie",
-      "loc": "Amsterdam",
-      "type": "event",
-      "date": "2026-09-18",
-      "url": "https://rijksakademie.nl/en/public-programme/2026-09-18-untitled-games-event"
-    },
-    {
-      "id": "scr-hartwig-proxy-disobedient-soup-beta-lo",
-      "title": "Disobedient Soup – Beta-Local x Pivô Salvador x Hartwig Art Foundation",
-      "artist": null,
-      "venue": "Hartwig Proxy",
-      "loc": "Amsterdam",
-      "type": "event",
-      "date": "2026-09-18",
-      "url": "https://www.hartwigproxy.nl/programme/disobedient-soup"
-    },
-    {
-      "id": "scr-hartwig-proxy-disobedient-soup-ferment",
-      "title": "Disobedient Soup – Ferment: Pique & Storytelling",
-      "artist": null,
-      "venue": "Hartwig Proxy",
-      "loc": "Amsterdam",
-      "type": "event",
-      "date": "2026-09-18",
-      "url": "https://www.hartwigproxy.nl/programme/ferment-pique-making-workshop"
-    },
-    {
-      "id": "scr-van-fanny-freyta-komorebi-solo-exhibition",
-      "title": "Komorebi | Solo exhibition by Marinka Reuten",
-      "artist": "Marinka Reuten",
-      "venue": "Van Fanny Freytag",
-      "loc": "Amsterdam",
-      "type": "exhibition",
-      "date": "2026-09-18",
-      "url": "https://www.vanfannyfreytag.com/programme/komorebi-solo-exhibition-by-marinka-reuten"
-    },
-    {
-      "id": "scr-gwen-park-galler-in-the-air-lou-ros-sangh",
-      "title": "In the Air - Lou Ros & Sanghyuk Kim",
-      "artist": null,
-      "venue": "Gwen Park Gallery",
-      "loc": "Amsterdam",
-      "type": "exhibition",
-      "date": "2026-09-18",
-      "url": "https://www.gwenparkgallery.com/exhibitions/27-in-the-air-lou-ros-sanghyuk-kim/"
-    },
-    {
-      "id": "scr-thami-mnyele-fou-2749-social-cartographyx",
-      "title": "2749 Social Cartography: The Photo Archive of Decolonial Ecology",
-      "artist": null,
-      "venue": "Thami Mnyele Foundation",
-      "loc": "Amsterdam",
-      "type": "exhibition",
-      "date": "2026-09-18",
-      "url": "https://www.thami-mnyele.nl/event-details/2749-social-cartography-the-photo-archive-of-decolonial-ecology-2026-09-18-11-00"
-    },
-    {
-      "id": "scr-w139-atmospheric-witnessing",
-      "title": "Atmospheric Witnessing",
-      "artist": null,
-      "venue": "W139",
-      "loc": "Amsterdam",
-      "type": "exhibition",
-      "date": "2026-09-19",
-      "url": "https://w139.nl/event/atmospheric-witnessing/"
-    },
-    {
-      "id": "scr-hartwig-proxy-disobedient-soup-cook",
-      "title": "Disobedient Soup – Cook",
-      "artist": null,
-      "venue": "Hartwig Proxy",
-      "loc": "Amsterdam",
-      "type": "event",
-      "date": "2026-09-19",
-      "url": "https://www.hartwigproxy.nl/programme/cook-disobedient-soup"
-    },
-    {
-      "id": "scr-eye-filmmuseum-ulrich-seidl-uber-das-le",
-      "title": "Ulrich Seidl – Über das Leben, die Liebe und den Tod",
-      "artist": "Ulrich Seidl",
-      "venue": "Eye Filmmuseum",
-      "loc": "Amsterdam",
-      "type": "event",
-      "date": "2026-09-19",
-      "url": "https://www.eyefilm.nl/programma/ulrich-seidl/1633828"
-    },
-    {
-      "id": "scr-thami-mnyele-fou-2749-social-cartographyxx",
-      "title": "2749 Social Cartography: The Photo Archive of Decolonial Ecology",
-      "artist": null,
-      "venue": "Thami Mnyele Foundation",
-      "loc": "Amsterdam",
-      "type": "exhibition",
-      "date": "2026-09-19",
-      "url": "https://www.thami-mnyele.nl/event-details/2749-social-cartography-the-photo-archive-of-decolonial-ecology-2026-09-19-13-00"
-    },
-    {
-      "id": "scr-hartwig-proxy-disobedient-soup-digest",
-      "title": "Disobedient Soup – Digest",
-      "artist": null,
-      "venue": "Hartwig Proxy",
-      "loc": "Amsterdam",
-      "type": "event",
-      "date": "2026-09-20",
-      "url": "https://www.hartwigproxy.nl/programme/digest-talk"
-    },
-    {
-      "id": "scr-thami-mnyele-fou-2749-social-cartographyxxx",
-      "title": "2749 Social Cartography: The Photo Archive of Decolonial Ecology",
-      "artist": null,
-      "venue": "Thami Mnyele Foundation",
-      "loc": "Amsterdam",
-      "type": "exhibition",
-      "date": "2026-09-20",
-      "url": "https://www.thami-mnyele.nl/event-details/2749-social-cartography-the-photo-archive-of-decolonial-ecology-2026-09-20-13-00"
-    },
-    {
-      "id": "scr-arti-et-amicitia-creative-grounds-2026-bl",
-      "title": "Creative Grounds 2026: Bloemschikken met ’t Lievertje Bloemisten",
-      "artist": null,
-      "venue": "Arti et Amicitiae",
-      "loc": "Amsterdam",
-      "type": "event",
-      "date": "2026-09-20",
-      "url": "https://arti.nl/agenda/20-09-2026/creative-grounds-2026-bloemschikken-met-t-lievertje-bloemisten"
-    },
     {
       "id": "scr-arti-et-amicitia-frank-lenferink-tekening",
       "title": "Frank Lenferink | Tekeningen in kleurpotlood",
@@ -363,6 +133,16 @@
       "url": "https://arti.nl/agenda/30-09-2026/azart-come-make-art"
     },
     {
+      "id": "scr-hartwig-proxy-scales-of-climate-eviden",
+      "title": "Scales of climate evidence - Nabil Ahmed, Lua Volluard",
+      "artist": null,
+      "venue": "Hartwig Proxy",
+      "loc": "Amsterdam",
+      "type": "event",
+      "date": "2026-10-01",
+      "url": "https://www.hartwigproxy.nl/programme/climate-rights-2026"
+    },
+    {
       "id": "scr-project-space-on-naturocene",
       "title": "naturocene",
       "artist": null,
@@ -384,13 +164,23 @@
     },
     {
       "id": "scr-hartwig-proxy-proxy-kitchen-gekookte-g",
-      "title": "Proxy Kitchen: Gekookte Geschiedenis – a storytelling dinner by KIP Republic and Imagine IC - chef Daniel Adriaan, pâtissier Gino Gebhard",
+      "title": "Proxy Kitchen: Gekookte Geschiedenis – a storytelling dinner by KIP Republic and Imagine IC - chef Daniël Adriaan, pâtissier Gino Gebhard",
       "artist": null,
       "venue": "Hartwig Proxy",
       "loc": "Amsterdam",
       "type": "event",
       "date": "2026-10-02",
       "url": "https://www.hartwigproxy.nl/programme/proxy-kitchen-kip-republic"
+    },
+    {
+      "id": "scr-gallery-vriend-v-anouk-griffioen-forest-o",
+      "title": "Anouk Griffioen - Forest of the City",
+      "artist": "Anouk Griffioen",
+      "venue": "Gallery Vriend van Bavink",
+      "loc": "Amsterdam",
+      "type": "exhibition",
+      "date": "2026-10-02",
+      "url": "https://vanbavinkgallery.com/exhibitions/anouk-griffioen-forest-of-the-city"
     },
     {
       "id": "scr-andriesse-eyck-a-grave-of-myhtology",
@@ -421,6 +211,16 @@
       "type": "exhibition",
       "date": "2026-10-05",
       "url": "https://arti.nl/agenda/05-10-2026/painters-club-fluor"
+    },
+    {
+      "id": "scr-rozenstraat-rs-hosts-daniel-jacoby",
+      "title": "RS-hosts Daniel Jacoby",
+      "artist": "Daniel Jacoby",
+      "venue": "Rozenstraat",
+      "loc": "Amsterdam",
+      "type": "exhibition",
+      "date": "2026-10-07",
+      "url": "https://www.rozenstraat.com/event/rs-hosts-daniel-jacoby/"
     },
     {
       "id": "scr-rijksakademie-united-nations",
@@ -463,16 +263,6 @@
       "url": "https://grimmgallery.com/exhibitions/378-charles-avery-where-rocco-found-a-dead-monster-or-the/"
     },
     {
-      "id": "scr-josilda-da-conce-with-me-the-form-of-your",
-      "title": "With me the form of your form",
-      "artist": null,
-      "venue": "Josilda da Conceicao",
-      "loc": "Amsterdam",
-      "type": "exhibition",
-      "date": "2026-10-10",
-      "url": "https://www.josildadaconceicao.com/exhibitions#-with-me-the-form-of-your-form"
-    },
-    {
       "id": "scr-stedelijk-museum-adam-pendleton-some-wild",
       "title": "Adam Pendleton Some Wild Kind of Language",
       "artist": "Adam Pendleton",
@@ -503,14 +293,44 @@
       "url": "https://w139.nl/event/20-23c-50-rh/"
     },
     {
+      "id": "scr-arti-et-amicitia-human-water-foundation-k",
+      "title": "Human Water Foundation: Kick-off-tentoonstelling",
+      "artist": null,
+      "venue": "Arti et Amicitiae",
+      "loc": "Amsterdam",
+      "type": "exhibition",
+      "date": "2026-10-12",
+      "url": "https://arti.nl/agenda/12-10-2026/human-water-foundation-kick-off-tentoonstelling"
+    },
+    {
       "id": "scr-hartwig-proxy-sonsbeek-2026-x-hartwig",
-      "title": "Sonsbeek 2026 x Hartwig Art Foundation: A Closing Gathering - Anne-Mie Van Kerckhoven",
-      "artist": "Anne-Mie Van Kerckhoven",
+      "title": "Sonsbeek 2026 x Hartwig Art Foundation: A Closing Gathering - Anne-Mie Van Kerckhoven, senakirfa A., Mia You, Anna Celda, Mmm Money Pie",
+      "artist": null,
       "venue": "Hartwig Proxy",
       "loc": "Amsterdam",
       "type": "event",
       "date": "2026-10-13",
       "url": "https://www.hartwigproxy.nl/programme/closing-gathering-sonsbeek"
+    },
+    {
+      "id": "scr-hartwig-proxy-extreme-presence",
+      "title": "Extreme Presence",
+      "artist": null,
+      "venue": "Hartwig Proxy",
+      "loc": "Amsterdam",
+      "type": "exhibition",
+      "date": "2026-10-14",
+      "url": "https://www.hartwigproxy.nl/programme/extreme-presence-video-room"
+    },
+    {
+      "id": "scr-josilda-da-conce-with-me-the-form-of-your",
+      "title": "With me the form of your form",
+      "artist": null,
+      "venue": "Josilda da Conceicao",
+      "loc": "Amsterdam",
+      "type": "exhibition",
+      "date": "2026-10-17",
+      "url": "https://www.josildadaconceicao.com/exhibitions#-with-me-the-form-of-your-form"
     },
     {
       "id": "scr-hartwig-proxy-proxy-family-table-trang",
@@ -520,7 +340,7 @@
       "loc": "Amsterdam",
       "type": "event",
       "date": "2026-10-20",
-      "url": "https://www.hartwigproxy.nl/programme/proxy-family-table-trang-ha"
+      "url": "https://www.hartwigproxy.nl/programme/proxy-family-table-trang-raquel"
     },
     {
       "id": "scr-nxt-museum-earthsonic-ade-and-nxt-m",
@@ -551,6 +371,66 @@
       "type": "event",
       "date": "2026-10-23",
       "url": "https://w139.nl/event/ade-x-darkmatter-sapodilla/"
+    },
+    {
+      "id": "scr-rijksakademie-mediaclub-rehearsal-of-t",
+      "title": "_mediaclub: Rehearsal of the Victory Day Gig",
+      "artist": null,
+      "venue": "Rijksakademie",
+      "loc": "Amsterdam",
+      "type": "event",
+      "date": "2026-10-23",
+      "url": "https://rijksakademie.nl/en/public-programme/2026-10-23-_mediaclub-rehearsal-of-the-victory-day-gig"
+    },
+    {
+      "id": "scr-hartwig-proxy-extreme-presence-opening",
+      "title": "Extreme Presence Opening Evening - Bogna Konior, Sammy Lee, Lawrence Lek, Lukáš Likavčan and Sarah Shin",
+      "artist": null,
+      "venue": "Hartwig Proxy",
+      "loc": "Amsterdam",
+      "type": "opening",
+      "date": "2026-10-23",
+      "url": "https://www.hartwigproxy.nl/programme/extreme-presence1"
+    },
+    {
+      "id": "scr-hartwig-proxy-extreme-presence-weekend",
+      "title": "Extreme Presence Weekend, Saturday - Elizabeth LaPensee, Fainos Mangena, Dr. Prathima Muniyappa, Sumana Roy, Jeremy Shaw, Aliya Say, Marilou Schultz, Lua Vollaard",
+      "artist": null,
+      "venue": "Hartwig Proxy",
+      "loc": "Amsterdam",
+      "type": "event",
+      "date": "2026-10-24",
+      "url": "https://www.hartwigproxy.nl/programme/extreme-presence-saturday"
+    },
+    {
+      "id": "scr-hartwig-proxy-batter-my-3-personed-g0d",
+      "title": "Batter my ❤️ 3-Personed G0D - Mark Leckey",
+      "artist": "Mark Leckey",
+      "venue": "Hartwig Proxy",
+      "loc": "Amsterdam",
+      "type": "exhibition",
+      "date": "2026-10-24",
+      "url": "https://www.hartwigproxy.nl/programme/mark-leckey"
+    },
+    {
+      "id": "scr-hartwig-proxy-extreme-presence-weekendx",
+      "title": "Extreme Presence Weekend, Sunday - Haley Albert, Daniel Blanga Gubbay, Aishwarya Khanduja, Christopher Kulendran Thomas, Taylor Le Melle, Mark Leckey, Xin Liu, William Morgan, Ariana Reines, Holly Pester",
+      "artist": null,
+      "venue": "Hartwig Proxy",
+      "loc": "Amsterdam",
+      "type": "event",
+      "date": "2026-10-25",
+      "url": "https://www.hartwigproxy.nl/programme/extreme-presence-sunday"
+    },
+    {
+      "id": "scr-hartwig-proxy-weaving-workshop-marilou",
+      "title": "Weaving Workshop - Marilou Schultz",
+      "artist": "Marilou Schultz",
+      "venue": "Hartwig Proxy",
+      "loc": "Amsterdam",
+      "type": "event",
+      "date": "2026-10-25",
+      "url": "https://www.hartwigproxy.nl/programme/weaving-workshop"
     },
     {
       "id": "scr-the-merchant-hou-fragments-summer-group-s",
@@ -595,7 +475,7 @@
     {
       "id": "scr-akinci-patricia-kaersenhout",
       "title": "patricia kaersenhout",
-      "artist": "Patricia Kaersenhout",
+      "artist": "patricia kaersenhout",
       "venue": "AKINCI",
       "loc": "Amsterdam",
       "type": "exhibition",
@@ -623,7 +503,7 @@
       "url": "https://rijksakademie.nl/en/news/2026-05-06-rijksakademie-open-studios"
     },
     {
-      "id": "scr-arti-et-amicitia-arti-shuffle-jonge-musicx",
+      "id": "scr-arti-et-amicitia-arti-shuffle-jonge-music",
       "title": "Arti Shuffle Jonge Musici: Isaure & Christian Johannes",
       "artist": null,
       "venue": "Arti et Amicitiae",
@@ -713,6 +593,16 @@
       "url": "https://homecoming.gallery/shows/harley-weir-the-garden-chapter-2/"
     },
     {
+      "id": "scr-w139-heaving-room",
+      "title": "Heaving Room",
+      "artist": null,
+      "venue": "W139",
+      "loc": "Amsterdam",
+      "type": "exhibition",
+      "date": "2026-11-20",
+      "url": "https://w139.nl/event/heaving-room/"
+    },
+    {
       "id": "scr-cobra-museum-pat-oleszko-fool-disclos",
       "title": "Pat Oleszko: Fool Disclosure",
       "artist": "Pat Oleszko",
@@ -721,6 +611,36 @@
       "type": "exhibition",
       "date": "2026-11-21",
       "url": "https://cobra-museum.nl/tentoonstelling/pat-oleszko-fool-disclosure/"
+    },
+    {
+      "id": "scr-de-appel-50-1-jaar-de-appel-filmv",
+      "title": "50+1 Jaar de Appel: Filmvertoning & Paneldiscussie",
+      "artist": null,
+      "venue": "De Appel",
+      "loc": "Amsterdam",
+      "type": "event",
+      "date": "2026-11-21",
+      "url": "https://www.deappel.nl/nl/archive/events/1361-50-1-jaar-de-appel-filmvertoning-amp-paneldiscussie"
+    },
+    {
+      "id": "scr-thami-mnyele-fou-aaw-artist-talk-with-tot",
+      "title": "AAW: artist talk with Totomboti Collective",
+      "artist": null,
+      "venue": "Thami Mnyele Foundation",
+      "loc": "Amsterdam",
+      "type": "event",
+      "date": "2026-11-21",
+      "url": "https://www.thami-mnyele.nl/event-details/aaw-artist-talk-with-totomboti-collective-1"
+    },
+    {
+      "id": "scr-thami-mnyele-fou-aaw-open-studio-with-fre",
+      "title": "AAW: Open Studio with Fré Calmes",
+      "artist": "Fré Calmes",
+      "venue": "Thami Mnyele Foundation",
+      "loc": "Amsterdam",
+      "type": "event",
+      "date": "2026-11-21",
+      "url": "https://www.thami-mnyele.nl/event-details/aaw-open-studio-with-fre-calmes"
     },
     {
       "id": "scr-raam-art-space-meeus-van-dis",
