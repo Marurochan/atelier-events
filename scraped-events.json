@@ -1,97 +1,7 @@
 {
   "source": "amsterdam-art-agenda (weekly GitHub Action)",
-  "generatedAt": "2026-09-28",
+  "generatedAt": "2026-10-05",
   "events": [
-    {
-      "id": "scr-arti-et-amicitia-een-warm-welkom-bij-arti",
-      "title": "Een warm welkom bij Arti",
-      "artist": null,
-      "venue": "Arti et Amicitiae",
-      "loc": "Amsterdam",
-      "type": "exhibition",
-      "date": "2026-09-29",
-      "url": "https://arti.nl/agenda/29-09-2026/Een%20warm%20welkom%20bij%20Arti"
-    },
-    {
-      "id": "scr-arti-et-amicitia-het-mysterie-van-de-zoek",
-      "title": "Het mysterie van de zoekgeraakte titel",
-      "artist": null,
-      "venue": "Arti et Amicitiae",
-      "loc": "Amsterdam",
-      "type": "exhibition",
-      "date": "2026-09-29",
-      "url": "https://arti.nl/agenda/29-09-2026/het-mysterie-van-de-zoekgeraakte-titel"
-    },
-    {
-      "id": "scr-arti-et-amicitia-azart-come-make-art",
-      "title": "AZART COME MAKE ART",
-      "artist": null,
-      "venue": "Arti et Amicitiae",
-      "loc": "Amsterdam",
-      "type": "event",
-      "date": "2026-09-30",
-      "url": "https://arti.nl/agenda/30-09-2026/azart-come-make-art"
-    },
-    {
-      "id": "scr-hartwig-proxy-scales-of-climate-eviden",
-      "title": "Scales of climate evidence - Nabil Ahmed, Lua Vollaard",
-      "artist": null,
-      "venue": "Hartwig Proxy",
-      "loc": "Amsterdam",
-      "type": "exhibition",
-      "date": "2026-10-01",
-      "url": "https://www.hartwigproxy.nl/programme/climate-rights-2026"
-    },
-    {
-      "id": "scr-project-space-on-naturocene",
-      "title": "naturocene",
-      "artist": null,
-      "venue": "Project Space On The Inside",
-      "loc": "Amsterdam",
-      "type": "exhibition",
-      "date": "2026-10-01",
-      "url": "https://www.projectspaceontheinside.org/"
-    },
-    {
-      "id": "scr-hartwig-proxy-proxy-kitchen-gekookte-g",
-      "title": "Proxy Kitchen: Gekookte Geschiedenis – a storytelling dinner by KIP Republic and Imagine IC - chef Daniël Adriaan, pâtissier Gino Gebhard",
-      "artist": null,
-      "venue": "Hartwig Proxy",
-      "loc": "Amsterdam",
-      "type": "event",
-      "date": "2026-10-02",
-      "url": "https://www.hartwigproxy.nl/programme/proxy-kitchen-kip-republic"
-    },
-    {
-      "id": "scr-gallery-vriend-v-anouk-griffioen-forest-o",
-      "title": "Anouk Griffioen - Forest of the City",
-      "artist": "Anouk Griffioen",
-      "venue": "Gallery Vriend van Bavink",
-      "loc": "Amsterdam",
-      "type": "exhibition",
-      "date": "2026-10-02",
-      "url": "https://vanbavinkgallery.com/exhibitions/anouk-griffioen-forest-of-the-city"
-    },
-    {
-      "id": "scr-andriesse-eyck-a-grave-of-mythology",
-      "title": "A GRAVE OF MYTHOLOGY",
-      "artist": null,
-      "venue": "andriesse~eyck",
-      "loc": "Amsterdam",
-      "type": "exhibition",
-      "date": "2026-10-03",
-      "url": "https://www.andriesse-eyck.com/exhibitions/115"
-    },
-    {
-      "id": "scr-w139-rondleiding-met-curatore",
-      "title": "Rondleiding met curatoren door The Nature of Remembering",
-      "artist": null,
-      "venue": "W139",
-      "loc": "Amsterdam",
-      "type": "event",
-      "date": "2026-10-03",
-      "url": "https://w139.nl/event/rondleiding-met-curators/"
-    },
     {
       "id": "scr-arti-et-amicitia-painters-club-fluor",
       "title": "Painters Club Fluor",
@@ -123,6 +33,16 @@
       "url": "https://www.rozenstraat.com/event/rs-hosts-daniel-jacoby/"
     },
     {
+      "id": "scr-hartwig-proxy-proxy-choir-borrel",
+      "title": "Proxy Choir Borrel",
+      "artist": null,
+      "venue": "Hartwig Proxy",
+      "loc": "Amsterdam",
+      "type": "event",
+      "date": "2026-10-08",
+      "url": "https://www.hartwigproxy.nl/programme/proxy-choir-borrel"
+    },
+    {
       "id": "scr-arti-et-amicitia-kunstlievende-ledenborre",
       "title": "Kunstlievende Ledenborrel met lezing",
       "artist": null,
@@ -143,8 +63,28 @@
       "url": "https://rijksakademie.nl/en/public-programme/2026-10-08-remco-torenbosch-united-nations"
     },
     {
-      "id": "scr-arti-et-amicitia-sails-of-anarchy",
-      "title": "Sails of Anarchy",
+      "id": "scr-arti-et-amicitia-wellness-wigs-and-weapon",
+      "title": "Wellness, Wigs and Weapons",
+      "artist": null,
+      "venue": "Arti et Amicitiae",
+      "loc": "Amsterdam",
+      "type": "exhibition",
+      "date": "2026-10-09",
+      "url": "https://arti.nl/agenda/09-10-2026/wellness-wigs-and-weapons"
+    },
+    {
+      "id": "scr-puntwg-a-guide-to-better-judgme",
+      "title": "A Guide to Better Judgment",
+      "artist": null,
+      "venue": "puntWG",
+      "loc": "Amsterdam",
+      "type": "exhibition",
+      "date": "2026-10-09",
+      "url": "https://puntwg.nl/a-guide-to-better-judgment"
+    },
+    {
+      "id": "scr-arti-et-amicitia-cold-in-church-sails-of",
+      "title": "Cold in Church - Sails of Anarchy",
       "artist": null,
       "venue": "Arti et Amicitiae",
       "loc": "Amsterdam",
@@ -161,16 +101,6 @@
       "type": "exhibition",
       "date": "2026-10-09",
       "url": "https://grimmgallery.com/exhibitions/378-charles-avery-where-rocco-found-a-dead-monster-or-the/"
-    },
-    {
-      "id": "scr-arti-et-amicitia-wellness-wigs-and-weapon",
-      "title": "Wellness, Wigs and Weapons",
-      "artist": null,
-      "venue": "Arti et Amicitiae",
-      "loc": "Amsterdam",
-      "type": "exhibition",
-      "date": "2026-10-09",
-      "url": "https://arti.nl/agenda/09-10-2026/wellness-wigs-and-weapons"
     },
     {
       "id": "scr-stedelijk-museum-adam-pendleton-some-wild",
@@ -223,6 +153,16 @@
       "url": "https://www.hartwigproxy.nl/programme/closing-gathering-sonsbeek"
     },
     {
+      "id": "scr-hartwig-proxy-the-curved-times-of-memo",
+      "title": "The Curved Times of Memory (What Would I Do in Orbit)? — Sonsbeek 2026 x Hartwig Art Foundation - Korakrit Arunanondchai, Anne-Mie Van Kerckhoven, Jota Mombaça, Larry Achiampong",
+      "artist": null,
+      "venue": "Hartwig Proxy",
+      "loc": "Amsterdam",
+      "type": "exhibition",
+      "date": "2026-10-13",
+      "url": "https://www.hartwigproxy.nl/programme/sonsbeek-films"
+    },
+    {
       "id": "scr-hartwig-proxy-extreme-presence",
       "title": "Extreme Presence",
       "artist": null,
@@ -241,6 +181,16 @@
       "type": "exhibition",
       "date": "2026-10-17",
       "url": "https://www.slewe.nl/exhibitions/2026#janroelandhandmade"
+    },
+    {
+      "id": "scr-galerie-caroline-the-given",
+      "title": "the given",
+      "artist": null,
+      "venue": "Galerie Caroline O'Breen",
+      "loc": "Amsterdam",
+      "type": "exhibition",
+      "date": "2026-10-17",
+      "url": "https://www.carolineobreen.com/#/exhibition/the-given"
     },
     {
       "id": "scr-josilda-da-conce-with-me-the-form-of-your",
@@ -273,14 +223,24 @@
       "url": "https://www.hartwigproxy.nl/programme/proxy-family-table-trang-raquel"
     },
     {
-      "id": "scr-nxt-museum-earthsonic-ade-and-nxt-m",
-      "title": "EarthSonic, ADE and Nxt Museum Premiere: Two Seas and Vinorun",
+      "id": "scr-nxt-museum-ade-x-nxt-motie-with-hel",
+      "title": "ADE x Nxt: Motie with Heleen Blanken and Sophia Bulgakova",
       "artist": null,
       "venue": "NXT Museum",
       "loc": "Amsterdam",
       "type": "event",
       "date": "2026-10-22",
-      "url": "https://nxtmuseum.com/event/nxt-museum-earthsonic-and-ade-arts-culture-present-premiere-sumuku-and-two-seas/"
+      "url": "https://nxtmuseum.com/event/curated-by-nxt-motie-at-ade-2026/"
+    },
+    {
+      "id": "scr-rijksakademie-mediaklub-rehearsal-of-t",
+      "title": "_mediaklub: Rehearsal of the Victory Day Gig",
+      "artist": null,
+      "venue": "Rijksakademie",
+      "loc": "Amsterdam",
+      "type": "event",
+      "date": "2026-10-23",
+      "url": "https://rijksakademie.nl/en/public-programme/2026-10-23-_mediaklub-rehearsal-of-the-victory-day-gig"
     },
     {
       "id": "scr-w139-ade-x-darkmatter-sapodil",
@@ -291,16 +251,6 @@
       "type": "event",
       "date": "2026-10-23",
       "url": "https://w139.nl/event/ade-x-darkmatter-sapodilla/"
-    },
-    {
-      "id": "scr-rijksakademie-mediaclub-rehearsal-of-t",
-      "title": "_mediaclub: Rehearsal of the Victory Day Gig",
-      "artist": null,
-      "venue": "Rijksakademie",
-      "loc": "Amsterdam",
-      "type": "event",
-      "date": "2026-10-23",
-      "url": "https://rijksakademie.nl/en/public-programme/2026-10-23-_mediaclub-rehearsal-of-the-victory-day-gig"
     },
     {
       "id": "scr-hartwig-proxy-extreme-presence-opening",
@@ -353,6 +303,16 @@
       "url": "https://www.hartwigproxy.nl/programme/weaving-workshop"
     },
     {
+      "id": "scr-arti-et-amicitia-regis-goncalves-in-memor",
+      "title": "Régis Gonçalves | 'In Memoriam'",
+      "artist": "Régis Gonçalves",
+      "venue": "Arti et Amicitiae",
+      "loc": "Amsterdam",
+      "type": "exhibition",
+      "date": "2026-10-26",
+      "url": "https://arti.nl/agenda/26-10-2026/regis-goncalves-in-memoriam"
+    },
+    {
       "id": "scr-the-merchant-hou-fragments-summer-group-s",
       "title": "FRAGMENTS: SUMMER GROUP SHOW",
       "artist": null,
@@ -361,6 +321,16 @@
       "type": "exhibition",
       "date": "2026-10-29",
       "url": "https://merchanthouse.nl/projects/fragments/"
+    },
+    {
+      "id": "scr-enari-gallery-daughter",
+      "title": "Daughter",
+      "artist": null,
+      "venue": "Enari Gallery",
+      "loc": "Amsterdam",
+      "type": "exhibition",
+      "date": "2026-10-30",
+      "url": "https://www.enari.gallery/exhibitions/37-daughter-lindsay-merrill/"
     },
     {
       "id": "scr-de-appel-eight-hour-organising-ve",
@@ -383,6 +353,46 @@
       "url": "https://www.treehousendsm.com/agenda/nasal-demons"
     },
     {
+      "id": "scr-de-nieuwe-schatk-of-course-studying-art-i",
+      "title": "OF COURSE STUDYING ART IS A TERRIBLE IDEA",
+      "artist": null,
+      "venue": "De Nieuwe Schatkamer / DNB",
+      "loc": "Amsterdam",
+      "type": "exhibition",
+      "date": "2026-11-06",
+      "url": "https://www.denieuweschatkamer.nl/agendaoverzicht/kunst/kunsttentoonstelling-of-course-studying-art-is-a-terrible-idea/"
+    },
+    {
+      "id": "scr-hartwig-proxy-proxy-kitchen-lost-in-tr",
+      "title": "Proxy Kitchen: Lost in Translation - Paulina Bartecka and Joseph van der Heijde",
+      "artist": null,
+      "venue": "Hartwig Proxy",
+      "loc": "Amsterdam",
+      "type": "event",
+      "date": "2026-11-06",
+      "url": "https://www.hartwigproxy.nl/programme/proxy-kitchen"
+    },
+    {
+      "id": "scr-arti-et-amicitia-museumnacht-2026",
+      "title": "MUSEUMNACHT 2026",
+      "artist": null,
+      "venue": "Arti et Amicitiae",
+      "loc": "Amsterdam",
+      "type": "event",
+      "date": "2026-11-07",
+      "url": "https://arti.nl/agenda/07-11-2026/museumnacht-2026"
+    },
+    {
+      "id": "scr-hartwig-proxy-ziyod-launch-by-ruyo-naz",
+      "title": "ZIYOD — Launch by Ruyò - Nazira Karimi",
+      "artist": "Nazira Karimi",
+      "venue": "Hartwig Proxy",
+      "loc": "Amsterdam",
+      "type": "event",
+      "date": "2026-11-12",
+      "url": "https://www.hartwigproxy.nl/programme/ziyod-ruyo"
+    },
+    {
       "id": "scr-lumen-travo-gall-thierry-oussou-veins-of",
       "title": "Thierry Oussou – Veins of Amsterdam",
       "artist": "Thierry Oussou",
@@ -391,6 +401,16 @@
       "type": "exhibition",
       "date": "2026-11-13",
       "url": "https://www.lumentravo.nl/exhibitions/thierry-oussou-veins-of-amsterdam"
+    },
+    {
+      "id": "scr-althuis-hofland-masao-nakahara-playgroun",
+      "title": "Masao Nakahara Playground",
+      "artist": "Masao Nakahara",
+      "venue": "Althuis Hofland Fine Arts",
+      "loc": "Amsterdam",
+      "type": "exhibition",
+      "date": "2026-11-13",
+      "url": "https://althuishofland.com/exhibition/masao-nakahara-we-were-lying-under-an-apple-tree"
     },
     {
       "id": "scr-oude-kerk-mire-lee",
@@ -413,14 +433,24 @@
       "url": "https://arti.nl/agenda/14-11-2026/buning-brongers-prijzen-2026"
     },
     {
-      "id": "scr-akinci-patricia-kaersenhout",
-      "title": "patricia kaersenhout",
+      "id": "scr-arti-et-amicitia-states-of-becoming",
+      "title": "STATES OF BECOMING",
+      "artist": null,
+      "venue": "Arti et Amicitiae",
+      "loc": "Amsterdam",
+      "type": "exhibition",
+      "date": "2026-11-16",
+      "url": "https://arti.nl/agenda/16-11-2026/states-of-becoming"
+    },
+    {
+      "id": "scr-akinci-patricia-kaersenhout-poe",
+      "title": "patricia kaersenhout | Poetic Justice",
       "artist": "patricia kaersenhout",
       "venue": "AKINCI",
       "loc": "Amsterdam",
       "type": "exhibition",
       "date": "2026-11-18",
-      "url": "https://akinci.nl/exhibitions/#patricia-kaersenhout"
+      "url": "https://akinci.nl/exhibitions/#patricia-kaersenhout-poetic-justice"
     },
     {
       "id": "scr-the-merchant-hou-andre-de-jong-and-his-th",
@@ -433,6 +463,16 @@
       "url": "https://www.merchanthouse.nl/projects/de-jong-and-his-theater"
     },
     {
+      "id": "scr-rijksakademie-open-studios-2026",
+      "title": "Open Studios 2026",
+      "artist": null,
+      "venue": "Rijksakademie",
+      "loc": "Amsterdam",
+      "type": "event",
+      "date": "2026-11-19",
+      "url": "https://rijksakademie.nl/en/public-programme/2026-11-19-open-studios-2026"
+    },
+    {
       "id": "scr-rijksakademie-rijksakademie-open-studi",
       "title": "Rijksakademie Open Studios",
       "artist": null,
@@ -441,16 +481,6 @@
       "type": "event",
       "date": "2026-11-19",
       "url": "https://rijksakademie.nl/en/news/2026-05-06-rijksakademie-open-studios"
-    },
-    {
-      "id": "scr-arti-et-amicitia-arti-shuffle-jonge-music",
-      "title": "Arti Shuffle Jonge Musici: Isaure & Christian Johannes",
-      "artist": null,
-      "venue": "Arti et Amicitiae",
-      "loc": "Amsterdam",
-      "type": "event",
-      "date": "2026-11-19",
-      "url": "https://arti.nl/agenda/19-11-2026/arti-shuffle-jonge-musici-isaure-christian-johannes"
     },
     {
       "id": "scr-grimm-saskia-noor-van-imhoff",
@@ -543,6 +573,16 @@
       "url": "https://upstreamgallery.nl/exhibitions/276/lovers"
     },
     {
+      "id": "scr-upstream-gallery-mass-frank-ammerlaan",
+      "title": "MASS - Frank Ammerlaan",
+      "artist": "Frank Ammerlaan",
+      "venue": "Upstream Gallery",
+      "loc": "Amsterdam",
+      "type": "exhibition",
+      "date": "2026-11-19",
+      "url": "https://upstreamgallery.nl/exhibitions/277/mass"
+    },
+    {
       "id": "scr-akinci-performance-de-diepe-dui",
       "title": "Performance: De diepe duisternis",
       "artist": null,
@@ -623,16 +663,6 @@
       "url": "https://cobra-museum.nl/tentoonstelling/mette-sterre/"
     },
     {
-      "id": "scr-upstream-gallery-mass-frank-ammerlaan",
-      "title": "MASS - Frank Ammerlaan",
-      "artist": "Frank Ammerlaan",
-      "venue": "Upstream Gallery",
-      "loc": "Amsterdam",
-      "type": "exhibition",
-      "date": "2026-11-21",
-      "url": "https://upstreamgallery.nl/exhibitions/277/mass"
-    },
-    {
       "id": "scr-arti-et-amicitia-savitri-frederic-voorn",
       "title": "Savitri | Frederic Voorn",
       "artist": "Frederic Voorn",
@@ -641,6 +671,16 @@
       "type": "exhibition",
       "date": "2026-11-22",
       "url": "https://arti.nl/agenda/22-11-2026/savitri-frederic-voorn"
+    },
+    {
+      "id": "scr-arti-et-amicitia-een-warm-welkom-bij-arti",
+      "title": "Een warm welkom bij Arti",
+      "artist": null,
+      "venue": "Arti et Amicitiae",
+      "loc": "Amsterdam",
+      "type": "event",
+      "date": "2026-11-24",
+      "url": "https://arti.nl/agenda/24-11-2026/Een%20warm%20welkom%20bij%20Arti"
     },
     {
       "id": "scr-raam-art-space-this-is-not-a-crisis-mee",
@@ -691,6 +731,16 @@
       "type": "event",
       "date": "2026-12-12",
       "url": "https://www.deappel.nl/nl/archive/events/1355-subversive-film-an-exercise-in-assembling"
+    },
+    {
+      "id": "scr-gallery-vriend-v-past-present-future-grou",
+      "title": "Past, Present, Future: Group exhibition with work by Inez de Brauw, Bo Bosk, Clinton Kabena",
+      "artist": null,
+      "venue": "Gallery Vriend van Bavink",
+      "loc": "Amsterdam",
+      "type": "exhibition",
+      "date": "2027-01-15",
+      "url": "https://vanbavinkgallery.com/exhibitions/past-present-future-group-exhibition-with-work-by-inez-de-brauw-bo-bosk-clinton-kabena"
     },
     {
       "id": "scr-stedelijk-museum-luc-tuymans-silent-music",
