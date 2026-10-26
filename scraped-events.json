@@ -1,167 +1,7 @@
 {
   "source": "amsterdam-art-agenda (weekly GitHub Action)",
-  "generatedAt": "2026-10-19",
+  "generatedAt": "2026-10-26",
   "events": [
-    {
-      "id": "scr-vu-art-science-g-art-science-dialogue-wit",
-      "title": "ART SCIENCE dialogue with Suzanne Plomp, Elza Kuijk and Srdan Sremac",
-      "artist": null,
-      "venue": "VU Art Science Gallery",
-      "loc": "Amsterdam",
-      "type": "event",
-      "date": "2026-10-20",
-      "url": "https://www.artsciencegallery.nl/event/art-science-dialogue-with-suzanne-plomp-elza-kuijk-and-srdan-sremac/"
-    },
-    {
-      "id": "scr-de-ateliers-artist-talk-hannah-black",
-      "title": "Artist Talk: Hannah Black",
-      "artist": "Hannah Black",
-      "venue": "De Ateliers",
-      "loc": "Amsterdam",
-      "type": "event",
-      "date": "2026-10-20",
-      "url": "https://de-ateliers.nl/exhibitions-events/artist-talks/hannah-black"
-    },
-    {
-      "id": "scr-hartwig-proxy-proxy-family-table-infor",
-      "title": "Proxy Family Table: Information Overload Day - Trang Ha & Raquel Coll Juncosa",
-      "artist": null,
-      "venue": "Hartwig Proxy",
-      "loc": "Amsterdam",
-      "type": "event",
-      "date": "2026-10-20",
-      "url": "https://www.hartwigproxy.nl/programme/proxy-family-table-trang-raquel"
-    },
-    {
-      "id": "scr-vu-art-science-g-relaxed-wednesday-just-l",
-      "title": "RELAXED WEDNESDAY: JUST LIKE ME An extended meditation in Cycles and Webs by Simone Albers",
-      "artist": "Simone Albers",
-      "venue": "VU Art Science Gallery",
-      "loc": "Amsterdam",
-      "type": "event",
-      "date": "2026-10-21",
-      "url": "https://www.artsciencegallery.nl/event/relaxed-wednesday-just-like-me/#2026-10-21"
-    },
-    {
-      "id": "scr-nxt-museum-ade-x-nxt-motie-with-hel",
-      "title": "ADE x Nxt: Motie with Heleen Blanken and Sophia Bulgakova",
-      "artist": null,
-      "venue": "NXT Museum",
-      "loc": "Amsterdam",
-      "type": "event",
-      "date": "2026-10-22",
-      "url": "https://nxtmuseum.com/event/curated-by-nxt-motie-at-ade-2026/"
-    },
-    {
-      "id": "scr-rozenstraat-rozenstraat-x-ade-perfor",
-      "title": "ROZENSTRAAT X ADE Performances - Wynnie Mynerva, Erik Tlaseca, Eloy Cruz del Prado",
-      "artist": null,
-      "venue": "Rozenstraat",
-      "loc": "Amsterdam",
-      "type": "event",
-      "date": "2026-10-22",
-      "url": "https://www.rozenstraat.com/event/rozenstraat-x-ade-performances/"
-    },
-    {
-      "id": "scr-nxt-museum-ade-x-nxt-earthsonic-pre",
-      "title": "ADE x Nxt: EarthSonic Premiere with Orbital and Paranoid London",
-      "artist": null,
-      "venue": "NXT Museum",
-      "loc": "Amsterdam",
-      "type": "event",
-      "date": "2026-10-22",
-      "url": "https://nxtmuseum.com/event/nxt-museum-earthsonic-and-ade-arts-culture-present-premiere-sumuku-and-two-seas/"
-    },
-    {
-      "id": "scr-oude-kerk-minimal-collective-x-oud",
-      "title": "Minimal Collective x Oude Kerk: Post-Space",
-      "artist": null,
-      "venue": "Oude Kerk",
-      "loc": "Amsterdam",
-      "type": "exhibition",
-      "date": "2026-10-22",
-      "url": "https://www.oudekerk.nl/nu-te-zien/evenementen/minimal-collective-presents-post-space/46167"
-    },
-    {
-      "id": "scr-rijksakademie-mediaklub-rehearsal-of-t",
-      "title": "_mediaklub: Rehearsal of the Victory Day Gig",
-      "artist": null,
-      "venue": "Rijksakademie",
-      "loc": "Amsterdam",
-      "type": "event",
-      "date": "2026-10-23",
-      "url": "https://rijksakademie.nl/en/public-programme/2026-10-23-_mediaklub-rehearsal-of-the-victory-day-gig"
-    },
-    {
-      "id": "scr-w139-ade-x-darkmatter-sapodil",
-      "title": "ADE x DARKMATTER: Sapodilla",
-      "artist": null,
-      "venue": "W139",
-      "loc": "Amsterdam",
-      "type": "event",
-      "date": "2026-10-23",
-      "url": "https://w139.nl/event/ade-x-darkmatter-sapodilla/"
-    },
-    {
-      "id": "scr-hartwig-proxy-extreme-presence-opening",
-      "title": "Extreme Presence Opening Evening - Bogna Konior, Sammy Lee, Lawrence Lek, Lukáš Likavčan and Sarah Shin",
-      "artist": null,
-      "venue": "Hartwig Proxy",
-      "loc": "Amsterdam",
-      "type": "opening",
-      "date": "2026-10-23",
-      "url": "https://www.hartwigproxy.nl/programme/extreme-presence1"
-    },
-    {
-      "id": "scr-w139-a-soft-guide-to-chill-ad",
-      "title": "A Soft Guide to Chill: ADE",
-      "artist": null,
-      "venue": "W139",
-      "loc": "Amsterdam",
-      "type": "event",
-      "date": "2026-10-24",
-      "url": "https://w139.nl/event/a-soft-guide-to-chill-ade/"
-    },
-    {
-      "id": "scr-hartwig-proxy-extreme-presence-weekend",
-      "title": "Extreme Presence Weekend, Saturday - Elizabeth LaPensee, Fainos Mangena, Dr. Prathima Muniyappa, Sumana Roy, Jeremy Shaw, Aliya Say, Marilou Schultz, Lua Vollaard",
-      "artist": null,
-      "venue": "Hartwig Proxy",
-      "loc": "Amsterdam",
-      "type": "event",
-      "date": "2026-10-24",
-      "url": "https://www.hartwigproxy.nl/programme/extreme-presence-saturday"
-    },
-    {
-      "id": "scr-hartwig-proxy-batter-my-3-personed-g0d",
-      "title": "Batter my ❤️ 3-Personed G0D - Mark Leckey",
-      "artist": "Mark Leckey",
-      "venue": "Hartwig Proxy",
-      "loc": "Amsterdam",
-      "type": "exhibition",
-      "date": "2026-10-24",
-      "url": "https://www.hartwigproxy.nl/programme/mark-leckey"
-    },
-    {
-      "id": "scr-hartwig-proxy-extreme-presence-weekendx",
-      "title": "Extreme Presence Weekend, Sunday - Haley Albert, Daniel Blanga Gubbay, Aishwarya Khanduja, Christopher Kulendran Thomas, Taylor Le Melle, Mark Leckey, Xin Liu, William Morgan, Ariana Reines, Holly Pester",
-      "artist": null,
-      "venue": "Hartwig Proxy",
-      "loc": "Amsterdam",
-      "type": "event",
-      "date": "2026-10-25",
-      "url": "https://www.hartwigproxy.nl/programme/extreme-presence-sunday"
-    },
-    {
-      "id": "scr-hartwig-proxy-weaving-workshop-marilou",
-      "title": "Weaving Workshop - Marilou Schultz",
-      "artist": "Marilou Schultz",
-      "venue": "Hartwig Proxy",
-      "loc": "Amsterdam",
-      "type": "event",
-      "date": "2026-10-25",
-      "url": "https://www.hartwigproxy.nl/programme/weaving-workshop"
-    },
     {
       "id": "scr-arti-et-amicitia-regis-goncalves-in-memor",
       "title": "Régis Gonçalves | 'In Memoriam'",
@@ -383,6 +223,16 @@
       "url": "https://www.deappel.nl/nl/archive/events/1365-museumnacht-2026-met-de-tiener-curatoren"
     },
     {
+      "id": "scr-stedelijk-museum-the-best-dutch-book-desi",
+      "title": "The Best Dutch Book Designs 2025",
+      "artist": null,
+      "venue": "Stedelijk Museum",
+      "loc": "Amsterdam",
+      "type": "exhibition",
+      "date": "2026-11-07",
+      "url": "https://www.stedelijk.nl/en/exhibitions/The-Best-Dutch-Book-Designs%20-2025"
+    },
+    {
       "id": "scr-arti-et-amicitia-rob-renoult-exodus-21-23",
       "title": "Rob Renoult | Exodus 21:23-25",
       "artist": "Rob Renoult",
@@ -433,8 +283,8 @@
       "url": "https://althuishofland.com/exhibition/masao-nakahara-we-were-lying-under-an-apple-tree"
     },
     {
-      "id": "scr-oude-kerk-mire-lee",
-      "title": "Mire Lee",
+      "id": "scr-oude-kerk-mire-lee-vomit-my-blessi",
+      "title": "Mire Lee: Vomit My Blessing",
       "artist": "Mire Lee",
       "venue": "Oude Kerk",
       "loc": "Amsterdam",
@@ -451,6 +301,36 @@
       "type": "exhibition",
       "date": "2026-11-14",
       "url": "https://arti.nl/agenda/14-11-2026/buning-brongers-prijzen-2026"
+    },
+    {
+      "id": "scr-hartwig-proxy-cellar-series-7-metaterm",
+      "title": "Cellar Series 7 - METATERME",
+      "artist": null,
+      "venue": "Hartwig Proxy",
+      "loc": "Amsterdam",
+      "type": "event",
+      "date": "2026-11-14",
+      "url": "https://www.hartwigproxy.nl/programme/cellar-series-7"
+    },
+    {
+      "id": "scr-hartwig-proxy-proxy-plays-2",
+      "title": "Proxy Plays 2",
+      "artist": null,
+      "venue": "Hartwig Proxy",
+      "loc": "Amsterdam",
+      "type": "event",
+      "date": "2026-11-14",
+      "url": "https://www.hartwigproxy.nl/programme/proxy-plays-nov26"
+    },
+    {
+      "id": "scr-oude-kerk-instaprondleiding-mire-l",
+      "title": "Instaprondleiding Mire Lee: Vomit My Blessing",
+      "artist": "Mire Lee",
+      "venue": "Oude Kerk",
+      "loc": "Amsterdam",
+      "type": "event",
+      "date": "2026-11-14",
+      "url": "https://www.oudekerk.nl/nu-te-zien/evenementen/instaprondleiding-mire-lee/47448"
     },
     {
       "id": "scr-arti-et-amicitia-states-of-becoming",
@@ -523,16 +403,6 @@
       "url": "https://www.merchanthouse.nl/projects/de-jong-and-his-theater"
     },
     {
-      "id": "scr-rijksakademie-open-studios-2026",
-      "title": "Open Studios 2026",
-      "artist": null,
-      "venue": "Rijksakademie",
-      "loc": "Amsterdam",
-      "type": "event",
-      "date": "2026-11-19",
-      "url": "https://rijksakademie.nl/en/public-programme/2026-11-19-open-studios-2026"
-    },
-    {
       "id": "scr-sac-art-amsterda-barzakh",
       "title": "Barzakh",
       "artist": null,
@@ -603,6 +473,26 @@
       "url": "https://grimmgallery.com/exhibitions/381-saskia-noor-van-imhoff-handles-squeezed/"
     },
     {
+      "id": "scr-bildhalle-rene-groebli-an-artist-i",
+      "title": "RENÉ GROEBLI – AN ARTIST IN MOTION",
+      "artist": "René Groebli",
+      "venue": "Bildhalle",
+      "loc": "Amsterdam",
+      "type": "exhibition",
+      "date": "2026-11-19",
+      "url": "https://www.bildhalle.ch/exhibitions/120-rene-groebli-an-artist-in-motion-bildhalle-amsterdam/overview/"
+    },
+    {
+      "id": "scr-oude-kerk-amsterdam-art-week-ask-t",
+      "title": "Amsterdam Art Week: Ask The Curator",
+      "artist": null,
+      "venue": "Oude Kerk",
+      "loc": "Amsterdam",
+      "type": "event",
+      "date": "2026-11-19",
+      "url": "https://www.oudekerk.nl/nu-te-zien/evenementen/amsterdam-art-week-ask-the-curator/47500"
+    },
+    {
       "id": "scr-galerie-bart-a-vivid-shine",
       "title": "A Vivid Shine",
       "artist": null,
@@ -661,16 +551,6 @@
       "type": "exhibition",
       "date": "2026-11-19",
       "url": "https://www.vanfannyfreytag.com/programme/finitude-solo-exhibition-by-elise-van-staveren"
-    },
-    {
-      "id": "scr-bildhalle-rene-groebli-artist-in-m",
-      "title": "RENÉ GROEBLI – ARTIST IN MOTION",
-      "artist": "René Groebli",
-      "venue": "Bildhalle",
-      "loc": "Amsterdam",
-      "type": "exhibition",
-      "date": "2026-11-19",
-      "url": "https://www.bildhalle.ch/exhibitions/120-rene-groebli-artist-in-motion-bildhalle-amsterdam/overview/"
     },
     {
       "id": "scr-upstream-gallery-lovers-alicia-framis",
@@ -735,12 +615,32 @@
     {
       "id": "scr-hartwig-proxy-dedramatison-la-vi-quoti",
       "title": "Dédramatison la Vi Quotidièn - The films and work of Guillaume Dustan - Julien Laugier and Olga Rozenblum",
-      "artist": null,
+      "artist": "Guillaume Dustan",
       "venue": "Hartwig Proxy",
       "loc": "Amsterdam",
       "type": "event",
       "date": "2026-11-20",
       "url": "https://www.hartwigproxy.nl/programme/dedramatisation-la-vi-quotdien-the-films-and-work-of-guillaume-dustan"
+    },
+    {
+      "id": "scr-oude-kerk-amsterdam-art-week-ask-tx",
+      "title": "Amsterdam Art Week: Ask The Director",
+      "artist": null,
+      "venue": "Oude Kerk",
+      "loc": "Amsterdam",
+      "type": "event",
+      "date": "2026-11-20",
+      "url": "https://www.oudekerk.nl/nu-te-zien/evenementen/amsterdam-art-week-ask-the-director/47621"
+    },
+    {
+      "id": "scr-oude-kerk-amsterdam-art-week-oude",
+      "title": "Amsterdam Art Week: Oude Kerk Laat",
+      "artist": null,
+      "venue": "Oude Kerk",
+      "loc": "Amsterdam",
+      "type": "event",
+      "date": "2026-11-20",
+      "url": "https://www.oudekerk.nl/nu-te-zien/evenementen/amsterdam-art-week-ask-the-curator/47587"
     },
     {
       "id": "scr-w139-heaving-room",
@@ -784,7 +684,7 @@
     },
     {
       "id": "scr-nxt-museum-amsterdam-art-week-x-nxtx",
-      "title": "Amsterdam Art Week x Nxt: Human Unreadable",
+      "title": "Amsterdam Art Week x Nxt: Operator’s Act III, live from the Whitney Museum",
       "artist": null,
       "venue": "NXT Museum",
       "loc": "Amsterdam",
@@ -853,18 +753,8 @@
       "url": "https://arti.nl/agenda/22-11-2026/savitri-frederic-voorn"
     },
     {
-      "id": "scr-gallery-vriend-v-this-is-not-a-crisis-mee",
-      "title": "This is not a Crisis - Meeus van Dis",
-      "artist": "Meeus van Dis",
-      "venue": "Gallery Vriend van Bavink",
-      "loc": "Amsterdam",
-      "type": "exhibition",
-      "date": "2026-11-27",
-      "url": "https://vanbavinkgallery.com/exhibitions/this-is-not-a-crisis-meeus-van-dis"
-    },
-    {
-      "id": "scr-raam-art-space-this-is-not-a-crisis-mee",
-      "title": "This is not a Crisis - Meeus van Dis",
+      "id": "scr-raam-art-space-meeus-van-dis-this-is-no",
+      "title": "MEEUS VAN DIS - THIS IS NOT A CRISIS",
       "artist": "Meeus van Dis",
       "venue": "RAAM Art Space",
       "loc": "Amsterdam",
@@ -903,6 +793,16 @@
       "url": "https://www.galerieonrust.nl/news/emma-talbot-can-joy-be-a-rebellious-act-november-28-december-24-2026"
     },
     {
+      "id": "scr-arti-et-amicitia-i-m-wendela-gevers-deyno",
+      "title": "I.M. Wendela Gevers Deynoot",
+      "artist": "Wendela Gevers Deynoot",
+      "venue": "Arti et Amicitiae",
+      "loc": "Amsterdam",
+      "type": "exhibition",
+      "date": "2026-11-30",
+      "url": "https://arti.nl/agenda/30-11-2026/im-wendela-gevers-deynoot"
+    },
+    {
       "id": "scr-oude-kerk-silence-74-sara-plusplus",
       "title": "Silence #74: Sara Plusplus",
       "artist": "Sara Plusplus",
@@ -921,6 +821,16 @@
       "type": "fair",
       "date": "2026-12-10",
       "url": "https://vanbavinkgallery.com/exhibitions/art-antwerp"
+    },
+    {
+      "id": "scr-hartwig-proxy-gingerbread-competition",
+      "title": "Gingerbread Competition 2026: Succeeding the built",
+      "artist": null,
+      "venue": "Hartwig Proxy",
+      "loc": "Amsterdam",
+      "type": "event",
+      "date": "2026-12-10",
+      "url": "https://www.hartwigproxy.nl/programme/gingerbread-competition-2026-succeeding-the-built"
     },
     {
       "id": "scr-arti-et-amicitia-opera-meets-pop-jazz",
