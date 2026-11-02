@@ -1,137 +1,7 @@
 {
   "source": "amsterdam-art-agenda (weekly GitHub Action)",
-  "generatedAt": "2026-10-26",
+  "generatedAt": "2026-11-02",
   "events": [
-    {
-      "id": "scr-arti-et-amicitia-regis-goncalves-in-memor",
-      "title": "Régis Gonçalves | 'In Memoriam'",
-      "artist": "Régis Gonçalves",
-      "venue": "Arti et Amicitiae",
-      "loc": "Amsterdam",
-      "type": "exhibition",
-      "date": "2026-10-26",
-      "url": "https://arti.nl/agenda/26-10-2026/regis-goncalves-in-memoriam"
-    },
-    {
-      "id": "scr-de-ateliers-artist-talk-louwrien-wij",
-      "title": "Artist Talk: Louwrien Wijers",
-      "artist": "Louwrien Wijers",
-      "venue": "De Ateliers",
-      "loc": "Amsterdam",
-      "type": "event",
-      "date": "2026-10-27",
-      "url": "https://de-ateliers.nl/exhibitions-events/artist-talks/louwrien-wijers"
-    },
-    {
-      "id": "scr-de-appel-archiefpresentatie-barba",
-      "title": "Archiefpresentatie: Barbara Bloom & General Idea in LAURENZ",
-      "artist": null,
-      "venue": "De Appel",
-      "loc": "Amsterdam",
-      "type": "exhibition",
-      "date": "2026-10-28",
-      "url": "https://www.deappel.nl/nl/archive/events/1364-archiefpresentatie-barbara-bloom-amp-general-idea-in-laurenz"
-    },
-    {
-      "id": "scr-hartwig-proxy-cellar-series-6-san-cha",
-      "title": "Cellar Series 6 - San Cha",
-      "artist": "San Cha",
-      "venue": "Hartwig Proxy",
-      "loc": "Amsterdam",
-      "type": "event",
-      "date": "2026-10-29",
-      "url": "https://www.hartwigproxy.nl/programme/cellar-series-san-cha"
-    },
-    {
-      "id": "scr-gwen-park-galler-mama-youngjoo-cho",
-      "title": "Mama - Youngjoo Cho",
-      "artist": "Youngjoo Cho",
-      "venue": "Gwen Park Gallery",
-      "loc": "Amsterdam",
-      "type": "exhibition",
-      "date": "2026-10-29",
-      "url": "https://www.gwenparkgallery.com/exhibitions/30-mama-youngjoo-cho/"
-    },
-    {
-      "id": "scr-enari-gallery-daughter",
-      "title": "Daughter",
-      "artist": null,
-      "venue": "Enari Gallery",
-      "loc": "Amsterdam",
-      "type": "exhibition",
-      "date": "2026-10-30",
-      "url": "https://www.enari.gallery/exhibitions/37-daughter-lindsay-merrill/"
-    },
-    {
-      "id": "scr-framer-framed-tentoonstelling-life-aft",
-      "title": "Tentoonstelling: Life After Love – In Search of the Militant Image",
-      "artist": null,
-      "venue": "Framer Framed",
-      "loc": "Amsterdam",
-      "type": "exhibition",
-      "date": "2026-10-30",
-      "url": "https://framerframed.nl/exposities/life-after-love/"
-    },
-    {
-      "id": "scr-no-limits-art-ca-workshop-practical-witch",
-      "title": "Workshop Practical Witchcraft – the basics",
-      "artist": null,
-      "venue": "No Limits Art Castle",
-      "loc": "Amsterdam",
-      "type": "event",
-      "date": "2026-10-30",
-      "url": "https://no-limits-art-castle.tickable.nl/workshop-witchcraft-for-beginners-met-avery-oldershaw"
-    },
-    {
-      "id": "scr-w139-all-that-remains-the-rig",
-      "title": "All That Remains (The Right of Return)",
-      "artist": null,
-      "venue": "W139",
-      "loc": "Amsterdam",
-      "type": "exhibition",
-      "date": "2026-10-30",
-      "url": "https://w139.nl/event/all-that-remains-the-right-of-return/"
-    },
-    {
-      "id": "scr-no-limits-art-ca-tarotreadings",
-      "title": "Tarotreadings",
-      "artist": null,
-      "venue": "No Limits Art Castle",
-      "loc": "Amsterdam",
-      "type": "event",
-      "date": "2026-10-31",
-      "url": "https://no-limits-art-castle.tickable.nl/tarotreading-eli-1#2026-10-31"
-    },
-    {
-      "id": "scr-hartwig-proxy-architecture-tour-van-ee",
-      "title": "Architecture Tour – Van Eesteren Museum x Hartwig Art Foundation",
-      "artist": null,
-      "venue": "Hartwig Proxy",
-      "loc": "Amsterdam",
-      "type": "event",
-      "date": "2026-10-31",
-      "url": "https://www.hartwigproxy.nl/programme/architecture-tour-van-eesteren-museum-x-hartwig-art-foundation"
-    },
-    {
-      "id": "scr-de-appel-eight-hour-organising-ve",
-      "title": "Eight-hour Organising/Venting: Making a Banner, Printing Shirts and Talking about Class",
-      "artist": null,
-      "venue": "De Appel",
-      "loc": "Amsterdam",
-      "type": "event",
-      "date": "2026-10-31",
-      "url": "https://www.deappel.nl/nl/archive/events/1363-eight-hour-organising-venting-making-a-banner-printing-shirts-and-talking-about-class"
-    },
-    {
-      "id": "scr-iona-stichting-gemeenschapsmysterie-lez",
-      "title": "Gemeenschapsmysterie: lezing op 1 november",
-      "artist": null,
-      "venue": "IONA Stichting",
-      "loc": "Amsterdam",
-      "type": "event",
-      "date": "2026-11-01",
-      "url": "https://iona.nl/gemeenschapsmysterie-lezing-op-1-november/"
-    },
     {
       "id": "scr-de-ateliers-artist-talk-nora-turato",
       "title": "Artist Talk: Nora Turato",
@@ -144,13 +14,23 @@
     },
     {
       "id": "scr-hartwig-proxy-video-room-guillaume-dus",
-      "title": "Video Room: Guillaume Dustan",
+      "title": "Video Room - Guillaume Dustan",
       "artist": "Guillaume Dustan",
       "venue": "Hartwig Proxy",
       "loc": "Amsterdam",
       "type": "event",
       "date": "2026-11-04",
       "url": "https://www.hartwigproxy.nl/programme/video-room-guillaume-dustan"
+    },
+    {
+      "id": "scr-hartwig-proxy-boardgames-bitterballen",
+      "title": "Boardgames & Bitterballen",
+      "artist": null,
+      "venue": "Hartwig Proxy",
+      "loc": "Amsterdam",
+      "type": "event",
+      "date": "2026-11-04",
+      "url": "https://www.hartwigproxy.nl/programme/boardgames-bitterballen"
     },
     {
       "id": "scr-treehouse-ndsm-nasal-demons",
@@ -161,6 +41,16 @@
       "type": "exhibition",
       "date": "2026-11-05",
       "url": "https://www.treehousendsm.com/agenda/nasal-demons"
+    },
+    {
+      "id": "scr-hartwig-proxy-proxy-choir-jodi-gilbert",
+      "title": "Proxy Choir - Jodi Gilbert",
+      "artist": "Jodi Gilbert",
+      "venue": "Hartwig Proxy",
+      "loc": "Amsterdam",
+      "type": "event",
+      "date": "2026-11-05",
+      "url": "https://www.hartwigproxy.nl/programme/proxy-choir"
     },
     {
       "id": "scr-de-nieuwe-schatk-of-course-studying-art-i",
@@ -174,7 +64,7 @@
     },
     {
       "id": "scr-hartwig-proxy-proxy-kitchen-lost-in-tr",
-      "title": "Proxy Kitchen: Lost in Translation - Paulina Bartecka and Joseph van der Heijde",
+      "title": "Proxy Kitchen – Lost in Translation - Paulina Bartecka and Joseph van der Heijde",
       "artist": null,
       "venue": "Hartwig Proxy",
       "loc": "Amsterdam",
@@ -191,6 +81,16 @@
       "type": "event",
       "date": "2026-11-06",
       "url": "https://www.oudekerk.nl/nu-te-zien/evenementen/silence-73-laryssa-kim/45844"
+    },
+    {
+      "id": "scr-in-debt-opening-duo-exhibition-a",
+      "title": "Opening duo exhibition: A Crate, A State To Recreate – Charlotte Eta Mumm & Stéphanie Baechler",
+      "artist": null,
+      "venue": "In Debt",
+      "loc": "Amsterdam",
+      "type": "opening",
+      "date": "2026-11-06",
+      "url": "https://indebt.info/#2026-11-06-a-crate-a-state-to-recreate"
     },
     {
       "id": "scr-arti-et-amicitia-museumnacht-2026",
@@ -230,7 +130,7 @@
       "loc": "Amsterdam",
       "type": "exhibition",
       "date": "2026-11-07",
-      "url": "https://www.stedelijk.nl/en/exhibitions/The-Best-Dutch-Book-Designs%20-2025"
+      "url": "https://www.stedelijk.nl/en/exhibitions/The-Best-Dutch-Book-Designs-2025"
     },
     {
       "id": "scr-arti-et-amicitia-rob-renoult-exodus-21-23",
@@ -244,7 +144,7 @@
     },
     {
       "id": "scr-hartwig-proxy-ziyod-launch-by-ruyo-naz",
-      "title": "ZIYOD — Launch by Ruyò - Nazira Karimi",
+      "title": "ZIYOD – Launch by Ruyò - Nazira Karimi",
       "artist": "Nazira Karimi",
       "venue": "Hartwig Proxy",
       "loc": "Amsterdam",
@@ -261,6 +161,26 @@
       "type": "event",
       "date": "2026-11-12",
       "url": "https://www.deappel.nl/nl/archive/events/1366-book-launch-how-did-we-get-here-reading-vasif-kortun"
+    },
+    {
+      "id": "scr-arti-et-amicitia-lezing-van-muze-tot-misv",
+      "title": "Lezing: Van muze tot misverstand",
+      "artist": null,
+      "venue": "Arti et Amicitiae",
+      "loc": "Amsterdam",
+      "type": "event",
+      "date": "2026-11-12",
+      "url": "https://arti.nl/agenda/12-11-2026/lezing-van-muze-tot-misverstand"
+    },
+    {
+      "id": "scr-framer-framed-presentatie-where-is-my",
+      "title": "Presentatie: Where is my Home?",
+      "artist": null,
+      "venue": "Framer Framed",
+      "loc": "Amsterdam",
+      "type": "event",
+      "date": "2026-11-12",
+      "url": "https://framerframed.nl/exposities/exhibition-where-is-my-home/"
     },
     {
       "id": "scr-lumen-travo-gall-thierry-oussou-veins-of",
@@ -281,6 +201,16 @@
       "type": "exhibition",
       "date": "2026-11-13",
       "url": "https://althuishofland.com/exhibition/masao-nakahara-we-were-lying-under-an-apple-tree"
+    },
+    {
+      "id": "scr-framer-framed-tentoonstelling-framer-f",
+      "title": "Tentoonstelling Framer Framed Noord: Reenactment or Filming with a Migrant Camera",
+      "artist": null,
+      "venue": "Framer Framed",
+      "loc": "Amsterdam",
+      "type": "exhibition",
+      "date": "2026-11-13",
+      "url": "https://framerframed.nl/exposities/tentoonstelling-framer-framed-noord-reenactment-or-filming-with-a-migrant-camera/"
     },
     {
       "id": "scr-oude-kerk-mire-lee-vomit-my-blessi",
@@ -313,8 +243,8 @@
       "url": "https://www.hartwigproxy.nl/programme/cellar-series-7"
     },
     {
-      "id": "scr-hartwig-proxy-proxy-plays-2",
-      "title": "Proxy Plays 2",
+      "id": "scr-hartwig-proxy-proxy-plays-2-the-pelica",
+      "title": "Proxy Plays 2 - The Pelican (Strindberg)",
       "artist": null,
       "venue": "Hartwig Proxy",
       "loc": "Amsterdam",
@@ -331,6 +261,16 @@
       "type": "event",
       "date": "2026-11-14",
       "url": "https://www.oudekerk.nl/nu-te-zien/evenementen/instaprondleiding-mire-lee/47448"
+    },
+    {
+      "id": "scr-hartwig-proxy-city-of-lamps-paper-lamp",
+      "title": "City of Lamps – Paper Lamp Workshop - Karin Iturralde",
+      "artist": "Karin Iturralde",
+      "venue": "Hartwig Proxy",
+      "loc": "Amsterdam",
+      "type": "event",
+      "date": "2026-11-15",
+      "url": "https://www.hartwigproxy.nl/programme/proxy-x-textile-initiative-karin-iturralde"
     },
     {
       "id": "scr-arti-et-amicitia-states-of-becoming",
@@ -363,6 +303,16 @@
       "url": "https://www.deappel.nl/nl/archive/events/1367-fsh-home-platform-amp-first-issue-launch"
     },
     {
+      "id": "scr-hartwig-proxy-proxy-family-table-yasmi",
+      "title": "Proxy Family Table - Yasmine Chiboub",
+      "artist": "Yasmine Chiboub",
+      "venue": "Hartwig Proxy",
+      "loc": "Amsterdam",
+      "type": "event",
+      "date": "2026-11-17",
+      "url": "https://www.hartwigproxy.nl/programme/proxy-family-table"
+    },
+    {
       "id": "scr-iona-stichting-aanmelden-wga-nl-op-18-n",
       "title": "Aanmelden WGA-NL op 18 november 2026",
       "artist": null,
@@ -383,14 +333,34 @@
       "url": "https://akinci.nl/exhibitions/#patricia-kaersenhout-poetic-justice"
     },
     {
-      "id": "scr-galerie-poche-galerie-poche-amsterdam",
-      "title": "Galerie Poche @ Amsterdam Art Week",
-      "artist": null,
+      "id": "scr-galerie-poche-gp-4-featuring-fabric-of",
+      "title": "GP #4 featuring Fabric of Play by ZOUBIDA (Sophia Kacimi)",
+      "artist": "ZOUBIDA",
       "venue": "Galerie Poche",
       "loc": "Amsterdam",
-      "type": "fair",
+      "type": "exhibition",
       "date": "2026-11-18",
       "url": "https://galeriepoche.nl/events"
+    },
+    {
+      "id": "scr-borzo-gallery-wieteke-heldens-the-weig",
+      "title": "Wieteke Heldens. The weight of green (and other wavelengths)",
+      "artist": "Wieteke Heldens",
+      "venue": "Borzo Gallery",
+      "loc": "Amsterdam",
+      "type": "exhibition",
+      "date": "2026-11-18",
+      "url": "https://www.borzo.com/exhibitions/136-wieteke-heldens.-the-weight-of-green-and-other-amsterdam-art-week-2026/"
+    },
+    {
+      "id": "scr-in-debt-international-showcase-a",
+      "title": "International showcase: Amsterdam Art Week – INDEBT x diez Invites… in collaboration with Minor Attractions",
+      "artist": null,
+      "venue": "In Debt",
+      "loc": "Amsterdam",
+      "type": "event",
+      "date": "2026-11-18",
+      "url": "https://indebt.info/#2026-11-18-amsterdam-art-week"
     },
     {
       "id": "scr-the-merchant-hou-andre-de-jong-and-his-th",
@@ -493,6 +463,36 @@
       "url": "https://www.oudekerk.nl/nu-te-zien/evenementen/amsterdam-art-week-ask-the-curator/47500"
     },
     {
+      "id": "scr-gdl525-this-quiet-place-is-fant",
+      "title": "This Quiet Place is Fantastic",
+      "artist": null,
+      "venue": "GDL525",
+      "loc": "Amsterdam",
+      "type": "exhibition",
+      "date": "2026-11-19",
+      "url": "https://gdl525.com/#this-quiet-place-is-fantastic"
+    },
+    {
+      "id": "scr-rijksakademie-rijksakademie-open-studi",
+      "title": "Rijksakademie Open Studios 2026",
+      "artist": null,
+      "venue": "Rijksakademie",
+      "loc": "Amsterdam",
+      "type": "event",
+      "date": "2026-11-19",
+      "url": "https://rijksakademie.nl/en/open-studios/2026"
+    },
+    {
+      "id": "scr-no-man-s-art-gal-manos-de-hierros-en-guan",
+      "title": "Manos de hierros en guantes de terciopelo | Alan Hernández",
+      "artist": "Alan Hernández",
+      "venue": "No Man's Art Gallery",
+      "loc": "Amsterdam",
+      "type": "exhibition",
+      "date": "2026-11-19",
+      "url": "https://www.nomansart.com/exhibitions-3/amsterdam-art-week-night-garden-alan-hernndez-pbb6j"
+    },
+    {
       "id": "scr-galerie-bart-a-vivid-shine",
       "title": "A Vivid Shine",
       "artist": null,
@@ -501,6 +501,26 @@
       "type": "exhibition",
       "date": "2026-11-19",
       "url": "https://www.galeriebart.nl/exhibitions/30-a-vivid-shine-a-group-exhibition-curated-by-julius-thissen/"
+    },
+    {
+      "id": "scr-tegenboschvanvre-specters-amsterdam",
+      "title": "Specters: Amsterdam",
+      "artist": null,
+      "venue": "tegenboschvanvreden",
+      "loc": "Amsterdam",
+      "type": "exhibition",
+      "date": "2026-11-19",
+      "url": "https://www.tegenboschvanvreden.com/exhibition/specters/"
+    },
+    {
+      "id": "scr-annet-gelink-gal-erik-van-lieshout-dit-li",
+      "title": "Erik van Lieshout – Dit Licht Achter Mij",
+      "artist": "Erik van Lieshout",
+      "venue": "Annet Gelink Gallery",
+      "loc": "Amsterdam",
+      "type": "exhibition",
+      "date": "2026-11-19",
+      "url": "https://www.annetgelink.com/exhibitions/353-erik-van-lieshout-dit-licht-achter-mij/"
     },
     {
       "id": "scr-galerie-onrust-ernst-van-alphen-re-echa",
@@ -534,7 +554,7 @@
     },
     {
       "id": "scr-rozenstraat-kinke-kooi-eromheen",
-      "title": "Kinke Kooi - Eromheen",
+      "title": "Kinke Kooi - eromheen",
       "artist": "Kinke Kooi",
       "venue": "Rozenstraat",
       "loc": "Amsterdam",
@@ -583,8 +603,8 @@
       "url": "https://akinci.nl/exhibitions/#performance-de-diepe-duisternis"
     },
     {
-      "id": "scr-gallery-vriend-v-common-ground-group-exhi",
-      "title": "Common Ground: Group exhibition with work by Inez de Brauw, Bo Bosk, Abul Hisham, Clinton Kabena & Daniel Tetteh Nartey",
+      "id": "scr-gallery-vriend-v-common-ground-inez-de-br",
+      "title": "Common Ground: Inez de Brauw, Bo Bosk, Abul Hisham, Clinton Kabena & Daniel Tetteh Nartey",
       "artist": null,
       "venue": "Gallery Vriend van Bavink",
       "loc": "Amsterdam",
@@ -614,7 +634,7 @@
     },
     {
       "id": "scr-hartwig-proxy-dedramatison-la-vi-quoti",
-      "title": "Dédramatison la Vi Quotidièn - The films and work of Guillaume Dustan - Julien Laugier and Olga Rozenblum",
+      "title": "Dédramatison la Vi Quotidièn – The films and work of Guillaume Dustan - Julien Laugier and Olga Rozenblum",
       "artist": "Guillaume Dustan",
       "venue": "Hartwig Proxy",
       "loc": "Amsterdam",
@@ -643,6 +663,16 @@
       "url": "https://www.oudekerk.nl/nu-te-zien/evenementen/amsterdam-art-week-ask-the-curator/47587"
     },
     {
+      "id": "scr-de-appel-boeklancering-the-battle",
+      "title": "Boeklancering: The Battleground of Art",
+      "artist": null,
+      "venue": "De Appel",
+      "loc": "Amsterdam",
+      "type": "event",
+      "date": "2026-11-20",
+      "url": "https://www.deappel.nl/nl/archive/events/1368-boeklancering-the-battleground-of-art"
+    },
+    {
       "id": "scr-w139-heaving-room",
       "title": "Heaving Room",
       "artist": null,
@@ -664,7 +694,7 @@
     },
     {
       "id": "scr-hartwig-proxy-cellar-series-8-imaginar",
-      "title": "Cellar Series 8: Imaginarium - ity",
+      "title": "Cellar Series 8 – Imaginarium - ity",
       "artist": null,
       "venue": "Hartwig Proxy",
       "loc": "Amsterdam",
@@ -673,7 +703,7 @@
       "url": "https://www.hartwigproxy.nl/programme/imaginarium"
     },
     {
-      "id": "scr-no-limits-art-ca-tarotreadingsx",
+      "id": "scr-no-limits-art-ca-tarotreadings",
       "title": "Tarotreadings",
       "artist": null,
       "venue": "No Limits Art Castle",
@@ -693,14 +723,44 @@
       "url": "https://nxtmuseum.com/event/amsterdam-art-week-x-nxt-human-unreadable-by-operator/"
     },
     {
-      "id": "scr-de-appel-5-decennia-de-appel-film",
-      "title": "5 Decennia de Appel: Filmvertoning & Paneldiscussie",
+      "id": "scr-in-debt-performance-and-music-ev",
+      "title": "Performance and music event: Amsterdam Art Week – INDEBT x diez Invites… in collaboration with Minor Attractions",
+      "artist": null,
+      "venue": "In Debt",
+      "loc": "Amsterdam",
+      "type": "event",
+      "date": "2026-11-21",
+      "url": "https://indebt.info/#2026-11-21-amsterdam-art-week"
+    },
+    {
+      "id": "scr-van-fanny-freyta-curator-talk-imara-limon",
+      "title": "Curator talk: Imara Limon, Thom Oosterhof Nadeche Remst and Elise van Staveren | What does it mean to ‘curate’ today?",
+      "artist": null,
+      "venue": "Van Fanny Freytag",
+      "loc": "Amsterdam",
+      "type": "event",
+      "date": "2026-11-21",
+      "url": "https://www.vanfannyfreytag.com/programme/curator-talk-imara-limon-thom-oosterhof-nadeche-remst-and-elise-van-staveren-what-does-it-mean-to-curate-today"
+    },
+    {
+      "id": "scr-de-appel-vijf-decennia-de-appel-f",
+      "title": "Vijf Decennia de Appel: Filmvertoning & Paneldiscussie",
       "artist": null,
       "venue": "De Appel",
       "loc": "Amsterdam",
       "type": "event",
       "date": "2026-11-21",
-      "url": "https://www.deappel.nl/nl/archive/events/1361-5-decennia-de-appel-filmvertoning-amp-paneldiscussie"
+      "url": "https://www.deappel.nl/nl/archive/events/1361-vijf-decennia-de-appel-filmvertoning-amp-paneldiscussie"
+    },
+    {
+      "id": "scr-woonhuis-de-atel-i-think-i-don-t-i-do",
+      "title": "I think. I don't. I do",
+      "artist": null,
+      "venue": "Woonhuis De Ateliers",
+      "loc": "Amsterdam",
+      "type": "exhibition",
+      "date": "2026-11-21",
+      "url": "https://woonhuis.de-ateliers.nl/nl/programma/i-think-i-dont-i-do"
     },
     {
       "id": "scr-cobra-museum-pat-oleszko-fool-disclos",
@@ -753,6 +813,26 @@
       "url": "https://arti.nl/agenda/22-11-2026/savitri-frederic-voorn"
     },
     {
+      "id": "scr-hartwig-proxy-full-moon-frost-moon",
+      "title": "Full Moon - Frost Moon",
+      "artist": null,
+      "venue": "Hartwig Proxy",
+      "loc": "Amsterdam",
+      "type": "event",
+      "date": "2026-11-24",
+      "url": "https://www.hartwigproxy.nl/programme/full-moon-screening-guillaume-dustan"
+    },
+    {
+      "id": "scr-in-debt-portfolio-night-willem-d",
+      "title": "Portfolio night: Willem de Kooning",
+      "artist": null,
+      "venue": "In Debt",
+      "loc": "Amsterdam",
+      "type": "event",
+      "date": "2026-11-26",
+      "url": "https://indebt.info/#2026-11-26-willem-de-kooning"
+    },
+    {
       "id": "scr-raam-art-space-meeus-van-dis-this-is-no",
       "title": "MEEUS VAN DIS - THIS IS NOT A CRISIS",
       "artist": "Meeus van Dis",
@@ -763,8 +843,8 @@
       "url": "https://www.raamartspace.com/exhibitions/meeus-van-dis"
     },
     {
-      "id": "scr-hartwig-proxy-architecture-tour-van-eex",
-      "title": "Architecture Tour – Van Eesteren Museum x Hartwig Art Foundation",
+      "id": "scr-hartwig-proxy-architecture-tour-van-ee",
+      "title": "Architecture Tour - Van Eesteren Museum x Hartwig Art Foundation",
       "artist": null,
       "venue": "Hartwig Proxy",
       "loc": "Amsterdam",
@@ -793,14 +873,24 @@
       "url": "https://www.galerieonrust.nl/news/emma-talbot-can-joy-be-a-rebellious-act-november-28-december-24-2026"
     },
     {
+      "id": "scr-hartwig-proxy-sampler-pulled-thread-ma",
+      "title": "Sampler – pulled thread - Masaki Komoto",
+      "artist": "Masaki Komoto",
+      "venue": "Hartwig Proxy",
+      "loc": "Amsterdam",
+      "type": "event",
+      "date": "2026-11-29",
+      "url": "https://www.hartwigproxy.nl/programme/proxy-x-textile-initiative-masaki-komoto"
+    },
+    {
       "id": "scr-arti-et-amicitia-i-m-wendela-gevers-deyno",
       "title": "I.M. Wendela Gevers Deynoot",
       "artist": "Wendela Gevers Deynoot",
       "venue": "Arti et Amicitiae",
       "loc": "Amsterdam",
       "type": "exhibition",
-      "date": "2026-11-30",
-      "url": "https://arti.nl/agenda/30-11-2026/im-wendela-gevers-deynoot"
+      "date": "2026-12-02",
+      "url": "https://arti.nl/agenda/02-12-2026/im-wendela-gevers-deynoot"
     },
     {
       "id": "scr-oude-kerk-silence-74-sara-plusplus",
@@ -813,18 +903,48 @@
       "url": "https://www.oudekerk.nl/nu-te-zien/evenementen/silence-74-sara-plusplus/45862"
     },
     {
+      "id": "scr-arti-et-amicitia-de-salon-2026",
+      "title": "DE SALON 2026",
+      "artist": null,
+      "venue": "Arti et Amicitiae",
+      "loc": "Amsterdam",
+      "type": "exhibition",
+      "date": "2026-12-04",
+      "url": "https://arti.nl/agenda/04-12-2026/de-salon-2026"
+    },
+    {
+      "id": "scr-in-debt-presentation-dirty-art-d",
+      "title": "Presentation: Dirty Art Department – mid-term presentations – Sandberg Instituut",
+      "artist": null,
+      "venue": "In Debt",
+      "loc": "Amsterdam",
+      "type": "event",
+      "date": "2026-12-04",
+      "url": "https://indebt.info/#2026-12-04-dirty-art-department"
+    },
+    {
+      "id": "scr-arti-et-amicitia-kleinkunst-en-cabaretavo",
+      "title": "Kleinkunst- en cabaretavond",
+      "artist": null,
+      "venue": "Arti et Amicitiae",
+      "loc": "Amsterdam",
+      "type": "event",
+      "date": "2026-12-08",
+      "url": "https://arti.nl/agenda/08-12-2026/kleinkunst-en-cabaretavond"
+    },
+    {
       "id": "scr-gallery-vriend-v-art-antwerp",
       "title": "Art Antwerp",
       "artist": null,
       "venue": "Gallery Vriend van Bavink",
-      "loc": "Amsterdam",
+      "loc": "Antwerpen",
       "type": "fair",
       "date": "2026-12-10",
       "url": "https://vanbavinkgallery.com/exhibitions/art-antwerp"
     },
     {
       "id": "scr-hartwig-proxy-gingerbread-competition",
-      "title": "Gingerbread Competition 2026: Succeeding the built",
+      "title": "Gingerbread Competition 2026 - Succeeding the built",
       "artist": null,
       "venue": "Hartwig Proxy",
       "loc": "Amsterdam",
@@ -873,6 +993,16 @@
       "url": "https://arti.nl/agenda/21-01-2027/arti-shuffle-jonge-musici-gaia-szames-lorant-illyes"
     },
     {
+      "id": "scr-gallery-vriend-v-sam-andrea-feed-the-worl",
+      "title": "Sam Andrea - FEED THE WORLD",
+      "artist": "Sam Andrea",
+      "venue": "Gallery Vriend van Bavink",
+      "loc": "Amsterdam",
+      "type": "exhibition",
+      "date": "2027-01-29",
+      "url": "https://vanbavinkgallery.com/exhibitions/sam-andrea-feed-the-world"
+    },
+    {
       "id": "scr-stedelijk-museum-luc-tuymans-silent-music",
       "title": "LUC TUYMANS SILENT MUSIC",
       "artist": "Luc Tuymans",
@@ -893,8 +1023,8 @@
       "url": "https://www.stedelijk.nl/en/exhibitions/abn-amro-kunstprijs-2026-en"
     },
     {
-      "id": "scr-stedelijk-museum-ibrahim-mahama-zilijafa",
-      "title": "Ibrahim Mahama Zilijafa",
+      "id": "scr-stedelijk-museum-ibrahim-mahama-zilijifa",
+      "title": "Ibrahim Mahama Zilijifa",
       "artist": "Ibrahim Mahama",
       "venue": "Stedelijk Museum",
       "loc": "Amsterdam",
